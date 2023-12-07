@@ -106,9 +106,9 @@ This compilation focuses on spatio-temporal prediction papers. Note that the met
 
 48. **Large-scale Urban Cellular Traffic Generation via Knowledge-Enhanced GANs with Multi-Periodic Patterns**.  *Shuodi Hui, Huandong Wang, Tong Li, Xinghao Yang, Xing Wang, Junlan Feng, Lin Zhu, Chao Deng, Pan Hui, Depeng Jin, Yong Li*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599853)]
 
-49. **iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation**.  *Jindong Han, Hao Liu, Shui Liu, Xi Chen, Naiqiang Tan, Hua Chai, Hui Xiong*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599842)]
+49. **A Preference-aware Meta-optimization Framework for Personalized Vehicle Energy Consumption Estimation**.  *Siqi Lai, Weijia Zhang, Hao Liu*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599767)]
 
-50. **A Preference-aware Meta-optimization Framework for Personalized Vehicle Energy Consumption Estimation**.  *Siqi Lai, Weijia Zhang, Hao Liu*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599767)]
+50. **iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation**.  *Jindong Han, Hao Liu, Shui Liu, Xi Chen, Naiqiang Tan, Hua Chai, Hui Xiong*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599842)]
 
 51. **DRL4Route: A Deep Reinforcement Learning Framework for Pick-up and Delivery Route Prediction**.  *Xiaowei Mao, Haomin Wen, Hengrui Zhang, Huaiyu Wan, Lixia Wu, Jianbin Zheng, Haoyuan Hu, Youfang Lin*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599811)]
 
@@ -126,99 +126,75 @@ This compilation focuses on spatio-temporal prediction papers. Note that the met
 
 58. **Maintaining the Status Quo: Capturing Invariant Relations for OOD Spatiotemporal Learning**.  *Zhengyang Zhou, Qihe Huang, Kuo Yang, Kun Wang, Xu Wang, Yudong Zhang, Yuxuan Liang, Yang Wang*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599421)]
 
-59. **Large-scale Urban Cellular Traffic Generation via Knowledge-Enhanced GANs with Multi-Periodic Patterns**.  *Shuodi Hui, Huandong Wang, Tong Li, Xinghao Yang, Xing Wang, Junlan Feng, Lin Zhu, Chao Deng, Pan Hui, Depeng Jin, Yong Li*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599853)]
+59. **ILRoute: A Graph-based Imitation Learning Method to Unveil Riders' Routing Strategies in Food Delivery Service**.  *Tao Feng, Huan Yan, Huandong Wang, Wenzhen Huang, Yuyang Han, Hongsen Liao, Jinghua Hao, Yong Li*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599844)]
 
-60. **Automatic Temporal Relation in Multi-Task Learning**.  *Menghui Zhou, Po Yang*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599261)]
+60. **Deep Transfer Learning for City-scale Cellular Traffic Generation through Urban Knowledge Graph**.  *Shiyuan Zhang, Tong Li, Shuodi Hui, Guangyu Li, Yanping Liang, Li Yu, Depeng Jin, Yong Li*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599801)]
 
-61. **Generative Causal Interpretation Model for Spatio-Temporal Representation Learning**.  *Yu Zhao, Pan Deng, Junting Liu, Xiaofeng Jia, Jianwei Zhang*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599363)]
+61. **QTNet: Theory-based Queue Length Prediction for Urban Traffic**.  *Ryu Shirakami, Toshiya Kitahara, Koh Takeuchi, Hisashi Kashima*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599890)]
 
-62. **ILRoute: A Graph-based Imitation Learning Method to Unveil Riders' Routing Strategies in Food Delivery Service**.  *Tao Feng, Huan Yan, Huandong Wang, Wenzhen Huang, Yuyang Han, Hongsen Liao, Jinghua Hao, Yong Li*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599844)]
+62. **Spatio-temporal Diffusion Point Processes**.  *Yuan Yuan, Jingtao Ding, Chenyang Shao, Depeng Jin, Yong Li*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599511)]
 
-63. **iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation**.  *Jindong Han, Hao Liu, Shui Liu, Xi Chen, Naiqiang Tan, Hua Chai, Hui Xiong*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599842)]
+63. **Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities**.  *Yilun Jin, Kai Chen, Qiang Yang*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599529)]
 
-64. **Deep Transfer Learning for City-scale Cellular Traffic Generation through Urban Knowledge Graph**.  *Shiyuan Zhang, Tong Li, Shuodi Hui, Guangyu Li, Yanping Liang, Li Yu, Depeng Jin, Yong Li*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599801)]
+64. **MM-DAG: Multi-task DAG Learning for Multi-modal Data - with Application for Traffic Congestion Analysis**.  *Tian Lan, Ziyue Li, Zhishuai Li, Lei Bai, Man Li, Fugee Tsung, Wolfgang Ketter, Rui Zhao, Chen Zhang*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599436)]
 
-65. **QTNet: Theory-based Queue Length Prediction for Urban Traffic**.  *Ryu Shirakami, Toshiya Kitahara, Koh Takeuchi, Hisashi Kashima*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599890)]
+65. **Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training**.  *Fan Liu, Weijia Zhang, Hao Liu*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599492)]
 
-66. **Spatio-temporal Diffusion Point Processes**.  *Yuan Yuan, Jingtao Ding, Chenyang Shao, Depeng Jin, Yong Li*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599511)]
+66. **ST-iFGSM: Enhancing Robustness of Human Mobility Signature Identification Model via Spatial-Temporal Iterative FGSM**.  *Mingzhi Hu, Xin Zhang, Yanhua Li, Xun Zhou, Jun Luo*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599513)]
 
-67. **Spatio-temporal Diffusion Point Processes**.  *Yuan Yuan, Jingtao Ding, Chenyang Shao, Depeng Jin, Yong Li*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599511)]
+67. **Graph Neural Processes for Spatio-Temporal Extrapolation**.  *Junfeng Hu, Yuxuan Liang, Zhencheng Fan, Hongyang Chen, Yu Zheng, Roger Zimmermann*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599372)]
 
-68. **Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities**.  *Yilun Jin, Kai Chen, Qiang Yang*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599529)]
+68. **Mitigating Action Hysteresis in Traffic Signal Control with Traffic Predictive Reinforcement Learning**.  *Xiao Han, Xiangyu Zhao, Liang Zhang, Wanyu Wang*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599528)]
 
-69. **MM-DAG: Multi-task DAG Learning for Multi-modal Data - with Application for Traffic Congestion Analysis**.  *Tian Lan, Ziyue Li, Zhishuai Li, Lei Bai, Man Li, Fugee Tsung, Wolfgang Ketter, Rui Zhao, Chen Zhang*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599436)]
+69. **Frigate: Frugal Spatio-temporal Forecasting on Road Networks**.  *Mridul Gupta, Hariprasad Kodamana, Sayan Ranu*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599357)]
 
-70. **Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training**.  *Fan Liu, Weijia Zhang, Hao Liu*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599492)]
+70. **Localised Adaptive Spatial-Temporal Graph Neural Network**.  *Wenying Duan, Xiaoxi He, Zimu Zhou, Lothar Thiele, Hong Rao*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599418)]
 
-71. **ST-iFGSM: Enhancing Robustness of Human Mobility Signature Identification Model via Spatial-Temporal Iterative FGSM**.  *Mingzhi Hu, Xin Zhang, Yanhua Li, Xun Zhou, Jun Luo*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599513)]
+71. **Deep Bayesian Active Learning for Accelerating Stochastic Simulation**.  *Dongxia Wu, Ruijia Niu, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599300)]
 
-72. **Graph Neural Processes for Spatio-Temporal Extrapolation**.  *Junfeng Hu, Yuxuan Liang, Zhencheng Fan, Hongyang Chen, Yu Zheng, Roger Zimmermann*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599372)]
+72. **Context-aware Event Forecasting via Graph Disentanglement**.  *Yunshan Ma, Chenchen Ye, Zijian Wu, Xiang Wang, Yixin Cao, Tat-Seng Chua*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599285)]
 
-73. **Mitigating Action Hysteresis in Traffic Signal Control with Traffic Predictive Reinforcement Learning**.  *Xiao Han, Xiangyu Zhao, Liang Zhang, Wanyu Wang*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599528)]
+73. **Pattern Expansion and Consolidation on Evolving Graphs for Continual Traffic Prediction**.  *Binwu Wang, Yudong Zhang, Xu Wang, Pengkun Wang, Zhengyang Zhou, Lei Bai, Yang Wang*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599463)]
 
-74. **Frigate: Frugal Spatio-temporal Forecasting on Road Networks**.  *Mridul Gupta, Hariprasad Kodamana, Sayan Ranu*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599357)]
+74. **Causal Effect Estimation on Hierarchical Spatial Graph Data**.  *Koh Takeuchi, Ryo Nishida, Hisashi Kashima, Masaki Onishi*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599269)]
 
-75. **Localised Adaptive Spatial-Temporal Graph Neural Network**.  *Wenying Duan, Xiaoxi He, Zimu Zhou, Lothar Thiele, Hong Rao*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599418)]
+75. **Commonsense Knowledge Graph towards Super APP and Its Applications in Alipay**.  *Xiaoling Zang, Binbin Hu, Jun Chu, Zhiqiang Zhang, Guannan Zhang, Jun Zhou, Wenliang Zhong*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599791)]
 
-76. **Deep Bayesian Active Learning for Accelerating Stochastic Simulation**.  *Dongxia Wu, Ruijia Niu, Matteo Chinazzi, Alessandro Vespignani, Yi-An Ma, Rose Yu*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599300)]
+76. **Learning Multivariate Hawkes Process via Graph Recurrent Neural Network**.  *Kanghoon Yoon, Youngjun Im, Jingyu Choi, Taehwan Jeong, Jinkyoo Park*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599857)]
 
-77. **Context-aware Event Forecasting via Graph Disentanglement**.  *Yunshan Ma, Chenchen Ye, Zijian Wu, Xiang Wang, Yixin Cao, Tat-Seng Chua*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599285)]
+77. **A Predict-Then-Optimize Couriers Allocation Framework for Emergency Last-mile Logistics**.  *Kaiwen Xia, Li Lin, Shuai Wang, Haotian Wang, Desheng Zhang, Tian He*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599766)]
 
-78. **Pattern Expansion and Consolidation on Evolving Graphs for Continual Traffic Prediction**.  *Binwu Wang, Yudong Zhang, Xu Wang, Pengkun Wang, Zhengyang Zhou, Lei Bai, Yang Wang*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599463)]
+78. **NEON: Living Needs Prediction System in Meituan**.  *Xiaochong Lan, Chen Gao, Shiqi Wen, Xiuqi Chen, Yingge Che, Han Zhang, Huazhou Wei, Hengliang Luo, Yong Li*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599874)]
 
-79. **Causal Effect Estimation on Hierarchical Spatial Graph Data**.  *Koh Takeuchi, Ryo Nishida, Hisashi Kashima, Masaki Onishi*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599269)]
+79. **Online Few-Shot Time Series Classification for Aftershock Detection**.  *Sheng Zhong, Vinicius M.A. Souza, Glenn Eli Baker, Abdullah Mueen*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599879)]
 
-80. **Learning Multivariate Hawkes Process via Graph Recurrent Neural Network**.  *Kanghoon Yoon, Youngjun Im, Jingyu Choi, Taehwan Jeong, Jinkyoo Park*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599857)]
+80. **Removing Camouflage and Revealing Collusion: Leveraging Gang-crime Pattern in Fraudster Detection**.  *Lewen Wang, Haozhe Zhao, Cunguang Feng, Weiqing Liu, Congrui Huang, Marco Santoni, Manuel Cristofaro, Paola Jafrancesco, Jiang Bian*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599895)]
 
-81. **Commonsense Knowledge Graph towards Super APP and Its Applications in Alipay**.  *Xiaoling Zang, Binbin Hu, Jun Chu, Zhiqiang Zhang, Guannan Zhang, Jun Zhou, Wenliang Zhong*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599791)]
+81. **Automated Spatio-Temporal Graph Contrastive Learning**.  *Qianru Zhang, Chao Huang, Lianghao Xia, Zheng Wang, Zhonghang Li, Siuming Yiu*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583304)]
 
-82. **A Predict-Then-Optimize Couriers Allocation Framework for Emergency Last-mile Logistics**.  *Kaiwen Xia, Li Lin, Shuai Wang, Haotian Wang, Desheng Zhang, Tian He*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599766)]
+82. **LINet: A Location and Intention-Aware Neural Network for Hotel Group Recommendation**.  *Ruitao Zhu, Detao Lv, Yao Yu, Ruihao Zhu, Zhenzhe Zheng, Ke Bu, Quan Lu, Fan Wu*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583202)]
 
-83. **NEON: Living Needs Prediction System in Meituan**.  *Xiaochong Lan, Chen Gao, Shiqi Wen, Xiuqi Chen, Yingge Che, Han Zhang, Huazhou Wei, Hengliang Luo, Yong Li*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599874)]
+83. **INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging**.  *Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, Jianzhong Qi, Chaochao Chen, Longbiao Chen*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583525)]
 
-84. **Online Few-Shot Time Series Classification for Aftershock Detection**.  *Sheng Zhong, Vinicius M.A. Souza, Glenn Eli Baker, Abdullah Mueen*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599879)]
+84. **Interpreting wealth distribution via poverty map inference using multimodal data**.  *Lisette Espín-Noboa, János Kertész, Márton Karsai*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583862)]
 
-85. **Real Time Index and Search Across Large Quantities of GNN Experts for Low Latency Online Learning**.  *Johan Kok Zhi Kang, Sien Yi Tan, Bingsheng He, Zhen Zhang*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599893)]
+85. **Mapping Flood Exposure, Damage, and Population Needs Using Remote and Social Sensing: A Case Study of 2022 Pakistan Floods**.  *Zainab Akhtar, Umair Qazi, Rizwan Sadiq, Aya El-Sakka, Muhammad Sajjad, Ferda Ofli, Muhammad Imran*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583881)]
 
-86. **A Preference-aware Meta-optimization Framework for Personalized Vehicle Energy Consumption Estimation**.  *Siqi Lai, Weijia Zhang, Hao Liu*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599767)]
+86. **Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction**.  *Yu Liu, Xin Zhang, Jingtao Ding, Yanxin Xi, Yong Li*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583876)]
 
-87. **Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi**.  *Hao Liu, Wenzhao Jiang, Shui Liu, Xi Chen*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599925)]
+87. **Learning Social Meta-knowledge for Nowcasting Human Mobility in Disaster**.  *Renhe Jiang, Zhaonan Wang, Yudong Tao, Chuang Yang, Xuan Song, Ryosuke Shibasaki, Shu-Ching Chen, Mei-Ling Shyu*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583991)]
 
-88. **Learning Joint Relational Co-evolution in Spatial-Temporal Knowledge Graph for SMEs Supply Chain Prediction**.  *Youru Li, Zhenfeng Zhu, Xiaobo Guo, Linxun Chen, Zhouyin Wang, Yinmeng Wang, Bing Han, Yao Zhao*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599855)]
+88. **Learning to Simulate Crowd Trajectories with Graph Networks**.  *Hongzhi Shi, Quanming Yao, Yong Li*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583858)]
 
-89. **DisasterNet: Causal Bayesian Networks with Normalizing Flows for Cascading Hazards Estimation from Satellite Imagery**.  *Xuechun Li, Paula M. Bürgi, Wei Ma, Hae Young Noh, David Jay Wald, Susu Xu*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599807)]
+89. **Generalizing Graph Neural Network across Graphs and Time**.  *Zhihao Wen*. ***WSDM 2023*** [[pdf](https://www.doi.org/10.1145/3539597.3572986)]
 
-90. **Removing Camouflage and Revealing Collusion: Leveraging Gang-crime Pattern in Fraudster Detection**.  *Lewen Wang, Haozhe Zhao, Cunguang Feng, Weiqing Liu, Congrui Huang, Marco Santoni, Manuel Cristofaro, Paola Jafrancesco, Jiang Bian*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599895)]
+90. **Metropolitan-scale Mobility Digital Twin**.  *Zipei Fan, Renhe Jiang, Ryosuke Shibasaki*. ***WSDM 2023*** [[pdf](https://www.doi.org/10.1145/3539597.3575782)]
 
-91. **QTNet: Theory-based Queue Length Prediction for Urban Traffic**.  *Ryu Shirakami, Toshiya Kitahara, Koh Takeuchi, Hisashi Kashima*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599890)]
+91. **Towards an Event-Aware Urban Mobility Prediction System**.  *Zhaonan Wang, Renhe Jiang, Zipei Fan, Xuan Song, Ryosuke Shibasaki*. ***WSDM 2023*** [[pdf](https://www.doi.org/10.1145/3539597.3575783)]
 
-92. **Deep Transfer Learning for City-scale Cellular Traffic Generation through Urban Knowledge Graph**.  *Shiyuan Zhang, Tong Li, Shuodi Hui, Guangyu Li, Yanping Liang, Li Yu, Depeng Jin, Yong Li*. ***KDD 2023*** [[pdf](https://www.doi.org/10.1145/3580305.3599801)]
+92. **A Multi-graph Fusion Based Spatiotemporal Dynamic Learning Framework**.  *Xu Wang, Lianliang Chen, Hongbo Zhang, Pengkun Wang, Zhengyang Zhou, Yang Wang*. ***WSDM 2023*** [[pdf](https://www.doi.org/10.1145/3539597.3570396)]
 
-93. **Automated Spatio-Temporal Graph Contrastive Learning**.  *Qianru Zhang, Chao Huang, Lianghao Xia, Zheng Wang, Zhonghang Li, Siuming Yiu*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583304)]
-
-94. **LINet: A Location and Intention-Aware Neural Network for Hotel Group Recommendation**.  *Ruitao Zhu, Detao Lv, Yao Yu, Ruihao Zhu, Zhenzhe Zheng, Ke Bu, Quan Lu, Fan Wu*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583202)]
-
-95. **INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging**.  *Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, Jianzhong Qi, Chaochao Chen, Longbiao Chen*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583525)]
-
-96. **Interpreting wealth distribution via poverty map inference using multimodal data**.  *Lisette Espín-Noboa, János Kertész, Márton Karsai*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583862)]
-
-97. **Mapping Flood Exposure, Damage, and Population Needs Using Remote and Social Sensing: A Case Study of 2022 Pakistan Floods**.  *Zainab Akhtar, Umair Qazi, Rizwan Sadiq, Aya El-Sakka, Muhammad Sajjad, Ferda Ofli, Muhammad Imran*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583881)]
-
-98. **Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction**.  *Yu Liu, Xin Zhang, Jingtao Ding, Yanxin Xi, Yong Li*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583876)]
-
-99. **Learning Social Meta-knowledge for Nowcasting Human Mobility in Disaster**.  *Renhe Jiang, Zhaonan Wang, Yudong Tao, Chuang Yang, Xuan Song, Ryosuke Shibasaki, Shu-Ching Chen, Mei-Ling Shyu*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583991)]
-
-100. **Learning to Simulate Crowd Trajectories with Graph Networks**.  *Hongzhi Shi, Quanming Yao, Yong Li*. ***WWW 2023*** [[pdf](https://www.doi.org/10.1145/3543507.3583858)]
-
-101. **Generalizing Graph Neural Network across Graphs and Time**.  *Zhihao Wen*. ***WSDM 2023*** [[pdf](https://www.doi.org/10.1145/3539597.3572986)]
-
-102. **Metropolitan-scale Mobility Digital Twin**.  *Zipei Fan, Renhe Jiang, Ryosuke Shibasaki*. ***WSDM 2023*** [[pdf](https://www.doi.org/10.1145/3539597.3575782)]
-
-103. **Towards an Event-Aware Urban Mobility Prediction System**.  *Zhaonan Wang, Renhe Jiang, Zipei Fan, Xuan Song, Ryosuke Shibasaki*. ***WSDM 2023*** [[pdf](https://www.doi.org/10.1145/3539597.3575783)]
-
-104. **A Multi-graph Fusion Based Spatiotemporal Dynamic Learning Framework**.  *Xu Wang, Lianliang Chen, Hongbo Zhang, Pengkun Wang, Zhengyang Zhou, Yang Wang*. ***WSDM 2023*** [[pdf](https://www.doi.org/10.1145/3539597.3570396)]
-
-105. **Inductive Graph Transformer for Delivery Time Estimation**.  *Xin Zhou, Jinglong Wang, Yong Liu, Xingyu Wu, Zhiqi Shen, Cyril Leung*. ***WSDM 2023*** [[pdf](https://www.doi.org/10.1145/3539597.3570409)]
+93. **Inductive Graph Transformer for Delivery Time Estimation**.  *Xin Zhou, Jinglong Wang, Yong Liu, Xingyu Wu, Zhiqi Shen, Cyril Leung*. ***WSDM 2023*** [[pdf](https://www.doi.org/10.1145/3539597.3570409)]
 
 ## 2022
 
