@@ -2,7 +2,8 @@
 
 This compilation focuses on spatio-temporal prediction papers. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. Currently, we've collected papers from conferences such as KDD, NeurIPS, AAAI, WWW, ICDE, IJCAI, WSDM, and CIKM, with ongoing efforts to expand our repository.
 
-- **New! Dec. 17, 2023: Add IJCAI 2020, AAAI 2020-2022 and NeurIPS 2020!**
+- **New! Dec. 24, 2023: Add NeurIPS 2023!**
+- Dec. 17, 2023: Add IJCAI 2020, AAAI 2020-2022 and NeurIPS 2020.
 - Dec. 16, 2023: Add IJCAI 2021, IJCAI 2022 and NeurIPS 2021.
 - Dec. 15, 2023: Add IJCAI 2023 and NeurIPS 2022.
 - Dec. 14, 2023: Add AAAI 2023.
@@ -11,7 +12,58 @@ This compilation focuses on spatio-temporal prediction papers. Note that the met
 - Dec. 10, 2023: Add WSDM 2022 and WWW 2021.
 - Dec. 9, 2023: Add WSDM 2021, WSDM 2020, WWW 2020, and CIKM 2020.
 - Dec. 8, 2023: Add KDD 2022, KDD 2021, and KDD 2020.
-- Dec. 7, 2023: Add CIKM 2023 and WWW 2022.
+
+## NeurIPS 2023
+
+1. **Automatic Integration for Spatiotemporal Neural Point Processes**.  *Zihao Zhou (University of California, San Diego), Rose Yu*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=Deb1yP1zMN)]
+
+2. **OceanBench: The Sea Surface Height Edition**.  *J. Emmanuel Johnson (University of Valencia), Quentin Febvre, Anastasiia Gorbunova, Sam Metref, Maxime Ballarotta, Julien Le Sommer, ronan fablet*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=rXi13M3PKc)]
+
+3. **PreDiff: Precipitation Nowcasting with Latent Diffusion Models**.  *Zhihan Gao (The Hong Kong University of Science and Technology), Xingjian Shi, Boran Han, Hao Wang, Xiaoyong Jin, Danielle Maddix, Yi Zhu, Mu Li, Yuyang (Bernie) Wang*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=Gh67ZZ6zkS)]
+
+4. **Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis**.  *Abhinav Nippani (Northeastern University), Dongyue Li, Haotian Ju, Haris Koutsopoulos, Hongyang Zhang*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=UQ8pDKcXTq)]
+
+5. **SubseasonalClimateUSA: A Dataset for Subseasonal Forecasting and Benchmarking**.  *Soukayna Mouatadid (University of Toronto), Paulo Orenstein, Genevieve Flaspohler, Miruna Oprescu, Judah Cohen, Franklyn Wang, Sean Knight, Maria Geogdzhayeva, Sam Levang, Ernest Fraenkel, Lester Mackey*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=pWkrU6raMt)]
+
+6. **Mesogeos: A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean**.  *Spyridon Kondylatos (National Observatory of Athens), Ioannis Prapas, Gustau Camps-Valls, Ioannis Papoutsis*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=VH1vxapUTs)]
+
+7. **Digital Typhoon: Long-term Satellite Image Dataset for the Spatio-Temporal Modeling of Tropical Cyclones**.  *Asanobu Kitamoto (ROIS-DS Center for Open Data in the Humanities / National Institute of Informatics), Jared Hwang, Bastien Vuillod, Lucas Gautier, Yingtao Tian, Tarin Clanuwat*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=9gLnjw8DfA)]
+
+8. **ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation**.  *Sungduk Yu (UC Irvine), Walter Hannah, Liran Peng, Jerry Lin, Mohamed Aziz Bhouri, Ritwik Gupta, Björn Lütjens, Justus C. Will, Gunnar Behrens, Julius Busecke, Nora Loose, Charles Stern, Tom Beucler, Bryce Harrop, Benjamin Hillman, Andrea Jenney, Savannah L. Ferretti, Nana Liu, Animashree Anandkumar, Noah Brenowitz, Veronika Eyring, Nicholas Geneva, Pierre Gentine, Stephan Mandt, Jaideep Pathak, Akshay Subramaniam, Carl Vondrick, Rose Yu, Laure Zanna, Tian Zheng, Ryan Abernathey, Fiaz Ahmed, David Bader, Pierre Baldi, Elizabeth Barnes, Christopher Bretherton, Peter Caldwell, Wayne Chuang, Yilun Han, YU HUANG, Fernando Iglesias-Suarez, Sanket Jantre, Karthik Kashinath, Marat Khairoutdinov, Thorsten Kurth, Nicholas Lutsko, Po-Lun Ma, Griffin Mooers, J. David Neelin, David Randall, Sara Shamekh, Mark Taylor, Nathan Urban, Janni Yuval, Guang Zhang, Mike Pritchard*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=W5If9P1xqO)]
+
+9. **Improving *day-ahead* Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal Context**.  *Oussama Boussif (Mila), Ghait Boukachab, Dan Assouline, Stefano Massaroli, Tianle Yuan, Loubna Benabbou, Yoshua Bengio*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=x5ZruOa4ax)]
+
+10. **DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model**.  *Yuanshao Zhu (Southern University of Science and Technology), Yongchao Ye, Shiyao Zhang, Xiangyu Zhao, James Yu*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=ykMdzevPkJ)]
+
+11. **Taming Local Effects in Graph-based Spatiotemporal Forecasting**.  *Andrea Cini (The Swiss AI Lab IDSIA, USI), Ivan Marisca, Daniele Zambon, Cesare Alippi*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=x2PH6q32LR)]
+
+12. **GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks**.  *Zhonghang Li (South China University of Technology), Lianghao Xia, Yong Xu, Chao Huang*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=nMH5cUaSj8)]
+
+13. **Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems**.  *Fiona Lippert (University of Amsterdam), Bart Kranstauber, Emiel van Loon, Patrick Forré*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=dcw7qRUuD8)]
+
+14. **BuildingsBench: A Large-Scale Dataset of 900K Buildings and Benchmark for Short-Term Load Forecasting**.  *Patrick Emami (National Renewable Energy Lab), Abhijeet Sahu, Peter Graf*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=c5rqd6PZn6)]
+
+15. **WildfireSpreadTS: A dataset of multi-modal time series for wildfire spread prediction**.  *Sebastian Gerard (KTH Royal Institute of Technology), Yu Zhao, Josephine Sullivan*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=RgdGkPRQ03)]
+
+16. **Deciphering Spatio-Temporal Graph Forecasting: A Causal Lens and Treatment**.  *Yutong Xia (National University of Singapore), Yuxuan Liang, Haomin Wen, Xu Liu, Kun Wang, Zhengyang Zhou, Roger Zimmermann*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=17Zkztjlgt)]
+
+17. **UUKG: Unified Urban Knowledge Graph Dataset for Urban Spatiotemporal Prediction**.  *Yansong Ning (The Hong Kong University of Science and Technology (Guangzhou)), Hao Liu, Hao Wang, Zhenyu Zeng, Hui Xiong*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=u2cXRGm95Y)]
+
+18. **AirDelhi: Fine-Grained Spatio-Temporal Particulate Matter Dataset From Delhi For ML based Modeling**.  *Sachin Chauhan (IIT Delhi), Zeel Bharatkumar Patel, Sayan Ranu, Rijurekha Sen, Nipun Batra*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=n2wW7goGky)]
+
+19. **DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting**.  *Salva Rühling Cachay (UC San Diego), Bo Zhao, Hailey Joren, Rose Yu*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=WRGldGm5Hz)]
+
+20. **OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**.  *Cheng Tan (Westlake University), Siyuan Li, Zhangyang Gao, Wenfei Guan, Zedong Wang, Zicheng Liu, Lirong Wu, Stan Z. Li*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=9gkrbrFzZj)]
+
+21. **SpatialRank: Urban Event Ranking with NDCG Optimization on Spatiotemporal Data**.  *BANG AN (University of Iowa), Xun Zhou, YONGJIAN ZHONG, Tianbao Yang*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=ks7Mf5lzSx)]
+
+22. **ClimateSet: A Large-Scale Climate Model Dataset for Machine Learning**.  *Julia Kaltenborn (Mila & McGill University), Charlotte Lange, Venkatesh Ramesh, Philippe Brouillard, Yaniv Gurwicz, Chandni Nagda, Jakob Runge, Peer Nowack, David Rolnick*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=3z9YV29Ogn)]
+
+23. **LargeST: A Benchmark Dataset for Large-Scale Traffic Forecasting**.  *Xu Liu (National University of Singapore), Yutong Xia, Yuxuan Liang, Junfeng Hu, Yiwei Wang, LEI BAI, Chao Huang, Zhenguang Liu, Bryan Hooi, Roger Zimmermann*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=loOw3oyhFW)]
+
+24. **BioMassters: A Benchmark Dataset for Forest Biomass Estimation using Multi-modal Satellite Time-series**.  *Andrea Nascetti (University of Liège), Ritu Yadav, Kirill Brodt, Qixun Qu, Hongwei Fan, Yuri Shendryk, Isha Shah, Christine Chung*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=hrWsIC4Cmz)]
+
+25. **Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes**.  *YIXUAN ZHANG (University of Technology Sydney), Quyu Kong, Feng Zhou*. ***NeurIPS 2023*** [[link](https://openreview.net/forum?id=Yvpenkym8A)]
 
 ## KDD 2023
 
@@ -74,6 +126,62 @@ This compilation focuses on spatio-temporal prediction papers. Note that the met
 29. **Online Few-Shot Time Series Classification for Aftershock Detection**.  *Sheng Zhong (The University of New Mexico, Albuquerque), Vinicius M.A. Souza, Glenn Eli Baker, Abdullah Mueen*. ***KDD 2023*** [[link](https://www.doi.org/10.1145/3580305.3599879)]
 
 30. **A Data-driven Region Generation Framework for Spatiotemporal Transportation Service Management**.  *Liyue Chen (Peking University, Beijing), Jiangyi Fang, Zhe Yu, Yongxin Tong, Shaosheng Cao, Leye Wang*. ***KDD 2023*** [[link](https://www.doi.org/10.1145/3580305.3599760)]
+
+## WWW 2023
+
+1. **Automated Spatio-Temporal Graph Contrastive Learning**.  *Qianru Zhang (The University of Hong Kong, Hong Kong), Chao Huang, Lianghao Xia, Zheng Wang, Zhonghang Li, Siuming Yiu*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583304)]
+
+2. **INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging**.  *Chuanpan Zheng (School of Informatics, Xiamen University), Xiaoliang Fan, Cheng Wang, Jianzhong Qi, Chaochao Chen, Longbiao Chen*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583525)]
+
+3. **LINet: A Location and Intention-Aware Neural Network for Hotel Group Recommendation**.  *Ruitao Zhu (Shanghai Jiao Tong University, China), Detao Lv, Yao Yu, Ruihao Zhu, Zhenzhe Zheng, Ke Bu, Quan Lu, Fan Wu*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583202)]
+
+4. **Learning Social Meta-knowledge for Nowcasting Human Mobility in Disaster**.  *Renhe Jiang (The University of Tokyo, Japan), Zhaonan Wang, Yudong Tao, Chuang Yang, Xuan Song, Ryosuke Shibasaki, Shu-Ching Chen, Mei-Ling Shyu*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583991)]
+
+5. **Interpreting wealth distribution via poverty map inference using multimodal data**.  *Lisette Espín-Noboa (Central European University, Austria and Complexity Science Hub Vienna), János Kertész, Márton Karsai*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583862)]
+
+6. **Mapping Flood Exposure, Damage, and Population Needs Using Remote and Social Sensing: A Case Study of 2022 Pakistan Floods**.  *Zainab Akhtar (Qatar Computing Research Institute, Qatar), Umair Qazi, Rizwan Sadiq, Aya El-Sakka, Muhammad Sajjad, Ferda Ofli, Muhammad Imran*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583881)]
+
+7. **Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction**.  *Yu Liu (Tsinghua University, China), Xin Zhang, Jingtao Ding, Yanxin Xi, Yong Li*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583876)]
+
+8. **Learning to Simulate Crowd Trajectories with Graph Networks**.  *Hongzhi Shi (Tsinghua University, China), Quanming Yao, Yong Li*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583858)]
+
+## ICDE 2023
+
+1. **Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting**.  *Shengnan Guo (School of Computer and Information Technology, Beijing Jiaotong University), Youfang Lin, Letian Gong, Chenyu Wang, Zeyu Zhou, Zekai Shen, Yiheng Huang, Huaiyu Wan*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00125)]
+
+2. **RNTrajRec: Road Network Enhanced Trajectory Recovery with Spatial-Temporal Transformer**.  *Yuqi Chen (School of Computer Science & Shanghai Key Laboratory of Data Science, Fudan University), Hanyuan Zhang, Weiwei Sun, Baihua Zheng*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00069)]
+
+3. **Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding : Extended Abstract**.  *Yang Liu (Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology), Xiang Ao, Linfeng Dong, Chao Zhang, Jin Wang, Qing He*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00334)]
+
+4. **MetroWatch: A Predictive System to Estimate Travel Attributes Using Smart Card Data**.  *Janaka Brahmanage (School of Computing and Information Systems, Singapore Management University), Thivya Kandappu, Baihua Zheng*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00279)]
+
+5. **M<sup>2</sup>G4RTP: A Multi-Level and Multi-Task Graph Model for Instant-Logistics Route and Time Joint Prediction**.  *Tianyue Cai (School of Computer and Information Technology, Beijing Jiaotong University), Huaiyu Wan, Fan Wu, Haomin Wen, Shengnan Guo, Lixia Wu, Haoyuan Hu, Youfang Lin*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00253)]
+
+6. **ROI-demand Traffic Prediction: A Pre-train, Query and Fine-tune Framework**.  *Yue Cui (The Hong Kong University of Science and Technology, Hong Kong SAR), Shuhao Li, Wenjin Deng, Zhaokun Zhang, Jing Zhao, Kai Zheng, Xiaofang Zhou*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00107)]
+
+7. **BASM: A Bottom-up Adaptive Spatiotemporal Model for Online Food Ordering Service**.  *Boya Du (Alibaba Group, Hangzhou & Shanghai), Shaochuan Lin, Jiong Gao, Xiyu Ji, Mengya Wang, Taotao Zhou, Hengxu He, Jia Jia, Ning Hu*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00271)]
+
+8. **When Spatio-Temporal Meet Wavelets: Disentangled Traffic Forecasting via Efficient Spectral Graph Attention Networks**.  *Yuchen Fang (Beijing University of Posts and Telecommunications, China), Yanjun Qin, Haiyong Luo, Fang Zhao, Bingbing Xu, Liang Zeng, Chenxing Wang*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00046)]
+
+9. **Extreme-Aware Local-Global Attention for Spatio-Temporal Urban Mobility Learning**.  *Huiqun Huang (Department of Computer Science and Engineering, University of Connecticut), Suining He, Mahan Tabatabaie*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00086)]
+
+10. **Time-Aware Location Prediction by Convolutional Area-of-Interest Modeling and Memory-Augmented Attentive LSTM (Extended abstract)**.  *Chi Harold Liu (School of Computer Science, BIT), Yu Wang, Chengzhe Piao, Zipeng Dai, Ye Yuan, Guoren Wang, Dapeng Wu*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00357)]
+
+11. **PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation**.  *Mingzhe Liu (State Key Laboratory of Software Development Environment, Beihang University), Han Huang, Hao Feng, Leilei Sun, Bowen Du, Yanjie Fu*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00150)]
+
+12. **REDE: Exploring Relay Transportation for Efficient Last-mile Delivery**.  *Wenjun Lyu (JD Logistics, Beijing), Haotian Wang, Zhiqing Hong, Guang Wang, Yu Yang, Yunhuai Liu, Desheng Zhang*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00230)]
+
+13. **Uncertainty Quantification for Traffic Forecasting: A Unified Approach**.  *Weizhu Qian (Aalborg University, Denmark), Dalin Zhang, Yan Zhao, Kai Zheng, James J.Q. Yu*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00081)]
+
+14. **Forecasting COVID-19 Dynamics: Clustering, Generalized Spatiotemporal Attention, and Impacts of Mobility and Geographic Proximity**.  *Tong Shen (Carnegie Mellon University, Pittsburgh), Yang Li, José M. F. Moura*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00221)]
+
+15. **LHMM: A Learning Enhanced HMM Model for Cellular Trajectory Map Matching**.  *Weijie Shi (School of Computer Science and Technology, Soochow University), Jiajie Xu, Junhua Fang, Pingfu Chao, An Liu, Xiaofang Zhou*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00187)]
+
+16. **A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges (Extended Abstract)**.  *David Alexander Tedjopurnomo (School of Computing Technologies, RMIT University), Zhifeng Bao, Baihua Zheng, Farhana Murtaza Choudhury, A. K. Qin*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00324)]
+
+17. **Delivery Time Prediction Using Large-Scale Graph Structure Learning Based on Quantile Regression**.  *Lei Zhang (School of Software, Shandong University), Xin Zhou, Zhiwei Zeng, Yiming Cao, Yonghui Xu, Mingliang Wang, Xingyu Wu, Yong Liu, Lizhen Cui, Zhiqi Shen*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00261)]
+
+18. **Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting**.  *Yusheng Zhao (School of Computer Science, Peking University), Xiao Luo, Wei Ju, Chong Chen, Xian-Sheng Hua, Ming Zhang*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00178)]
 
 ## AAAI 2023
 
@@ -138,62 +246,6 @@ Artificial Intelligence Department), Huaiyu Wan, Haomin Wen, Fan Wu, Jianbin Zhe
 29. **Next POI Recommendation with Dynamic Graph and Explicit Dependency**.  *Feiyu Yin (University of Electronic Science and Technology of China), Yong Liu, Zhiqi Shen, Lisi Chen, Shuo Shang, Peng Han*. ***AAAI 2023*** [[link](https://www.doi.org/10.1609/AAAI.V37I4.25608)]
 
 30. **AutoSTL: Automated Spatio-Temporal Multi-Task Learning**.  *Zijian Zhang (College of Computer Science and Technology, Jilin University), Xiangyu Zhao, Hao Miao, Chunxu Zhang, Hongwei Zhao, Junbo Zhang*. ***AAAI 2023*** [[link](https://www.doi.org/10.1609/AAAI.V37I4.25616)]
-
-## WWW 2023
-
-1. **Automated Spatio-Temporal Graph Contrastive Learning**.  *Qianru Zhang (The University of Hong Kong, Hong Kong), Chao Huang, Lianghao Xia, Zheng Wang, Zhonghang Li, Siuming Yiu*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583304)]
-
-2. **INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging**.  *Chuanpan Zheng (School of Informatics, Xiamen University), Xiaoliang Fan, Cheng Wang, Jianzhong Qi, Chaochao Chen, Longbiao Chen*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583525)]
-
-3. **LINet: A Location and Intention-Aware Neural Network for Hotel Group Recommendation**.  *Ruitao Zhu (Shanghai Jiao Tong University, China), Detao Lv, Yao Yu, Ruihao Zhu, Zhenzhe Zheng, Ke Bu, Quan Lu, Fan Wu*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583202)]
-
-4. **Learning Social Meta-knowledge for Nowcasting Human Mobility in Disaster**.  *Renhe Jiang (The University of Tokyo, Japan), Zhaonan Wang, Yudong Tao, Chuang Yang, Xuan Song, Ryosuke Shibasaki, Shu-Ching Chen, Mei-Ling Shyu*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583991)]
-
-5. **Interpreting wealth distribution via poverty map inference using multimodal data**.  *Lisette Espín-Noboa (Central European University, Austria and Complexity Science Hub Vienna), János Kertész, Márton Karsai*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583862)]
-
-6. **Mapping Flood Exposure, Damage, and Population Needs Using Remote and Social Sensing: A Case Study of 2022 Pakistan Floods**.  *Zainab Akhtar (Qatar Computing Research Institute, Qatar), Umair Qazi, Rizwan Sadiq, Aya El-Sakka, Muhammad Sajjad, Ferda Ofli, Muhammad Imran*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583881)]
-
-7. **Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction**.  *Yu Liu (Tsinghua University, China), Xin Zhang, Jingtao Ding, Yanxin Xi, Yong Li*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583876)]
-
-8. **Learning to Simulate Crowd Trajectories with Graph Networks**.  *Hongzhi Shi (Tsinghua University, China), Quanming Yao, Yong Li*. ***WWW 2023*** [[link](https://www.doi.org/10.1145/3543507.3583858)]
-
-## ICDE 2023
-
-1. **Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting**.  *Shengnan Guo (School of Computer and Information Technology, Beijing Jiaotong University), Youfang Lin, Letian Gong, Chenyu Wang, Zeyu Zhou, Zekai Shen, Yiheng Huang, Huaiyu Wan*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00125)]
-
-2. **RNTrajRec: Road Network Enhanced Trajectory Recovery with Spatial-Temporal Transformer**.  *Yuqi Chen (School of Computer Science & Shanghai Key Laboratory of Data Science, Fudan University), Hanyuan Zhang, Weiwei Sun, Baihua Zheng*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00069)]
-
-3. **Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding : Extended Abstract**.  *Yang Liu (Key Lab of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology), Xiang Ao, Linfeng Dong, Chao Zhang, Jin Wang, Qing He*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00334)]
-
-4. **MetroWatch: A Predictive System to Estimate Travel Attributes Using Smart Card Data**.  *Janaka Brahmanage (School of Computing and Information Systems, Singapore Management University), Thivya Kandappu, Baihua Zheng*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00279)]
-
-5. **M<sup>2</sup>G4RTP: A Multi-Level and Multi-Task Graph Model for Instant-Logistics Route and Time Joint Prediction**.  *Tianyue Cai (School of Computer and Information Technology, Beijing Jiaotong University), Huaiyu Wan, Fan Wu, Haomin Wen, Shengnan Guo, Lixia Wu, Haoyuan Hu, Youfang Lin*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00253)]
-
-6. **ROI-demand Traffic Prediction: A Pre-train, Query and Fine-tune Framework**.  *Yue Cui (The Hong Kong University of Science and Technology, Hong Kong SAR), Shuhao Li, Wenjin Deng, Zhaokun Zhang, Jing Zhao, Kai Zheng, Xiaofang Zhou*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00107)]
-
-7. **BASM: A Bottom-up Adaptive Spatiotemporal Model for Online Food Ordering Service**.  *Boya Du (Alibaba Group, Hangzhou & Shanghai), Shaochuan Lin, Jiong Gao, Xiyu Ji, Mengya Wang, Taotao Zhou, Hengxu He, Jia Jia, Ning Hu*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00271)]
-
-8. **When Spatio-Temporal Meet Wavelets: Disentangled Traffic Forecasting via Efficient Spectral Graph Attention Networks**.  *Yuchen Fang (Beijing University of Posts and Telecommunications, China), Yanjun Qin, Haiyong Luo, Fang Zhao, Bingbing Xu, Liang Zeng, Chenxing Wang*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00046)]
-
-9. **Extreme-Aware Local-Global Attention for Spatio-Temporal Urban Mobility Learning**.  *Huiqun Huang (Department of Computer Science and Engineering, University of Connecticut), Suining He, Mahan Tabatabaie*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00086)]
-
-10. **Time-Aware Location Prediction by Convolutional Area-of-Interest Modeling and Memory-Augmented Attentive LSTM (Extended abstract)**.  *Chi Harold Liu (School of Computer Science, BIT), Yu Wang, Chengzhe Piao, Zipeng Dai, Ye Yuan, Guoren Wang, Dapeng Wu*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00357)]
-
-11. **PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation**.  *Mingzhe Liu (State Key Laboratory of Software Development Environment, Beihang University), Han Huang, Hao Feng, Leilei Sun, Bowen Du, Yanjie Fu*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00150)]
-
-12. **REDE: Exploring Relay Transportation for Efficient Last-mile Delivery**.  *Wenjun Lyu (JD Logistics, Beijing), Haotian Wang, Zhiqing Hong, Guang Wang, Yu Yang, Yunhuai Liu, Desheng Zhang*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00230)]
-
-13. **Uncertainty Quantification for Traffic Forecasting: A Unified Approach**.  *Weizhu Qian (Aalborg University, Denmark), Dalin Zhang, Yan Zhao, Kai Zheng, James J.Q. Yu*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00081)]
-
-14. **Forecasting COVID-19 Dynamics: Clustering, Generalized Spatiotemporal Attention, and Impacts of Mobility and Geographic Proximity**.  *Tong Shen (Carnegie Mellon University, Pittsburgh), Yang Li, José M. F. Moura*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00221)]
-
-15. **LHMM: A Learning Enhanced HMM Model for Cellular Trajectory Map Matching**.  *Weijie Shi (School of Computer Science and Technology, Soochow University), Jiajie Xu, Junhua Fang, Pingfu Chao, An Liu, Xiaofang Zhou*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00187)]
-
-16. **A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges (Extended Abstract)**.  *David Alexander Tedjopurnomo (School of Computing Technologies, RMIT University), Zhifeng Bao, Baihua Zheng, Farhana Murtaza Choudhury, A. K. Qin*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00324)]
-
-17. **Delivery Time Prediction Using Large-Scale Graph Structure Learning Based on Quantile Regression**.  *Lei Zhang (School of Software, Shandong University), Xin Zhou, Zhiwei Zeng, Yiming Cao, Yonghui Xu, Mingliang Wang, Xingyu Wu, Yong Liu, Lizhen Cui, Zhiqi Shen*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00261)]
-
-18. **Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting**.  *Yusheng Zhao (School of Computer Science, Peking University), Xiao Luo, Wei Ju, Chong Chen, Xian-Sheng Hua, Ming Zhang*. ***ICDE 2023*** [[link](https://www.doi.org/10.1109/ICDE55515.2023.00178)]
 
 ## IJCAI 2023
 
@@ -305,6 +357,28 @@ Artificial Intelligence Department), Huaiyu Wan, Haomin Wen, Fan Wu, Jianbin Zhe
 
 40. **Knowledge-inspired Subdomain Adaptation for Cross-Domain Knowledge Transfer**.  *Liyue Chen (Key Lab of High Confidence Software Technologies (Peking University), Ministry of Education), Linian Wang, Jinyu Xu, Shuai Chen, Weiqiang Wang, Wenbiao Zhao, Qiyu Li, Leye Wang*. ***CIKM 2023*** [[link](https://www.doi.org/10.1145/3583780.3614946)]
 
+## NeurIPS 2022
+
+1. **Earthformer: Exploring Space-Time Transformers for Earth System Forecasting**.  *Zhihan Gao, Xingjian Shi, Hao Wang, Yi Zhu, Yuyang (Bernie) Wang, Mu Li, Dit-Yan Yeung*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html)]
+
+2. **AutoST: Towards the Universal Modeling of Spatio-temporal Sequences**.  *Jianxin Li, Shuai Zhang, Hui Xiong, Haoyi Zhou*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/80d46bb66ea003f4b29fa6013905d50a-Abstract-Conference.html)]
+
+3. **RainNet: A Large-Scale Imagery Dataset and Benchmark for Spatial Precipitation Downscaling**.  *Xuanhong Chen, Kairui Feng, Naiyuan Liu, Bingbing Ni, Yifan Lu, Zhengyan Tong, Ziang Liu*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/3fbf0c1ea0716c03dea93bb6be78dd6f-Abstract-Conference.html)]
+
+4. **Time-Conditioned Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting**.  *Yuzhou Chen, Yulia Gel, H. Vincent Poor*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/3a899fa79bc4110bca1eaa6649e9a8fa-Abstract-Conference.html)]
+
+5. **Spatial Mixture-of-Experts**.  *Nikoli Dryden, Torsten Hoefler*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/4c5e2bcbf21bdf40d75fddad0bd43dc9-Abstract-Conference.html)]
+
+6. **Practical Adversarial Attacks on Spatiotemporal Traffic Forecasting Models**.  *Fan LIU, Hao Liu, Wenzhao Jiang*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/79081c95482707d2db390542614e29cd-Abstract-Conference.html)]
+
+7. **Change Event Dataset for Discovery from Spatio-temporal Remote Sensing Imagery**.  *Utkarsh Mall, Bharath Hariharan, Kavita Bala*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/b01153e7112b347d8ed54f317840d8af-Abstract-Datasets_and_Benchmarks.html)]
+
+8. **Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations**.  *Ivan Marisca, Andrea Cini, Cesare Alippi*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/cf70320e93c08b39b1b29a348097a376-Abstract-Conference.html)]
+
+9. **HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences**.  *Siqiao Xue, Xiaoming Shi, James Zhang, Hongyuan Mei*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/dfbb3d1807b21dadee735eb75069ada4-Abstract-Conference.html)]
+
+10. **AZ-whiteness test: a test for signal uncorrelation on spatio-temporal graphs**.  *Daniele Zambon, Cesare Alippi*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/4e9fa6e716940a7cfc60c46e6f702f52-Abstract-Conference.html)]
+
 ## KDD 2022
 
 1. **Continuous-Time and Multi-Level Graph Representation Learning for Origin-Destination Demand Prediction**.  *Liangzhe Han (Beihang University, Beijing), Xiaojian Ma, Leilei Sun, Bowen Du, Yanjie Fu, Weifeng Lv, Hui Xiong*. ***KDD 2022*** [[link](https://www.doi.org/10.1145/3534678.3539273)]
@@ -349,27 +423,35 @@ Artificial Intelligence Department), Huaiyu Wan, Haomin Wen, Fan Wu, Jianbin Zhe
 
 21. **Anomaly Detection for Spatiotemporal Data in Action**.  *Guang Yang (Amazon, Santa Clara), Ninad Kulkarni, Paavani Dua, Dipika Khullar, Alex Anto Chirayath*. ***KDD 2022*** [[link](https://www.doi.org/10.1145/3534678.3542626)]
 
-## NeurIPS 2022
+## WWW 2022
 
-1. **Earthformer: Exploring Space-Time Transformers for Earth System Forecasting**.  *Zhihan Gao, Xingjian Shi, Hao Wang, Yi Zhu, Yuyang (Bernie) Wang, Mu Li, Dit-Yan Yeung*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html)]
+1. **Pyramid: Enabling Hierarchical Neural Networks with Edge Computing**.  *Qiang He (Swinburne University of Technology, Australia), Zeqian Dong, Feifei Chen, Shuiguang Deng, Weifa Liang, Yun Yang*. ***WWW 2022*** [[link](https://www.doi.org/10.1145/3485447.3511990)]
 
-2. **AutoST: Towards the Universal Modeling of Spatio-temporal Sequences**.  *Jianxin Li, Shuai Zhang, Hui Xiong, Haoyi Zhou*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/80d46bb66ea003f4b29fa6013905d50a-Abstract-Conference.html)]
+2. **PopNet: Real-Time Population-Level Disease Prediction with Data Latency**.  *Junyi Gao (IQVIA, China), Cao Xiao, Lucas M. Glass, Jimeng Sun*. ***WWW 2022*** [[link](https://www.doi.org/10.1145/3485447.3512127)]
 
-3. **RainNet: A Large-Scale Imagery Dataset and Benchmark for Spatial Precipitation Downscaling**.  *Xuanhong Chen, Kairui Feng, Naiyuan Liu, Bingbing Ni, Yifan Lu, Zhengyan Tong, Ziang Liu*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/3fbf0c1ea0716c03dea93bb6be78dd6f-Abstract-Conference.html)]
+3. **Socially-Equitable Interactive Graph Information Fusion-based Prediction for Urban Dockless E-Scooter Sharing**.  *Suining He (Department of Computer Science and Engineering, University of Connecticut), Kang G. Shin*. ***WWW 2022*** [[link](https://www.doi.org/10.1145/3485447.3512145)]
 
-4. **Time-Conditioned Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting**.  *Yuzhou Chen, Yulia Gel, H. Vincent Poor*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/3a899fa79bc4110bca1eaa6649e9a8fa-Abstract-Conference.html)]
+## ICDE 2022
 
-5. **Spatial Mixture-of-Experts**.  *Nikoli Dryden, Torsten Hoefler*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/4c5e2bcbf21bdf40d75fddad0bd43dc9-Abstract-Conference.html)]
+1. **Towards Spatio- Temporal Aware Traffic Time Series Forecasting**.  *Razvan-Gabriel Cirstea (Department of Computer Science, Aalborg University), Bin Yang, Chenjuan Guo, Tung Kieu, Shirui Pan*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00262)]
 
-6. **Practical Adversarial Attacks on Spatiotemporal Traffic Forecasting Models**.  *Fan LIU, Hao Liu, Wenzhao Jiang*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/79081c95482707d2db390542614e29cd-Abstract-Conference.html)]
+2. **DeepCrowd: A Deep Model for Large-Scale Citywide Crowd Density and Flow Prediction (Extended abstract)**.  *Renhe Jiang (Center for Spatial Information Science, University of Tokyo), Zekun Cai, Zhaonan Wang, Chuang Yang, Zipei Fan, Quanjun Chen, Kota Tsubouchi, Xuan Song, Ryosuke Shibasaki*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00136)]
 
-7. **Change Event Dataset for Discovery from Spatio-temporal Remote Sensing Imagery**.  *Utkarsh Mall, Bharath Hariharan, Kavita Bala*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/b01153e7112b347d8ed54f317840d8af-Abstract-Datasets_and_Benchmarks.html)]
+3. **GridTuner: Reinvestigate Grid Size Selection for Spatiotemporal Prediction Models**.  *Jiabao Jin (East China Normal University, Shanghai), Peng Cheng, Lei Chen, Xuemin Lin, Wenjie Zhang*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00094)]
 
-8. **Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations**.  *Ivan Marisca, Andrea Cini, Cesare Alippi*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/cf70320e93c08b39b1b29a348097a376-Abstract-Conference.html)]
+4. **APOTS: A Model for Adversarial Prediction of Traffic Speed**.  *Namhyuk Kim (Hyundai Motor Company, Seoul), Junho Song, Siyoung Lee, Jaewon Choe, Kyungsik Han, Sunghwan Park, Sang-Wook Kim*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00316)]
 
-9. **HYPRO: A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences**.  *Siqiao Xue, Xiaoming Shi, James Zhang, Hongyuan Mei*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/dfbb3d1807b21dadee735eb75069ada4-Abstract-Conference.html)]
+5. **Spatial-Temporal Hypergraph Self-Supervised Learning for Crime Prediction**.  *Zhonghang Li (South China University of Technology), Chao Huang, Lianghao Xia, Yong Xu, Jian Pei*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00269)]
 
-10. **AZ-whiteness test: a test for signal uncorrelation on spatio-temporal graphs**.  *Daniele Zambon, Cesare Alippi*. ***NeurIPS 2022*** [[link](http://papers.nips.cc/paper_files/paper/2022/hash/4e9fa6e716940a7cfc60c46e6f702f52-Abstract-Conference.html)]
+6. **A Data-Driven Spatial-Temporal Graph Neural Network for Docked Bike Prediction**.  *Guanyao Li (Department of Computer Science and Engineering, The Hong Kong University of Science and Technology), Xiaofeng Wang, Gunarto Sindoro Njoo, Shuhan Zhong, S.-H. Gary Chan, Chih-Chieh Hung, Wen-Chih Peng*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00058)]
+
+7. **Recurrent Learning on <tex>$\text{PM}_{2.5}$</tex> Prediction Based on Clustered Airbox Dataset: Extended Abstract**.  *Chia-Yu Lo (Taiwan Semiconductor Manufacturing Company, Taiwan), Wen-Hsing Huang, Ming-Feng Ho, Min-Te Sun, Ling-Jyh Chen, Kazuya Sakai, Wei-Shinn Ku*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00158)]
+
+8. **Spatial-Temporal Interval Aware Sequential POI Recommendation**.  *En Wang (Department of Computer Science and Technology, Jilin University), Yiheng Jiang, Yuanbo Xu, Liang Wang, Yongjian Yang*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00202)]
+
+9. **Weakly-supervised Temporal Path Representation Learning with Contrastive Curriculum Learning**.  *Sean Bin Yang (Department of Computer Science, Aalborg University), Chenjuan Guo, Jilin Hu, Bin Yang, Jian Tang, Christian S. Jensen*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00260)]
+
+10. **Dynamic Hypergraph Convolutional Network**.  *Nan Yin (National University of Defense Technology), Fuli Feng, Zhigang Luo, Xiang Zhang, Wenjie Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00167)]
 
 ## AAAI 2022
 
@@ -450,36 +532,6 @@ School of Computing Technologies), Renhe Jiang, Hao Xue, Flora D. Salim, Xuan So
 34. **Hierarchical Multi-Supervision Multi-Interaction Graph Attention Network for Multi-Camera Pedestrian Trajectory Prediction**.  *Guoliang Zhao (Xi'an Jiaotong University), Yuxun Zhou, Zhanbo Xu, Yadong Zhou, Jiang Wu*. ***AAAI 2022*** [[link](https://www.doi.org/10.1609/AAAI.V36I4.20395)]
 
 35. **Forecasting Asset Dependencies to Reduce Portfolio Risk**.  *Haoren Zhu (Hong Kong University of Science and Technology), Shih-Yang Liu, Pengfei Zhao, Yingying Chen, Dik Lun Lee*. ***AAAI 2022*** [[link](https://www.doi.org/10.1609/AAAI.V36I4.20361)]
-
-## WWW 2022
-
-1. **Pyramid: Enabling Hierarchical Neural Networks with Edge Computing**.  *Qiang He (Swinburne University of Technology, Australia), Zeqian Dong, Feifei Chen, Shuiguang Deng, Weifa Liang, Yun Yang*. ***WWW 2022*** [[link](https://www.doi.org/10.1145/3485447.3511990)]
-
-2. **PopNet: Real-Time Population-Level Disease Prediction with Data Latency**.  *Junyi Gao (IQVIA, China), Cao Xiao, Lucas M. Glass, Jimeng Sun*. ***WWW 2022*** [[link](https://www.doi.org/10.1145/3485447.3512127)]
-
-3. **Socially-Equitable Interactive Graph Information Fusion-based Prediction for Urban Dockless E-Scooter Sharing**.  *Suining He (Department of Computer Science and Engineering, University of Connecticut), Kang G. Shin*. ***WWW 2022*** [[link](https://www.doi.org/10.1145/3485447.3512145)]
-
-## ICDE 2022
-
-1. **Towards Spatio- Temporal Aware Traffic Time Series Forecasting**.  *Razvan-Gabriel Cirstea (Department of Computer Science, Aalborg University), Bin Yang, Chenjuan Guo, Tung Kieu, Shirui Pan*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00262)]
-
-2. **DeepCrowd: A Deep Model for Large-Scale Citywide Crowd Density and Flow Prediction (Extended abstract)**.  *Renhe Jiang (Center for Spatial Information Science, University of Tokyo), Zekun Cai, Zhaonan Wang, Chuang Yang, Zipei Fan, Quanjun Chen, Kota Tsubouchi, Xuan Song, Ryosuke Shibasaki*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00136)]
-
-3. **GridTuner: Reinvestigate Grid Size Selection for Spatiotemporal Prediction Models**.  *Jiabao Jin (East China Normal University, Shanghai), Peng Cheng, Lei Chen, Xuemin Lin, Wenjie Zhang*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00094)]
-
-4. **APOTS: A Model for Adversarial Prediction of Traffic Speed**.  *Namhyuk Kim (Hyundai Motor Company, Seoul), Junho Song, Siyoung Lee, Jaewon Choe, Kyungsik Han, Sunghwan Park, Sang-Wook Kim*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00316)]
-
-5. **Spatial-Temporal Hypergraph Self-Supervised Learning for Crime Prediction**.  *Zhonghang Li (South China University of Technology), Chao Huang, Lianghao Xia, Yong Xu, Jian Pei*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00269)]
-
-6. **A Data-Driven Spatial-Temporal Graph Neural Network for Docked Bike Prediction**.  *Guanyao Li (Department of Computer Science and Engineering, The Hong Kong University of Science and Technology), Xiaofeng Wang, Gunarto Sindoro Njoo, Shuhan Zhong, S.-H. Gary Chan, Chih-Chieh Hung, Wen-Chih Peng*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00058)]
-
-7. **Recurrent Learning on <tex>$\text{PM}_{2.5}$</tex> Prediction Based on Clustered Airbox Dataset: Extended Abstract**.  *Chia-Yu Lo (Taiwan Semiconductor Manufacturing Company, Taiwan), Wen-Hsing Huang, Ming-Feng Ho, Min-Te Sun, Ling-Jyh Chen, Kazuya Sakai, Wei-Shinn Ku*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00158)]
-
-8. **Spatial-Temporal Interval Aware Sequential POI Recommendation**.  *En Wang (Department of Computer Science and Technology, Jilin University), Yiheng Jiang, Yuanbo Xu, Liang Wang, Yongjian Yang*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00202)]
-
-9. **Weakly-supervised Temporal Path Representation Learning with Contrastive Curriculum Learning**.  *Sean Bin Yang (Department of Computer Science, Aalborg University), Chenjuan Guo, Jilin Hu, Bin Yang, Jian Tang, Christian S. Jensen*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00260)]
-
-10. **Dynamic Hypergraph Convolutional Network**.  *Nan Yin (National University of Defense Technology), Fuli Feng, Zhigang Luo, Xiang Zhang, Wenjie Wang, Xiao Luo, Chong Chen, Xian-Sheng Hua*. ***ICDE 2022*** [[link](https://www.doi.org/10.1109/ICDE53745.2022.00167)]
 
 ## IJCAI 2022
 
@@ -587,6 +639,20 @@ School of Computing Technologies), Renhe Jiang, Hao Xue, Flora D. Salim, Xuan So
 
 27. **Modeling Price Elasticity for Occupancy Prediction in Hotel Dynamic Pricing**.  *Fanwei Zhu (Zhejiang University City College, Hangzhou), Wendong Xiao, Yao Yu, Ziyi Wang, Zulong Chen, Quan Lu, Zemin Liu, Minghui Wu, Shenghua Ni*. ***CIKM 2022*** [[link](https://www.doi.org/10.1145/3511808.3557646)]
 
+## NeurIPS 2021
+
+1. **Dynamic COVID risk assessment accounting for community virus exposure from a spatial-temporal transmission model**.  *Yuan Chen, Wenbo Fei, Qinxia Wang, Donglin Zeng, Yuanjia Wang*. ***NeurIPS 2021*** [[link](https://proceedings.neurips.cc/paper/2021/hash/e97a4f04ef1b914f6a1698caa364f693-Abstract.html)]
+
+2. **Physics-Aware Downsampling with Deep Learning for Scalable Flood Modeling**.  *Niv Giladi, Zvika Ben-Haim, Sella Nevo, Yossi Matias, Daniel Soudry*. ***NeurIPS 2021*** [[link](https://proceedings.neurips.cc/paper/2021/hash/0a3b5a7a477d359746061d41c3a04fd6-Abstract.html)]
+
+3. **NeuroMLR: Robust & Reliable Route Recommendation on Road Networks**.  *Jayant Jain, Vrittika Bagadia, Sahil Manchanda, Sayan Ranu*. ***NeurIPS 2021*** [[link](https://proceedings.neurips.cc/paper/2021/hash/b922ede9c9eb9eabec1c1fecbdecb45d-Abstract.html)]
+
+4. **When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting**.  *Harshavardhan Kamarthi, Lingkai Kong, Alexander Rodriguez, Chao Zhang, B. Aditya Prakash*. ***NeurIPS 2021*** [[link](https://proceedings.neurips.cc/paper/2021/hash/a4a1108bbcc329a70efa93d7bf060914-Abstract.html)]
+
+5. **SSMF: Shifting Seasonal Matrix Factorization**.  *Koki Kawabata, Siddharth Bhatia, Rui Liu, Mohit Wadhwa, Bryan Hooi*. ***NeurIPS 2021*** [[link](https://proceedings.neurips.cc/paper/2021/hash/1fb2a1c37b18aa4611c3949d6148d0f8-Abstract.html)]
+
+6. **MobTCast: Leveraging Auxiliary Trajectory Forecasting for Human Mobility Prediction**.  *Hao Xue, Flora Salim, Yongli Ren, Nuria Oliver*. ***NeurIPS 2021*** [[link](https://proceedings.neurips.cc/paper/2021/hash/fecf2c550171d3195c879d115440ae45-Abstract.html)]
+
 ## KDD 2021
 
 1. **ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting**.  *Jinliang Deng (University of Technology Sydney, Sydney), Xiusi Chen, Renhe Jiang, Xuan Song, Ivor W. Tsang*. ***KDD 2021*** [[link](https://www.doi.org/10.1145/3447548.3467330)]
@@ -633,19 +699,57 @@ School of Computing Technologies), Renhe Jiang, Hao Xue, Flora D. Salim, Xuan So
 
 22. **Physics-Guided AI for Large-Scale Spatiotemporal Data**.  *Rose Yu (University of California, San Diego), Paris Perdikaris, Anuj Karpatne*. ***KDD 2021*** [[link](https://www.doi.org/10.1145/3447548.3470793)]
 
-## NeurIPS 2021
+## WWW 2021
 
-1. **Dynamic COVID risk assessment accounting for community virus exposure from a spatial-temporal transmission model**.  *Yuan Chen, Wenbo Fei, Qinxia Wang, Donglin Zeng, Yuanjia Wang*. ***NeurIPS 2021*** [[link](https://proceedings.neurips.cc/paper/2021/hash/e97a4f04ef1b914f6a1698caa364f693-Abstract.html)]
+1. **DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities**.  *Sayda Elmi (National University of Singapore, Singapore), Kian-Lee Tan*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449983)]
 
-2. **Physics-Aware Downsampling with Deep Learning for Scalable Flood Modeling**.  *Niv Giladi, Zvika Ben-Haim, Sella Nevo, Yossi Matias, Daniel Soudry*. ***NeurIPS 2021*** [[link](https://proceedings.neurips.cc/paper/2021/hash/0a3b5a7a477d359746061d41c3a04fd6-Abstract.html)]
+2. **Fine-Grained Urban Flow Prediction**.  *Yuxuan Liang (National University of Singapore, Singapore), Kun Ouyang, Junkai Sun, Yiwei Wang, Junbo Zhang, Yu Zheng, David Rosenblum, Roger Zimmermann*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449792)]
 
-3. **NeuroMLR: Robust & Reliable Route Recommendation on Road Networks**.  *Jayant Jain, Vrittika Bagadia, Sahil Manchanda, Sayan Ranu*. ***NeurIPS 2021*** [[link](https://proceedings.neurips.cc/paper/2021/hash/b922ede9c9eb9eabec1c1fecbdecb45d-Abstract.html)]
+3. **STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.  *Yingtao Luo (University of Washington, USA), Qiang Liu, Zhaocheng Liu*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449998)]
 
-4. **When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting**.  *Harshavardhan Kamarthi, Lingkai Kong, Alexander Rodriguez, Chao Zhang, B. Aditya Prakash*. ***NeurIPS 2021*** [[link](https://proceedings.neurips.cc/paper/2021/hash/a4a1108bbcc329a70efa93d7bf060914-Abstract.html)]
+4. **Equilibrium Inverse Reinforcement Learning for Ride-hailing Vehicle Network**.  *Takuma Oda (Mobility Technologies Co., Ltd.)*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449935)]
 
-5. **SSMF: Shifting Seasonal Matrix Factorization**.  *Koki Kawabata, Siddharth Bhatia, Rui Liu, Mohit Wadhwa, Bryan Hooi*. ***NeurIPS 2021*** [[link](https://proceedings.neurips.cc/paper/2021/hash/1fb2a1c37b18aa4611c3949d6148d0f8-Abstract.html)]
+5. **AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph✱**.  *Zheyi Pan (Shanghai Jiao Tong University and JD iCity, China), Songyu Ke, Xiaodu Yang, Yuxuan Liang, Yong Yu, Junbo Zhang, Yu Zheng*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449816)]
 
-6. **MobTCast: Leveraging Auxiliary Trajectory Forecasting for Human Mobility Prediction**.  *Hao Xue, Flora Salim, Yongli Ren, Nuria Oliver*. ***NeurIPS 2021*** [[link](https://proceedings.neurips.cc/paper/2021/hash/fecf2c550171d3195c879d115440ae45-Abstract.html)]
+6. **DF-TAR: A Deep Fusion Network for Citywide Traffic Accident Risk Prediction with Dangerous Driving Behavior**.  *Patara Trirat (Korea Advanced Institute of Science and Technology, Republic of Korea), Jae-Gil Lee*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3450003)]
+
+7. **Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching**.  *Zixuan Yuan (Rutgers University, USA), Hao Liu, Junming Liu, Yanchi Liu, Yang Yang, Renjun Hu, Hui Xiong*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449810)]
+
+8. **Intelligent Electric Vehicle Charging Recommendation Based on Multi-Agent Reinforcement Learning**.  *Weijia Zhang (University of Science and Technology of China, China), Hao Liu, Fan Wang, Tong Xu, Haoran Xin, Dejing Dou, Hui Xiong*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449934)]
+
+9. **STUaNet: Understanding Uncertainty in Spatiotemporal Collective Human Mobility**.  *Zhengyang Zhou (University of Science and Technology of China, China), Yang Wang, Xike Xie, Lei Qiao, Yuantao Li*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449817)]
+
+## ICDE 2021
+
+1. **An Effective Joint Prediction Model for Travel Demands and Traffic Flows**.  *Haitao Yuan (Tsinghua University, China), Guoliang Li, Zhifeng Bao, Ling Feng*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00037)]
+
+2. **Online Route Planning over Time-Dependent Road Networks**.  *Di Chen (Northeastern University, China), Ye Yuan, Wenjin Du, Yurong Cheng, Guoren Wang*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00035)]
+
+3. **CrowdAtlas: Estimating Crowd Distribution within the Urban Rail Transit System**.  *Jinlong E (Nanyang Technological University, Singapore), Mo Li, Jianqiang Huang*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00227)]
+
+4. **SOUP: A Fleet Management System for Passenger Demand Prediction and Competitive Taxi Supply**.  *Qi Hu (Huazhong University of Science and Technology, Wuhan), Lingfeng Ming, Ruijie Xi, Lu Chen, Christian S. Jensen, Bolong Zheng*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00297)]
+
+5. **EDGE: Entity-Diffusion Gaussian Ensemble for Interpretable Tweet Geolocation Prediction**.  *Bo Hui (Auburn University), Haiquan Chen, Da Yan, Wei-Shinn Ku*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00099)]
+
+6. **An Empirical Experiment on Deep Learning Models for Predicting Traffic Data**.  *Hyunwook Lee (Ulsan National Institute of Science and Technology), Cheonbok Park, Seungmin Jin, Hyeshin Chu, Jaegul Choo, Sungahn Ko*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00160)]
+
+7. **BERT-based Dynamic Clustering of Subway Stations Using Flow Information**.  *Man Li (Hong Kong University of Science and Technology, Hong Kong)*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00321)]
+
+8. **Learning to Optimize Industry-Scale Dynamic Pickup and Delivery Problems**.  *Xijun Li (MIRA Lab, USTC), Weilin Luo, Mingxuan Yuan, Jun Wang, Jiawen Lu, Jie Wang, Jinhu Lü, Jia Zeng*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00283)]
+
+9. **Modeling Citywide Crowd Flows using Attentive Convolutional LSTM**.  *Chi Harold Liu (School of Comp. Sci. and Tech., Beijing Institute of Technology), Chengzhe Piao, Xiaoxin Ma, Ye Yuan, Jian Tang, Guoren Wang, Kin K. Leung*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00026)]
+
+10. **Predicting the Impact of Disruptions to Urban Rail Transit Systems**.  *Xiaoyun Mo (School of Computer Science and Engineering, Nanyang Technological University), Chu Cao, Mo Li, David Z.W. Wang*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00232)]
+
+11. **TrajForesee: How limited detailed trajectories enhance large-scale sparse information to predict vehicle trajectories?**.  *Kangjia Shao (University of Science and Technology of China, China), Yang Wang, Zhengyang Zhou, Xike Xie, Guang Wang*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00222)]
+
+12. **Forecasting Ambulance Demand with Profiled Human Mobility via Heterogeneous Multi-Graph Neural Networks**.  *Zhaonan Wang (Center for Spatial Information Science, The University of Tokyo), Tianqi Xia, Renhe Jiang, Xin Liu, Kyoung-Sook Kim, Xuan Song, Ryosuke Shibasaki*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00154)]
+
+13. **Gallat: A Spatiotemporal Graph Attention Network for Passenger Demand Prediction**.  *Yuandong Wang (School of Computer Science and Engineering, Beihang University), Hongzhi Yin, Tong Chen, Chunyang Liu, Ben Wang, Tianyu Wo, Jie Xu*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00212)]
+
+14. **Package Pick-up Route Prediction via Modeling Couriers’ Spatial-Temporal Behaviors**.  *Haomin Wen (School of Computer and Information Technology, Beijing Jiaotong University), Youfang Lin, Fan Wu, Huaiyu Wan, Shengnan Guo, Lixia Wu, Chao Song, Yinghui Xu*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00214)]
+
+15. **Rebuilding City-Wide Traffic Origin Destination from Road Speed Data**.  *Guanjie Zheng (The Pennsylvania State University, University Park), Chang Liu, Hua Wei, Chacha Chen, Zhenhui Li*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00033)]
 
 ## AAAI 2021
 
@@ -770,58 +874,6 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 
 57. **Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks**.  *Cunchao Zhu (National University of Defense Technology), Muhao Chen, Changjun Fan, Guangquan Cheng, Yan Zhang*. ***AAAI 2021*** [[link](https://www.doi.org/10.1609/AAAI.V35I5.16604)]
 
-## WWW 2021
-
-1. **DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities**.  *Sayda Elmi (National University of Singapore, Singapore), Kian-Lee Tan*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449983)]
-
-2. **Fine-Grained Urban Flow Prediction**.  *Yuxuan Liang (National University of Singapore, Singapore), Kun Ouyang, Junkai Sun, Yiwei Wang, Junbo Zhang, Yu Zheng, David Rosenblum, Roger Zimmermann*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449792)]
-
-3. **STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.  *Yingtao Luo (University of Washington, USA), Qiang Liu, Zhaocheng Liu*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449998)]
-
-4. **Equilibrium Inverse Reinforcement Learning for Ride-hailing Vehicle Network**.  *Takuma Oda (Mobility Technologies Co., Ltd.)*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449935)]
-
-5. **AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph✱**.  *Zheyi Pan (Shanghai Jiao Tong University and JD iCity, China), Songyu Ke, Xiaodu Yang, Yuxuan Liang, Yong Yu, Junbo Zhang, Yu Zheng*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449816)]
-
-6. **DF-TAR: A Deep Fusion Network for Citywide Traffic Accident Risk Prediction with Dangerous Driving Behavior**.  *Patara Trirat (Korea Advanced Institute of Science and Technology, Republic of Korea), Jae-Gil Lee*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3450003)]
-
-7. **Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching**.  *Zixuan Yuan (Rutgers University, USA), Hao Liu, Junming Liu, Yanchi Liu, Yang Yang, Renjun Hu, Hui Xiong*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449810)]
-
-8. **Intelligent Electric Vehicle Charging Recommendation Based on Multi-Agent Reinforcement Learning**.  *Weijia Zhang (University of Science and Technology of China, China), Hao Liu, Fan Wang, Tong Xu, Haoran Xin, Dejing Dou, Hui Xiong*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449934)]
-
-9. **STUaNet: Understanding Uncertainty in Spatiotemporal Collective Human Mobility**.  *Zhengyang Zhou (University of Science and Technology of China, China), Yang Wang, Xike Xie, Lei Qiao, Yuantao Li*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449817)]
-
-## ICDE 2021
-
-1. **An Effective Joint Prediction Model for Travel Demands and Traffic Flows**.  *Haitao Yuan (Tsinghua University, China), Guoliang Li, Zhifeng Bao, Ling Feng*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00037)]
-
-2. **Online Route Planning over Time-Dependent Road Networks**.  *Di Chen (Northeastern University, China), Ye Yuan, Wenjin Du, Yurong Cheng, Guoren Wang*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00035)]
-
-3. **CrowdAtlas: Estimating Crowd Distribution within the Urban Rail Transit System**.  *Jinlong E (Nanyang Technological University, Singapore), Mo Li, Jianqiang Huang*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00227)]
-
-4. **SOUP: A Fleet Management System for Passenger Demand Prediction and Competitive Taxi Supply**.  *Qi Hu (Huazhong University of Science and Technology, Wuhan), Lingfeng Ming, Ruijie Xi, Lu Chen, Christian S. Jensen, Bolong Zheng*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00297)]
-
-5. **EDGE: Entity-Diffusion Gaussian Ensemble for Interpretable Tweet Geolocation Prediction**.  *Bo Hui (Auburn University), Haiquan Chen, Da Yan, Wei-Shinn Ku*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00099)]
-
-6. **An Empirical Experiment on Deep Learning Models for Predicting Traffic Data**.  *Hyunwook Lee (Ulsan National Institute of Science and Technology), Cheonbok Park, Seungmin Jin, Hyeshin Chu, Jaegul Choo, Sungahn Ko*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00160)]
-
-7. **BERT-based Dynamic Clustering of Subway Stations Using Flow Information**.  *Man Li (Hong Kong University of Science and Technology, Hong Kong)*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00321)]
-
-8. **Learning to Optimize Industry-Scale Dynamic Pickup and Delivery Problems**.  *Xijun Li (MIRA Lab, USTC), Weilin Luo, Mingxuan Yuan, Jun Wang, Jiawen Lu, Jie Wang, Jinhu Lü, Jia Zeng*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00283)]
-
-9. **Modeling Citywide Crowd Flows using Attentive Convolutional LSTM**.  *Chi Harold Liu (School of Comp. Sci. and Tech., Beijing Institute of Technology), Chengzhe Piao, Xiaoxin Ma, Ye Yuan, Jian Tang, Guoren Wang, Kin K. Leung*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00026)]
-
-10. **Predicting the Impact of Disruptions to Urban Rail Transit Systems**.  *Xiaoyun Mo (School of Computer Science and Engineering, Nanyang Technological University), Chu Cao, Mo Li, David Z.W. Wang*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00232)]
-
-11. **TrajForesee: How limited detailed trajectories enhance large-scale sparse information to predict vehicle trajectories?**.  *Kangjia Shao (University of Science and Technology of China, China), Yang Wang, Zhengyang Zhou, Xike Xie, Guang Wang*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00222)]
-
-12. **Forecasting Ambulance Demand with Profiled Human Mobility via Heterogeneous Multi-Graph Neural Networks**.  *Zhaonan Wang (Center for Spatial Information Science, The University of Tokyo), Tianqi Xia, Renhe Jiang, Xin Liu, Kyoung-Sook Kim, Xuan Song, Ryosuke Shibasaki*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00154)]
-
-13. **Gallat: A Spatiotemporal Graph Attention Network for Passenger Demand Prediction**.  *Yuandong Wang (School of Computer Science and Engineering, Beihang University), Hongzhi Yin, Tong Chen, Chunyang Liu, Ben Wang, Tianyu Wo, Jie Xu*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00212)]
-
-14. **Package Pick-up Route Prediction via Modeling Couriers’ Spatial-Temporal Behaviors**.  *Haomin Wen (School of Computer and Information Technology, Beijing Jiaotong University), Youfang Lin, Fan Wu, Huaiyu Wan, Shengnan Guo, Lixia Wu, Chao Song, Yinghui Xu*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00214)]
-
-15. **Rebuilding City-Wide Traffic Origin Destination from Road Speed Data**.  *Guanjie Zheng (The Pennsylvania State University, University Park), Chang Liu, Hua Wei, Chacha Chen, Zhenhui Li*. ***ICDE 2021*** [[link](https://www.doi.org/10.1109/ICDE51399.2021.00033)]
-
 ## IJCAI 2021
 
 1. **Multi-version Tensor Completion for Time-delayed Spatio-temporal Data**.  *Cheng Qian, Nikos Kargas, Cao Xiao, Lucas Glass, Nicholas Sidiropoulos, Jimeng Sun*. ***IJCAI 2021*** [[link](https://www.doi.org/10.24963/IJCAI.2021/400)]
@@ -920,6 +972,46 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 
 23. **#StayHome or #Marathon?: Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs**.  *Yichao Zhou (University of California, Los Angeles), Jyun-Yu Jiang, Xiusi Chen, Wei Wang*. ***CIKM 2021*** [[link](https://www.doi.org/10.1145/3459637.3482222)]
 
+## NeurIPS 2020
+
+1. **Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting**.  *LEI BAI, Lina Yao, Can Li, Xianzhi Wang, Can Wang*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/ce1aad92b939420fc17005e5461e6f48-Abstract.html)]
+
+2. **Interpretable Sequence Learning for Covid-19 Forecasting**.  *Sercan Arik, Chun-Liang Li, Jinsung Yoon, Rajarishi Sinha, Arkady Epshteyn, Long  Le, Vikas Menon, Shashank Singh, Leyou Zhang, Martin Nikoltchev, Yash Sonthalia, Hootan Nakhost, Elli Kanal, Tomas Pfister*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/d9dbc51dc534921589adf460c85cd824-Abstract.html)]
+
+3. **PRANK: motion Prediction based on RANKing**.  *Yuriy Biktairov, Maxim Stebelev, Irina Rudenko, Oleh Shliazhko, Boris Yangel*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/1b0251ccb8bd5f9ccf444e4bda7713e3-Abstract.html)]
+
+4. **MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models**.  *Sourav Biswas, Jerry Liu, Kelvin Wong, Shenlong Wang, Raquel Urtasun*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/fc152e73692bc3c934d248f639d9e963-Abstract.html)]
+
+5. **Statistical control for spatio-temporal MEG/EEG source imaging with desparsified mutli-task Lasso**.  *Jerome-Alexis Chevalier, Joseph Salmon, Alexandre Gramfort, Bertrand Thirion*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/1359aa933b48b754a2f54adb688bfa77-Abstract.html)]
+
+6. **Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian**.  *Lorenzo Dall'Amico, Romain Couillet, Nicolas Tremblay*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/54391c872fe1c8b4f98095c5d6ec7ec7-Abstract.html)]
+
+7. **Meta-Learning Stationary Stochastic Process Prediction with Convolutional Neural Processes**.  *Andrew Foong, Wessel Bruinsma, Jonathan Gordon, Yann Dubois, James Requeima, Richard Turner*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/5df0385cba256a135be596dbe28fa7aa-Abstract.html)]
+
+8. **Neuronal Gaussian Process Regression**.  *Johannes Friedrich*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/4ef2f8259495563cb3a8ea4449ec4f9f-Abstract.html)]
+
+9. **Gamma-Models: Generative Temporal Difference Learning for Infinite-Horizon Prediction**.  *Michael Janner, Igor Mordatch, Sergey Levine*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/12ffb0968f2f56e51a59a6beb37b2859-Abstract.html)]
+
+10. **Multi-agent Trajectory Prediction with Fuzzy Query Attention**.  *Nitin Kamra, Hao Zhu, Dweep Kumarbhai Trivedi, Ming Zhang, Yan Liu*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/fe87435d12ef7642af67d9bc82a8b3cd-Abstract.html)]
+
+11. **Stochastic Deep Gaussian Processes over Graphs**.  *Naiqi Li, Wenjie Li, Jifeng Sun, Yinghua Gao, Yong Jiang, Shu-Tao Xia*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/415e1af7ea95f89f4e375162b21ae38c-Abstract.html)]
+
+12. **EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning**.  *Jiachen Li, Fan Yang, Masayoshi Tomizuka, Chiho Choi*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html)]
+
+13. **STLnet: Signal Temporal Logic Enforced Multivariate Recurrent Neural Networks**.  *Meiyi Ma, Ji Gao, Lu Feng, John Stankovic*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/a7da6ba0505a41b98bd85907244c4c30-Abstract.html)]
+
+14. **When and How to Lift the Lockdown? Global COVID-19 Scenario Analysis and Policy Assessment using Compartmental Gaussian Processes**.  *Zhaozhi Qian, Ahmed M. Alaa, Mihaela van der Schaar*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/79a3308b13cd31f096d8a4a34f96b66b-Abstract.html)]
+
+15. **Learning Disentangled Representations and Group Structure of Dynamical Environments**.  *Robin Quessard, Thomas Barrett, William Clements*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/e449b9317dad920c0dd5ad0a2a2d5e49-Abstract.html)]
+
+16. **CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations**.  *Davis Rempe, Tolga Birdal, Yongheng Zhao, Zan Gojcic, Srinath Sridhar, Leonidas J. Guibas*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/9de6d14fff9806d4bcd1ef555be766cd-Abstract.html)]
+
+17. **Convolutional Tensor-Train LSTM for Spatio-Temporal Learning**.  *Jiahao Su, Wonmin Byeon, Jean Kossaifi, Furong Huang, Jan Kautz, Anima Anandkumar*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/9e1a36515d6704d7eb7a30d783400e5d-Abstract.html)]
+
+18. **SEVIR : A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology**.  *Mark Veillette, Siddharth Samsi, Chris Mattioli*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/fa78a16157fed00d7a80515818432169-Abstract.html)]
+
+19. **The Devil is in the Detail: A Framework for Macroscopic Prediction via Microscopic Models**.  *Yingxiang Yang, Negar Kiyavash, Le Song, Niao He*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/5b8e9841e87fb8fc590434f5d933c92c-Abstract.html)]
+
 ## KDD 2020
 
 1. **Keynote Speaker: Alessandro Vespignani**.  *Alessandro Vespignani (Northeastern University, Boston)*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3407097)]
@@ -978,45 +1070,39 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 
 28. **Deep Learning for Industrial AI: Challenges, New Methods and Best Practices**.  *Chetan Gupta (Hitachi America Ltd., Santa Clara), Ahmed Farahat*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3406482)]
 
-## NeurIPS 2020
+## WWW 2020
 
-1. **Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting**.  *LEI BAI, Lina Yao, Can Li, Xianzhi Wang, Can Wang*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/ce1aad92b939420fc17005e5461e6f48-Abstract.html)]
+1. **Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems**.  *Suining He (University of Connecticut, USA), Kang G. Shin*. ***WWW 2020*** [[link](https://www.doi.org/10.1145/3366423.3380097)]
 
-2. **Interpretable Sequence Learning for Covid-19 Forecasting**.  *Sercan Arik, Chun-Liang Li, Jinsung Yoon, Rajarishi Sinha, Arkady Epshteyn, Long  Le, Vikas Menon, Shashank Singh, Leyou Zhang, Martin Nikoltchev, Yash Sonthalia, Hootan Nakhost, Elli Kanal, Tomas Pfister*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/d9dbc51dc534921589adf460c85cd824-Abstract.html)]
+2. **Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration**.  *Suining He (University of Connecticut, USA), Kang G. Shin*. ***WWW 2020*** [[link](https://www.doi.org/10.1145/3366423.3380101)]
 
-3. **PRANK: motion Prediction based on RANKing**.  *Yuriy Biktairov, Maxim Stebelev, Irina Rudenko, Oleh Shliazhko, Boris Yangel*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/1b0251ccb8bd5f9ccf444e4bda7713e3-Abstract.html)]
+3. **Traffic Flow Prediction via Spatial Temporal Graph Neural Network**.  *Xiaoyang Wang (Beijing Jiaotong University), Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, Jian Yu*. ***WWW 2020*** [[link](https://www.doi.org/10.1145/3366423.3380186)]
 
-4. **MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models**.  *Sourav Biswas, Jerry Liu, Kelvin Wong, Shenlong Wang, Raquel Urtasun*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/fc152e73692bc3c934d248f639d9e963-Abstract.html)]
+4. **A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data**.  *Fuqiang Yu (Shandong University), Lizhen Cui, Wei Guo, Xudong Lu, Qingzhong Li, Hua Lu*. ***WWW 2020*** [[link](https://www.doi.org/10.1145/3366423.3380202)]
 
-5. **Statistical control for spatio-temporal MEG/EEG source imaging with desparsified mutli-task Lasso**.  *Jerome-Alexis Chevalier, Joseph Salmon, Alexandre Gramfort, Bertrand Thirion*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/1359aa933b48b754a2f54adb688bfa77-Abstract.html)]
+5. **What is the Human Mobility in a New City: Transfer Mobility Knowledge Across Cities**.  *Tianfu He (Harbin Institute of Technology), Jie Bao, Ruiyuan Li, Sijie Ruan, Yanhua Li, Li Song, Hui He, Yu Zheng*. ***WWW 2020*** [[link](https://www.doi.org/10.1145/3366423.3380210)]
 
-6. **Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian**.  *Lorenzo Dall'Amico, Romain Couillet, Nicolas Tremblay*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/54391c872fe1c8b4f98095c5d6ec7ec7-Abstract.html)]
+6. **Hierarchically Structured Transformer Networks for Fine-Grained Spatial Event Forecasting**.  *Xian Wu (University of Notre Dame), Chao Huang, Chuxu Zhang, Nitesh V. Chawla*. ***WWW 2020*** [[link](https://www.doi.org/10.1145/3366423.3380296)]
 
-7. **Meta-Learning Stationary Stochastic Process Prediction with Convolutional Neural Processes**.  *Andrew Foong, Wessel Bruinsma, Jonathan Gordon, Yann Dubois, James Requeima, Richard Turner*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/5df0385cba256a135be596dbe28fa7aa-Abstract.html)]
+## ICDE 2020
 
-8. **Neuronal Gaussian Process Regression**.  *Johannes Friedrich*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/4ef2f8259495563cb3a8ea4449ec4f9f-Abstract.html)]
+1. **Predictive Task Assignment in Spatial Crowdsourcing: A Data-driven Approach**.  *Yan Zhao (School of Computer Science and Technology, Soochow University), Kai Zheng, Yue Cui, Han Su, Feida Zhu, Xiaofang Zhou*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00009)]
 
-9. **Gamma-Models: Generative Temporal Difference Learning for Infinite-Horizon Prediction**.  *Michael Janner, Igor Mordatch, Sergey Levine*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/12ffb0968f2f56e51a59a6beb37b2859-Abstract.html)]
+2. **Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks**.  *Jilin Hu (Department of Computer Science, Aalborg University), Bin Yang, Chenjuan Guo, Christian S. Jensen, Hui Xiong*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00126)]
 
-10. **Multi-agent Trajectory Prediction with Fuzzy Query Attention**.  *Nitin Kamra, Hao Zhu, Dweep Kumarbhai Trivedi, Ming Zhang, Yan Liu*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/fe87435d12ef7642af67d9bc82a8b3cd-Abstract.html)]
+3. **Spatial Transition Learning on Road Networks with Deep Probabilistic Models**.  *Xiucheng Li (Nanyang Technological Univeristy), Gao Cong, Yun Cheng*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00037)]
 
-11. **Stochastic Deep Gaussian Processes over Graphs**.  *Naiqi Li, Wenjie Li, Jifeng Sun, Yinghua Gao, Yong Jiang, Shu-Tao Xia*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/415e1af7ea95f89f4e375162b21ae38c-Abstract.html)]
+4. **Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling**.  *Yiding Liu (Nanyang Technological University), Kaiqi Zhao, Gao Cong, Zhifeng Bao*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00087)]
 
-12. **EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning**.  *Jiachen Li, Fan Yang, Masayoshi Tomizuka, Chiho Choi*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html)]
+5. **Curiosity-Driven Energy-Efficient Worker Scheduling in Vehicular Crowdsourcing: A Deep Reinforcement Learning Approach**.  *Chi Harold Liu (School of Comp. Sci. and Tech. Beijing Inst. of Tech., Beijing), Yinuo Zhao, Zipeng Dai, Ye Yuan, Guoren Wang, Dapeng Wu, Kin K. Leung*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00010)]
 
-13. **STLnet: Signal Temporal Logic Enforced Multivariate Recurrent Neural Networks**.  *Meiyi Ma, Ji Gao, Lu Feng, John Stankovic*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/a7da6ba0505a41b98bd85907244c4c30-Abstract.html)]
+6. **A Hybrid Learning Approach to Stochastic Routing**.  *Simon Aagaard Pedersen (Department of Computer Science, Aalborg University), Bin Yang, Christian S. Jensen*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00226)]
 
-14. **When and How to Lift the Lockdown? Global COVID-19 Scenario Analysis and Policy Assessment using Compartmental Gaussian Processes**.  *Zhaozhi Qian, Ahmed M. Alaa, Mihaela van der Schaar*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/79a3308b13cd31f096d8a4a34f96b66b-Abstract.html)]
+7. **Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network**.  *Hongzhi Shi (Beijing National Research Center for Information Science and Technology (BNRist), Department of Electronic Engineering), Quanming Yao, Qi Guo, Yaguang Li, Lingyu Zhang, Jieping Ye, Yong Li, Yan Liu*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00178)]
 
-15. **Learning Disentangled Representations and Group Structure of Dynamical Environments**.  *Robin Quessard, Thomas Barrett, William Clements*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/e449b9317dad920c0dd5ad0a2a2d5e49-Abstract.html)]
+8. **Stay Ahead of Poachers: Illegal Wildlife Poaching Prediction and Patrol Planning Under Uncertainty with Field Test Evaluations (Short Version)**.  *Lily Xu (Harvard University), Shahrzad Gholami, Sara McCarthy, Bistra Dilkina, Andrew Plumptre, Milind Tambe, Rohit Singh, Mustapha Nsubuga, Joshua Mabonga, Margaret Driciru, Fred Wanyama, Aggrey Rwetsiba, Tom Okello, Eric Enyel*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00198)]
 
-16. **CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations**.  *Davis Rempe, Tolga Birdal, Yongheng Zhao, Zan Gojcic, Srinath Sridhar, Leonidas J. Guibas*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/9de6d14fff9806d4bcd1ef555be766cd-Abstract.html)]
-
-17. **Convolutional Tensor-Train LSTM for Spatio-Temporal Learning**.  *Jiahao Su, Wonmin Byeon, Jean Kossaifi, Furong Huang, Jan Kautz, Anima Anandkumar*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/9e1a36515d6704d7eb7a30d783400e5d-Abstract.html)]
-
-18. **SEVIR : A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology**.  *Mark Veillette, Siddharth Samsi, Chris Mattioli*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/fa78a16157fed00d7a80515818432169-Abstract.html)]
-
-19. **The Devil is in the Detail: A Framework for Macroscopic Prediction via Microscopic Models**.  *Yingxiang Yang, Negar Kiyavash, Le Song, Niao He*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/5b8e9841e87fb8fc590434f5d933c92c-Abstract.html)]
+9. **Learning to Rank Paths in Spatial Networks**.  *Sean Bin Yang (Department of Computer Science, Aalborg University), Bin Yang*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00225)]
 
 ## AAAI 2020
 
@@ -1118,40 +1204,6 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 
 49. **Object-Oriented Dynamics Learning through Multi-Level Abstraction**.  *Guangxiang Zhu (Tsinghua university), Jianhao Wang, Zhizhou Ren, Zichuan Lin, Chongjie Zhang*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I04.6183)]
 
-## WWW 2020
-
-1. **Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems**.  *Suining He (University of Connecticut, USA), Kang G. Shin*. ***WWW 2020*** [[link](https://www.doi.org/10.1145/3366423.3380097)]
-
-2. **Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration**.  *Suining He (University of Connecticut, USA), Kang G. Shin*. ***WWW 2020*** [[link](https://www.doi.org/10.1145/3366423.3380101)]
-
-3. **Traffic Flow Prediction via Spatial Temporal Graph Neural Network**.  *Xiaoyang Wang (Beijing Jiaotong University), Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, Jian Yu*. ***WWW 2020*** [[link](https://www.doi.org/10.1145/3366423.3380186)]
-
-4. **A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data**.  *Fuqiang Yu (Shandong University), Lizhen Cui, Wei Guo, Xudong Lu, Qingzhong Li, Hua Lu*. ***WWW 2020*** [[link](https://www.doi.org/10.1145/3366423.3380202)]
-
-5. **What is the Human Mobility in a New City: Transfer Mobility Knowledge Across Cities**.  *Tianfu He (Harbin Institute of Technology), Jie Bao, Ruiyuan Li, Sijie Ruan, Yanhua Li, Li Song, Hui He, Yu Zheng*. ***WWW 2020*** [[link](https://www.doi.org/10.1145/3366423.3380210)]
-
-6. **Hierarchically Structured Transformer Networks for Fine-Grained Spatial Event Forecasting**.  *Xian Wu (University of Notre Dame), Chao Huang, Chuxu Zhang, Nitesh V. Chawla*. ***WWW 2020*** [[link](https://www.doi.org/10.1145/3366423.3380296)]
-
-## ICDE 2020
-
-1. **Predictive Task Assignment in Spatial Crowdsourcing: A Data-driven Approach**.  *Yan Zhao (School of Computer Science and Technology, Soochow University), Kai Zheng, Yue Cui, Han Su, Feida Zhu, Xiaofang Zhou*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00009)]
-
-2. **Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks**.  *Jilin Hu (Department of Computer Science, Aalborg University), Bin Yang, Chenjuan Guo, Christian S. Jensen, Hui Xiong*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00126)]
-
-3. **Spatial Transition Learning on Road Networks with Deep Probabilistic Models**.  *Xiucheng Li (Nanyang Technological Univeristy), Gao Cong, Yun Cheng*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00037)]
-
-4. **Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling**.  *Yiding Liu (Nanyang Technological University), Kaiqi Zhao, Gao Cong, Zhifeng Bao*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00087)]
-
-5. **Curiosity-Driven Energy-Efficient Worker Scheduling in Vehicular Crowdsourcing: A Deep Reinforcement Learning Approach**.  *Chi Harold Liu (School of Comp. Sci. and Tech. Beijing Inst. of Tech., Beijing), Yinuo Zhao, Zipeng Dai, Ye Yuan, Guoren Wang, Dapeng Wu, Kin K. Leung*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00010)]
-
-6. **A Hybrid Learning Approach to Stochastic Routing**.  *Simon Aagaard Pedersen (Department of Computer Science, Aalborg University), Bin Yang, Christian S. Jensen*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00226)]
-
-7. **Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network**.  *Hongzhi Shi (Beijing National Research Center for Information Science and Technology (BNRist), Department of Electronic Engineering), Quanming Yao, Qi Guo, Yaguang Li, Lingyu Zhang, Jieping Ye, Yong Li, Yan Liu*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00178)]
-
-8. **Stay Ahead of Poachers: Illegal Wildlife Poaching Prediction and Patrol Planning Under Uncertainty with Field Test Evaluations (Short Version)**.  *Lily Xu (Harvard University), Shahrzad Gholami, Sara McCarthy, Bistra Dilkina, Andrew Plumptre, Milind Tambe, Rohit Singh, Mustapha Nsubuga, Joshua Mabonga, Margaret Driciru, Fred Wanyama, Aggrey Rwetsiba, Tom Okello, Eric Enyel*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00198)]
-
-9. **Learning to Rank Paths in Spatial Networks**.  *Sean Bin Yang (Department of Computer Science, Aalborg University), Bin Yang*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00225)]
-
 ## IJCAI 2020
 
 1. **Enhancing Urban Flow Maps via Neural ODEs**.  *Fan Zhou, Liang Li, Ting Zhong, Goce Trajcevski, Kunpeng Zhang, Jiahao Wang*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/180)]
@@ -1241,6 +1293,4 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 19. **Smarter and Safer Traffic Signal Controlling via Deep Reinforcement Learning**.  *Bingquan Yu (Tongji University, Shanghai), Jinqiu Guo, Qinpei Zhao, Jiangfeng Li, Weixiong Rao*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3417450)]
 
 20. **InterNet: Multistep Traffic Forecasting by Interacting Spatial and Temporal Features**.  *Yilian Xin (East China Normal University, Shanghai), Dezhuang Miao, Mengxia Zhu, Cheqing Jin, Xuesong Lu*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3417411)]
-
-
 
