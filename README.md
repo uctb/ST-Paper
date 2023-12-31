@@ -905,97 +905,57 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 
 2. **Interpretable Sequence Learning for Covid-19 Forecasting**.  *Sercan Arik, Chun-Liang Li, Jinsung Yoon, Rajarishi Sinha, Arkady Epshteyn, Long  Le, Vikas Menon, Shashank Singh, Leyou Zhang, Martin Nikoltchev, Yash Sonthalia, Hootan Nakhost, Elli Kanal, Tomas Pfister*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/d9dbc51dc534921589adf460c85cd824-Abstract.html)]
 
-3. **PRANK: motion Prediction based on RANKing**.  *Yuriy Biktairov, Maxim Stebelev, Irina Rudenko, Oleh Shliazhko, Boris Yangel*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/1b0251ccb8bd5f9ccf444e4bda7713e3-Abstract.html)]
+3. **When and How to Lift the Lockdown? Global COVID-19 Scenario Analysis and Policy Assessment using Compartmental Gaussian Processes**.  *Zhaozhi Qian, Ahmed M. Alaa, Mihaela van der Schaar*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/79a3308b13cd31f096d8a4a34f96b66b-Abstract.html)]
 
-4. **MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models**.  *Sourav Biswas, Jerry Liu, Kelvin Wong, Shenlong Wang, Raquel Urtasun*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/fc152e73692bc3c934d248f639d9e963-Abstract.html)]
+4. **SEVIR : A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology**.  *Mark Veillette, Siddharth Samsi, Chris Mattioli*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/fa78a16157fed00d7a80515818432169-Abstract.html)]
 
-5. **Statistical control for spatio-temporal MEG/EEG source imaging with desparsified mutli-task Lasso**.  *Jerome-Alexis Chevalier, Joseph Salmon, Alexandre Gramfort, Bertrand Thirion*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/1359aa933b48b754a2f54adb688bfa77-Abstract.html)]
-
-6. **Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian**.  *Lorenzo Dall'Amico, Romain Couillet, Nicolas Tremblay*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/54391c872fe1c8b4f98095c5d6ec7ec7-Abstract.html)]
-
-7. **Meta-Learning Stationary Stochastic Process Prediction with Convolutional Neural Processes**.  *Andrew Foong, Wessel Bruinsma, Jonathan Gordon, Yann Dubois, James Requeima, Richard Turner*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/5df0385cba256a135be596dbe28fa7aa-Abstract.html)]
-
-8. **Neuronal Gaussian Process Regression**.  *Johannes Friedrich*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/4ef2f8259495563cb3a8ea4449ec4f9f-Abstract.html)]
-
-9. **Gamma-Models: Generative Temporal Difference Learning for Infinite-Horizon Prediction**.  *Michael Janner, Igor Mordatch, Sergey Levine*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/12ffb0968f2f56e51a59a6beb37b2859-Abstract.html)]
-
-10. **Multi-agent Trajectory Prediction with Fuzzy Query Attention**.  *Nitin Kamra, Hao Zhu, Dweep Kumarbhai Trivedi, Ming Zhang, Yan Liu*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/fe87435d12ef7642af67d9bc82a8b3cd-Abstract.html)]
-
-11. **Stochastic Deep Gaussian Processes over Graphs**.  *Naiqi Li, Wenjie Li, Jifeng Sun, Yinghua Gao, Yong Jiang, Shu-Tao Xia*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/415e1af7ea95f89f4e375162b21ae38c-Abstract.html)]
-
-12. **EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning**.  *Jiachen Li, Fan Yang, Masayoshi Tomizuka, Chiho Choi*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html)]
-
-13. **STLnet: Signal Temporal Logic Enforced Multivariate Recurrent Neural Networks**.  *Meiyi Ma, Ji Gao, Lu Feng, John Stankovic*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/a7da6ba0505a41b98bd85907244c4c30-Abstract.html)]
-
-14. **When and How to Lift the Lockdown? Global COVID-19 Scenario Analysis and Policy Assessment using Compartmental Gaussian Processes**.  *Zhaozhi Qian, Ahmed M. Alaa, Mihaela van der Schaar*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/79a3308b13cd31f096d8a4a34f96b66b-Abstract.html)]
-
-15. **Learning Disentangled Representations and Group Structure of Dynamical Environments**.  *Robin Quessard, Thomas Barrett, William Clements*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/e449b9317dad920c0dd5ad0a2a2d5e49-Abstract.html)]
-
-16. **CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations**.  *Davis Rempe, Tolga Birdal, Yongheng Zhao, Zan Gojcic, Srinath Sridhar, Leonidas J. Guibas*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/9de6d14fff9806d4bcd1ef555be766cd-Abstract.html)]
-
-17. **Convolutional Tensor-Train LSTM for Spatio-Temporal Learning**.  *Jiahao Su, Wonmin Byeon, Jean Kossaifi, Furong Huang, Jan Kautz, Anima Anandkumar*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/9e1a36515d6704d7eb7a30d783400e5d-Abstract.html)]
-
-18. **SEVIR : A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology**.  *Mark Veillette, Siddharth Samsi, Chris Mattioli*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/fa78a16157fed00d7a80515818432169-Abstract.html)]
-
-19. **The Devil is in the Detail: A Framework for Macroscopic Prediction via Microscopic Models**.  *Yingxiang Yang, Negar Kiyavash, Le Song, Niao He*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/5b8e9841e87fb8fc590434f5d933c92c-Abstract.html)]
+5. **The Devil is in the Detail: A Framework for Macroscopic Prediction via Microscopic Models**.  *Yingxiang Yang, Negar Kiyavash, Le Song, Niao He*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/5b8e9841e87fb8fc590434f5d933c92c-Abstract.html)]
 
 ## KDD 2020
 
-1. **Keynote Speaker: Alessandro Vespignani**.  *Alessandro Vespignani (Northeastern University, Boston)*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3407097)]
+1. **Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction**.  *Haoxing Lin (University of Macau, Macau), Rufan Bai, Weijia Jia, Xinyu Yang, Yongjian You*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403046)]
 
-2. **Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction**.  *Haoxing Lin (University of Macau, Macau), Rufan Bai, Weijia Jia, Xinyu Yang, Yongjian You*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403046)]
+2. **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks**.  *Zonghan Wu (University of Technology Sydney, Sydney), Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403118)]
 
-3. **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks**.  *Zonghan Wu (University of Technology Sydney, Sydney), Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403118)]
+3. **AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction**.  *Ting Li (JD Intelligent Cities Business Unit & JD Intelligent Cities Research, Beijing), Junbo Zhang, Kainan Bao, Yuxuan Liang, Yexin Li, Yu Zheng*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403122)]
 
-4. **AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction**.  *Ting Li (JD Intelligent Cities Business Unit & JD Intelligent Cities Research, Beijing), Junbo Zhang, Kainan Bao, Yuxuan Liang, Yexin Li, Yu Zheng*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403122)]
+4. **Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks**.  *Yingxue Zhang (Worcester Polytechnic Institute, Worcester), Yanhua Li, Xun Zhou, Xiangnan Kong, Jun Luo*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403127)]
 
-5. **Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks**.  *Yingxue Zhang (Worcester Polytechnic Institute, Worcester), Yanhua Li, Xun Zhou, Xiangnan Kong, Jun Luo*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403127)]
+5. **Incremental Mobile User Profiling: Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams**.  *Pengyang Wang (University of Central Florida, Orlando), Kunpeng Liu, Lu Jiang, Xiaolin Li, Yanjie Fu*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403128)]
 
-6. **Incremental Mobile User Profiling: Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams**.  *Pengyang Wang (University of Central Florida, Orlando), Kunpeng Liu, Lu Jiang, Xiaolin Li, Yanjie Fu*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403128)]
+6. **Competitive Analysis for Points of Interest**.  *Shuangli Li (University of Science and Technology of China & Baidu Research, Hefei), Jingbo Zhou, Tong Xu, Hao Liu, Xinjiang Lu, Hui Xiong*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403179)]
 
-7. **Competitive Analysis for Points of Interest**.  *Shuangli Li (University of Science and Technology of China & Baidu Research, Hefei), Jingbo Zhou, Tong Xu, Hao Liu, Xinjiang Lu, Hui Xiong*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403179)]
+7. **ST-SiameseNet: Spatio-Temporal Siamese Networks for Human Mobility Signature Identification**.  *Huimin Ren (Worcester Polytechnic Institute, Worcester), Menghai Pan, Yanhua Li, Xun Zhou, Jun Luo*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403183)]
 
-8. **ST-SiameseNet: Spatio-Temporal Siamese Networks for Human Mobility Signature Identification**.  *Huimin Ren (Worcester Polytechnic Institute, Worcester), Menghai Pan, Yanhua Li, Xun Zhou, Jun Luo*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403183)]
+8. **xGAIL: Explainable Generative Adversarial Imitation Learning for Explainable Human Decision Analysis**.  *Menghai Pan (Worcester Polytechnic Institute, Worcester), Weixiao Huang, Yanhua Li, Xun Zhou, Jun Luo*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403186)]
 
-9. **xGAIL: Explainable Generative Adversarial Imitation Learning for Explainable Human Decision Analysis**.  *Menghai Pan (Worcester Polytechnic Institute, Worcester), Weixiao Huang, Yanhua Li, Xun Zhou, Jun Luo*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403186)]
+9. **List-wise Fairness Criterion for Point Processes**.  *Jin Shang (Louisiana State University, Baton Rouge), Mingxuan Sun, Nina S.N. Lam*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403246)]
 
-10. **Towards Physics-informed Deep Learning for Turbulent Flow Prediction**.  *Rui Wang (Northeastern University, Boston), Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403198)]
+10. **Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data**.  *Fengli Xu (Tsinghua University, Beijing), Yong Li, Shusheng Xu*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403273)]
 
-11. **Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data**.  *Garrett Wilson (Washington State University, Pullman), Janardhan Rao Doppa, Diane J. Cook*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403228)]
+11. **HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival**.  *Huiting Hong (AI Labs, Didi Chuxing), Yucheng Lin, Xiaoqing Yang, Zang Li, Kung Fu, Zheng Wang, Xiaohu Qie, Jieping Ye*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403294)]
 
-12. **List-wise Fairness Criterion for Point Processes**.  *Jin Shang (Louisiana State University, Baton Rouge), Mingxuan Sun, Nina S.N. Lam*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403246)]
+12. **ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps**.  *Xiaomin Fang (Baidu Inc., Shenzhen), Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, Haifeng Wang*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403320)]
 
-13. **Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data**.  *Fengli Xu (Tsinghua University, Beijing), Yong Li, Shusheng Xu*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403273)]
+13. **Doing in One Go: Delivery Time Inference Based on Couriers' Trajectories**.  *Sijie Ruan (Xidian University, JD Intelligent Cities Research), Zi Xiong, Cheng Long, Yiheng Chen, Jie Bao, Tianfu He, Ruiyuan Li, Shengnan Wu, Zhongyuan Jiang, Yu Zheng*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403332)]
 
-14. **Improving Movement Predictions of Traffic Actors in Bird's-Eye View Models using GANs and Differentiable Trajectory Rasterization**.  *Eason Wang (Uber Advanced Technologies Group, Pittsburgh), Henggang Cui, Sai Yalamanchi, Mohana Moorthy, Nemanja Djuric*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403283)]
+14. **Forecasting the Evolution of Hydropower Generation**.  *Fan Zhou (University of Electronic Science and Technology of China, Chengdu), Liang Li, Kunpeng Zhang, Goce Trajcevski, Fuming Yao, Ying Huang, Ting Zhong, Jiahao Wang, Qiao Liu*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403337)]
 
-15. **HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival**.  *Huiting Hong (AI Labs, Didi Chuxing), Yucheng Lin, Xiaoqing Yang, Zang Li, Kung Fu, Zheng Wang, Xiaohu Qie, Jieping Ye*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403294)]
+15. **Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data**.  *Rui Dai (Alibaba Group, Beijing), Shenkun Xu, Qian Gu, Chenguang Ji, Kaikui Liu*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403358)]
 
-16. **Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors**.  *Daheng Wang (University of Notre Dame, Notre Dame), Meng Jiang, Munira Syed, Oliver Conway, Vishal Juneja, Sriram Subramanian, Nitesh V. Chawla*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403308)]
+16. **Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction**.  *Wenjuan Luo (AI Labs, Didi Chuxing), Han Zhang, Xiaodi Yang, Lin Bo, Xiaoqing Yang, Zang Li, Xiaohu Qie, Jieping Ye*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403373)]
 
-17. **ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps**.  *Xiaomin Fang (Baidu Inc., Shenzhen), Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, Haifeng Wang*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403320)]
+17. **Multimodal Deep Learning Based Crop Classification Using Multispectral and Multitemporal Satellite Imagery**.  *Krishna Karthik Gadiraju (North Carolina State University, Raleigh), Bharathkumar Ramachandra, Zexi Chen, Ranga Raju Vatsavai*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403375)]
 
-18. **Doing in One Go: Delivery Time Inference Based on Couriers' Trajectories**.  *Sijie Ruan (Xidian University, JD Intelligent Cities Research), Zi Xiong, Cheng Long, Yiheng Chen, Jie Bao, Tianfu He, Ruiyuan Li, Shengnan Wu, Zhongyuan Jiang, Yu Zheng*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403332)]
+18. **BusTr: Predicting Bus Travel Times from Real-Time Traffic**.  *Richard Barnes (University of California, Berkeley), Senaka Buthpitiya, James Cook, Alex Fabrikant, Andrew Tomkins, Fangzhou Xu*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403376)]
 
-19. **Forecasting the Evolution of Hydropower Generation**.  *Fan Zhou (University of Electronic Science and Technology of China, Chengdu), Liang Li, Kunpeng Zhang, Goce Trajcevski, Fuming Yao, Ying Huang, Ting Zhong, Jiahao Wang, Qiao Liu*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403337)]
+19. **CompactETA: A Fast Inference System for Travel Time Prediction**.  *Kun Fu (AI Labs, Didi Chuxing), Fanlin Meng, Jieping Ye, Zheng Wang*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403386)]
 
-20. **Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data**.  *Rui Dai (Alibaba Group, Beijing), Shenkun Xu, Qian Gu, Chenguang Ji, Kaikui Liu*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403358)]
+20. **Hypergraph Convolutional Recurrent Neural Network**.  *Jaehyuk Yi (KAIST, Daejeon), Jinkyoo Park*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403389)]
 
-21. **Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction**.  *Wenjuan Luo (AI Labs, Didi Chuxing), Han Zhang, Xiaodi Yang, Lin Bo, Xiaoqing Yang, Zang Li, Xiaohu Qie, Jieping Ye*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403373)]
+21. **Learning to Simulate Human Mobility**.  *Jie Feng (Tsinghua University, Beijing), Zeyu Yang, Fengli Xu, Haisu Yu, Mudan Wang, Yong Li*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3412862)]
 
-22. **Multimodal Deep Learning Based Crop Classification Using Multispectral and Multitemporal Satellite Imagery**.  *Krishna Karthik Gadiraju (North Carolina State University, Raleigh), Bharathkumar Ramachandra, Zexi Chen, Ranga Raju Vatsavai*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403375)]
-
-23. **BusTr: Predicting Bus Travel Times from Real-Time Traffic**.  *Richard Barnes (University of California, Berkeley), Senaka Buthpitiya, James Cook, Alex Fabrikant, Andrew Tomkins, Fangzhou Xu*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403376)]
-
-24. **CompactETA: A Fast Inference System for Travel Time Prediction**.  *Kun Fu (AI Labs, Didi Chuxing), Fanlin Meng, Jieping Ye, Zheng Wang*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403386)]
-
-25. **Hypergraph Convolutional Recurrent Neural Network**.  *Jaehyuk Yi (KAIST, Daejeon), Jinkyoo Park*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3403389)]
-
-26. **Learning to Simulate Human Mobility**.  *Jie Feng (Tsinghua University, Beijing), Zeyu Yang, Fengli Xu, Haisu Yu, Mudan Wang, Yong Li*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3412862)]
-
-27. **Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea**.  *Minseok Kim (KAIST, Daejeon), Junhyeok Kang, Doyoung Kim, Hwanjun Song, Hyangsuk Min, Youngeun Nam, Dongmin Park, Jae-Gil Lee*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3412864)]
-
-28. **Deep Learning for Industrial AI: Challenges, New Methods and Best Practices**.  *Chetan Gupta (Hitachi America Ltd., Santa Clara), Ahmed Farahat*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3406482)]
+22. **Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea**.  *Minseok Kim (KAIST, Daejeon), Junhyeok Kang, Doyoung Kim, Hwanjun Song, Hyangsuk Min, Youngeun Nam, Dongmin Park, Jae-Gil Lee*. ***KDD 2020*** [[link](https://www.doi.org/10.1145/3394486.3412864)]
 
 ## WWW 2020
 
@@ -1027,109 +987,45 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 
 7. **Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network**.  *Hongzhi Shi (Beijing National Research Center for Information Science and Technology (BNRist), Department of Electronic Engineering), Quanming Yao, Qi Guo, Yaguang Li, Lingyu Zhang, Jieping Ye, Yong Li, Yan Liu*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00178)]
 
-8. **Stay Ahead of Poachers: Illegal Wildlife Poaching Prediction and Patrol Planning Under Uncertainty with Field Test Evaluations (Short Version)**.  *Lily Xu (Harvard University), Shahrzad Gholami, Sara McCarthy, Bistra Dilkina, Andrew Plumptre, Milind Tambe, Rohit Singh, Mustapha Nsubuga, Joshua Mabonga, Margaret Driciru, Fred Wanyama, Aggrey Rwetsiba, Tom Okello, Eric Enyel*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00198)]
-
-9. **Learning to Rank Paths in Spatial Networks**.  *Sean Bin Yang (Department of Computer Science, Aalborg University), Bin Yang*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00225)]
+8. **Learning to Rank Paths in Spatial Networks**.  *Sean Bin Yang (Department of Computer Science, Aalborg University), Bin Yang*. ***ICDE 2020*** [[link](https://www.doi.org/10.1109/ICDE48307.2020.00225)]
 
 ## AAAI 2020
 
-1. **Kriging Convolutional Networks**.  *Gabriel Appleby (Tufts University), Linfeng Liu, Li-Ping Liu*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I04.5716)]
+1. **Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting**.  *Weiqi Chen (Zhejiang University), Ling Chen, Yu Xie, Wei Cao, Yusong Gao, Xiaojie Feng*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I04.5758)]
 
-2. **STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception from Gaits**.  *Uttaran Bhattacharya (University of Maryland, College Park), Trisha Mittal, Rohan Chandra, Tanmay Randhavane, Aniket Bera, Dinesh Manocha*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I02.5490)]
+2. **Real-Time Route Search by Locations**.  *Lisi Chen (IIAI), Shuo Shang, Tao Guo*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5396)]
 
-3. **Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting**.  *Weiqi Chen (Zhejiang University), Ling Chen, Yu Xie, Wei Cao, Yusong Gao, Xiaojie Feng*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I04.5758)]
+3. **Day-Ahead Forecasting of Losses in the Distribution Network**.  *Nisha Dalal (TrønderEnergi Kraft AS), Martin Mølnå, Mette Herrem, Magne Røen, Odd Erik Gundersen*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I08.7018)]
 
-4. **Real-Time Route Search by Locations**.  *Lisi Chen (IIAI), Shuo Shang, Tao Guo*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5396)]
+4. **Efficient Spatial-Temporal Rebalancing of Shareable Bikes (Student Abstract)**.  *Zichao Deng (Nanyang Technological University), Anqi Tu, Zelei Liu, Han Yu*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I10.7159)]
 
-5. **Detecting and Tracking Communal Bird Roosts in Weather Radar Data**.  *Zezhou Cheng (University of Massachusetts Amherst), Saadia Gabriel, Pankaj Bhambhani, Daniel Sheldon, Subhransu Maji, Andrew Laughlin, David Winkler*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5373)]
+5. **An Attentional Recurrent Neural Network for Personalized Next Location Recommendation**.  *Qing Guo (Nanyang Technological University), Zhu Sun, Jie Zhang, Yin-Leng Theng*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5337)]
 
-6. **Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection**.  *Dawei Cheng (Shanghai Jiao Tong University), Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5371)]
+6. **Travel Time Prediction on Un-Monitored Roads: A Spatial Factorization Machine Based Approach (Student Abstract)**.  *Lile Li (University of Technology Sydney), Wei Liu*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I10.7200)]
 
-7. **3D Human Pose Estimation Using Spatio-Temporal Networks with Explicit Occlusion Training**.  *Yu Cheng (National University of Singapore), Bo Yang, Bo Wang, Robby T. Tan*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6689)]
+7. **Tensor Completion for Weakly-Dependent Data on Graph for Metro Passenger Flow Prediction**.  *Ziyue Li (The Hong Kong University of Science and Technology), Nurettin Dorukhan Sergin, Hao Yan, Chen Zhang, Fugee Tsung*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I04.5915)]
 
-8. **Day-Ahead Forecasting of Losses in the Distribution Network**.  *Nisha Dalal (TrønderEnergi Kraft AS), Martin Mølnå, Mette Herrem, Magne Røen, Odd Erik Gundersen*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I08.7018)]
+8. **Self-Attention ConvLSTM for Spatiotemporal Prediction**.  *Zhihui Lin (Tsinghua University), Maomao Li, Zhuobin Zheng, Yangyang Cheng, Chun Yuan*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6819)]
 
-9. **MIMAMO Net: Integrating Micro- and Macro-Motion for Video Emotion Recognition**.  *Didan Deng (The Hong Kong University of Science and Technology), Zhaokang Chen, Yuqian Zhou, Bertram Shi*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I03.5646)]
+9. **Learning Geo-Contextual Embeddings for Commuting Flow Prediction**.  *Zhicheng Liu (Southeast University), Fabio Miranda, Weiting Xiong, Junyan Yang, Qiao Wang, Claudio Silva*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5425)]
 
-10. **Efficient Spatial-Temporal Rebalancing of Shareable Bikes (Student Abstract)**.  *Zichao Deng (Nanyang Technological University), Anqi Tu, Zelei Liu, Han Yu*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I10.7159)]
+10. **Mechanism Design with Predicted Task Revenue for Bike Sharing Systems**.  *Hongtao Lv (Shanghai Jiao Tong University), Chaoli Zhang, Zhenzhe Zheng, Tie Luo, Fan Wu, Guihai Chen*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I02.5589)]
 
-11. **Spatio-Temporal Deformable Convolution for Compressed Video Quality Enhancement**.  *Jianing Deng (Zhejiang University), Li Wang, Shiliang Pu, Cheng Zhuo*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6697)]
+11. **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting**.  *Chao Song (Beijing Jiaotong University), Youfang Lin, Shengnan Guo, Huaiyu Wan*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5438)]
 
-12. **Inferring Nighttime Satellite Imagery from Human Mobility**.  *Brian Dickinson (University of Rochester), Gourab Ghoshal, Xerxes Dotiwalla, Adam Sadilek, Henry Kautz*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5375)]
+12. **Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding**.  *Zhecheng Wang (Stanford University), Haoyuan Li, Ram Rajagopal*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5450)]
 
-13. **Ultrafast Video Attention Prediction with Coupled Knowledge Distillation**.  *Kui Fu (State Key Laboratory of Virtual Reality Technology and Systems, SCSE), Peipei Shi, Yafei Song, Shiming Ge, Xiangju Lu, Jia Li*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6710)]
+13. **Fairness-Aware Demand Prediction for New Mobility**.  *An Yan (University of Washington), Bill Howe*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5458)]
 
-14. **Predicting Opioid Overdose Crude Rates with Text-Based Twitter Features (Student Abstract)**.  *Nupoor Gandhi (University of Illinois at Urbana-Champaign), Alex Morales, Sally Man-Pui Chan, Dolores Albarracin, ChengXiang Zhai*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I10.7165)]
+14. **AirNet: A Calibration Model for Low-Cost Air Monitoring Sensors Using Dual Sequence Encoder Networks**.  *Haomin Yu (Beijing Jiaotong University), Qingyong Li, Yangli-ao Geng, Yingjun Zhang, Zhi Wei*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5464)]
 
-15. **Pyramid Constrained Self-Attention Network for Fast Video Salient Object Detection**.  *Yuchao Gu (Nankai University), Lijuan Wang, Ziqin Wang, Yun Liu, Ming-Ming Cheng, Shao-Ping Lu*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6718)]
+15. **Spatio-Temporal Graph Structure Learning for Traffic Forecasting**.  *Qi Zhang (Chinese Academy of Sciences), Jianlong Chang, Gaofeng Meng, Shiming Xiang, Chunhong Pan*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5470)]
 
-16. **An Attentional Recurrent Neural Network for Personalized Next Location Recommendation**.  *Qing Guo (Nanyang Technological University), Zhu Sun, Jie Zhang, Yin-Leng Theng*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5337)]
+16. **Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction**.  *Weijia Zhang (University of Science and Technology of China), Hao Liu, Yanchi Liu, Jingbo Zhou, Hui Xiong*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5471)]
 
-17. **Improving Lives of Indebted Farmers Using Deep Learning: Predicting Agricultural Produce Prices Using Convolutional Neural Networks**.  *Hangzhi Guo (Wenzhou-Kean University), Alexander Woodruff, Amulya Yadav*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I08.7039)]
+17. **GMAN: A Graph Multi-Attention Network for Traffic Prediction**.  *Chuanpan Zheng (Xiamen University), Xiaoliang Fan, Cheng Wang, Jianzhong Qi*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5477)]
 
-18. **A Machine Learning Approach to Identify Houses with High Lead Tap Water Concentrations**.  *Seyedsaeed Hajiseyedjavadi (University of Pittsburgh), Michael Blackhurst, Hassan A Karimi*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I08.7040)]
-
-19. **Inception LSTM for Next-frame Video Prediction (Student Abstract)**.  *Matin Hosseini (University of Louisiana at Lafayette), Anthony S. Maida, Majid Hosseini, Gottumukkala Raju*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I10.7176)]
-
-20. **Location-Aware Graph Convolutional Networks for Video Question Answering**.  *Deng Huang (South China University of Technology), Peihao Chen, Runhao Zeng, Qing Du, Mingkui Tan, Chuang Gan*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6737)]
-
-21. **Divide and Conquer: Question-Guided Spatio-Temporal Contextual Attention for Video Question Answering**.  *Jianwen Jiang (Tsinghua University), Ziqiang Chen, Haojie Lin, Xibin Zhao, Yue Gao*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6766)]
-
-22. **Can Eruptions Be Predicted? Short-Term Prediction of Volcanic Eruptions via Attention-Based Long Short-Term Memory**.  *Hiep V. Le (Tokyo Institute of Technology), Tsuyoshi Murata, Masato Iguchi*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I08.7043)]
-
-23. **Travel Time Prediction on Un-Monitored Roads: A Spatial Factorization Machine Based Approach (Student Abstract)**.  *Lile Li (University of Technology Sydney), Wei Liu*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I10.7200)]
-
-24. **Tensor Completion for Weakly-Dependent Data on Graph for Metro Passenger Flow Prediction**.  *Ziyue Li (The Hong Kong University of Science and Technology), Nurettin Dorukhan Sergin, Hao Yan, Chen Zhang, Fugee Tsung*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I04.5915)]
-
-25. **Self-Attention ConvLSTM for Spatiotemporal Prediction**.  *Zhihui Lin (Tsinghua University), Maomao Li, Zhuobin Zheng, Yangyang Cheng, Chun Yuan*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6819)]
-
-26. **Learning Geo-Contextual Embeddings for Commuting Flow Prediction**.  *Zhicheng Liu (Southeast University), Fabio Miranda, Weiting Xiong, Junyan Yang, Qiao Wang, Claudio Silva*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5425)]
-
-27. **Learned Video Compression via Joint Spatial-Temporal Correlation Exploration**.  *Haojie Liu (Nanjing University), Han Shen, Lichao Huang, Ming Lu, Tong Chen, Zhan Ma*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6825)]
-
-28. **Video Cloze Procedure for Self-Supervised Spatio-Temporal Learning**.  *Dezhao Luo (Chinese Academy of Sciences), Chang Liu, Yu Zhou, Dongbao Yang, Can Ma, Qixiang Ye, Weiping Wang*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6840)]
-
-29. **Mechanism Design with Predicted Task Revenue for Bike Sharing Systems**.  *Hongtao Lv (Shanghai Jiao Tong University), Chaoli Zhang, Zhenzhe Zheng, Tie Luo, Fan Wu, Guihai Chen*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I02.5589)]
-
-30. **Spatial-Temporal Gaussian Scale Mixture Modeling for Foreground Estimation**.  *Qian Ning (Xidian University), Weisheng Dong, Fangfang Wu, Jinjian Wu, Jie Lin, Guangming Shi*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6851)]
-
-31. **How to Predict Seawater Temperature for Sustainable Marine Aquaculture (Student Abstract)**.  *Masahito Okuno (Nagoya Institute of Technology), Takanobu Otsuka*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I10.7216)]
-
-32. **Multimodal Interaction-Aware Trajectory Prediction in Crowded Space**.  *Xiaodan Shi (The University of Tokyo), Xiaowei Shao, Zipei Fan, Renhe Jiang, Haoran Zhang, Zhiling Guo, Guangming Wu, Wei Yuan, Ryosuke Shibasaki*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6874)]
-
-33. **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting**.  *Chao Song (Beijing Jiaotong University), Youfang Lin, Shengnan Guo, Huaiyu Wan*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5438)]
-
-34. **Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding**.  *Zhecheng Wang (Stanford University), Haoyuan Li, Ram Rajagopal*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5450)]
-
-35. **OMuLeT: Online Multi-Lead Time Location Prediction for Hurricane Trajectory Forecasting**.  *Ding Wang (Michigan State University), Boyang Liu, Pang-Ning Tan, Lifeng Luo*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5444)]
-
-36. **Mining Unfollow Behavior in Large-Scale Online Social Networks via Spatial-Temporal Interaction**.  *Haozhe Wu (Tsinghua University), Zhiyuan Hu, Jia Jia, Yaohua Bu, Xiangnan He, Tat-Seng Chua*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5358)]
-
-37. **CF-LSTM: Cascaded Feature-Based Long Short-Term Networks for Predicting Pedestrian Trajectory**.  *Yi Xu (Xi'an Jiaotong University), Jing Yang, Shaoyi Du*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6943)]
-
-38. **Fairness-Aware Demand Prediction for New Mobility**.  *An Yan (University of Washington), Bill Howe*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5458)]
-
-39. **Protecting Geolocation Privacy of Photo Collections**.  *Jinghan Yang (Washington University in St. Louis), Ayan Chakrabarti, Yevgeniy Vorobeychik*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5390)]
-
-40. **AirNet: A Calibration Model for Low-Cost Air Monitoring Sensors Using Dual Sequence Encoder Networks**.  *Haomin Yu (Beijing Jiaotong University), Qingyong Li, Yangli-ao Geng, Yingjun Zhang, Zhi Wei*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5464)]
-
-41. **Spatio-Temporal Graph Structure Learning for Traffic Forecasting**.  *Qi Zhang (Chinese Academy of Sciences), Jianlong Chang, Gaofeng Meng, Shiming Xiang, Chunhong Pan*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5470)]
-
-42. **Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction**.  *Weijia Zhang (University of Science and Technology of China), Hao Liu, Yanchi Liu, Jingbo Zhou, Hui Xiong*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5471)]
-
-43. **Multi-Instance Multi-Label Action Recognition and Localization Based on Spatio-Temporal Pre-Trimming for Untrimmed Videos**.  *Xiao-Yu Zhang (Institute of Information Engineering, Chinese Academy of Sciences), Haichao Shi, Changsheng Li, Peng Li*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.6986)]
-
-44. **D2D-LSTM: LSTM-Based Path Prediction of Content Diffusion Tree in Device-to-Device Social Networks**.  *Heng Zhang (Tianjin University), Xiaofei Wang, Jiawen Chen, Chenyang Wang, Jianxin Li*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5363)]
-
-45. **Variational Inference for Sparse Gaussian Process Modulated Hawkes Process**.  *Rui Zhang (Australian National University), Christian Walder, Marian-Andrei Rizoiu*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I04.6160)]
-
-46. **GMAN: A Graph Multi-Attention Network for Traffic Prediction**.  *Chuanpan Zheng (Xiamen University), Xiaoliang Fan, Cheng Wang, Jianzhong Qi*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5477)]
-
-47. **RiskOracle: A Minute-Level Citywide Traffic Accident Forecasting Framework**.  *Zhengyang Zhou (University of Science and Technology of China), Yang Wang, Xike Xie, Lianliang Chen, Hengchang Liu*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5480)]
-
-48. **Towards Omni-Supervised Face Alignment for Large Scale Unlabeled Videos**.  *Congcong Zhu (Shanghai University), Hao Liu*(corresponding author), Zhenhua Yu, Xuehong Sun*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I07.7011)]
-
-49. **Object-Oriented Dynamics Learning through Multi-Level Abstraction**.  *Guangxiang Zhu (Tsinghua university), Jianhao Wang, Zhizhou Ren, Zichuan Lin, Chongjie Zhang*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I04.6183)]
+18. **RiskOracle: A Minute-Level Citywide Traffic Accident Forecasting Framework**.  *Zhengyang Zhou (University of Science and Technology of China), Yang Wang, Xike Xie, Lianliang Chen, Hengchang Liu*. ***AAAI 2020*** [[link](https://www.doi.org/10.1609/AAAI.V34I01.5480)]
 
 ## IJCAI 2020
 
@@ -1137,47 +1033,29 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 
 2. **Multi-View Joint Graph Representation Learning for Urban Region Embedding**.  *Mingyang Zhang, Tong Li, Yong Li, Pan Hui*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/611)]
 
-3. **Exploiting Neuron and Synapse Filter Dynamics in Spatial Temporal Learning of Deep Spiking Neural Network**.  *Haowen Fang, Amar Shrestha, Ziyi Zhao, Qinru Qiu*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/388)]
+3. **A Sequential Convolution Network for Population Flow Prediction with Explicitly Correlation Modelling**.  *Jie Feng, Ziqian Lin, Tong Xia, Funing Sun, Diansheng Guo, Yong Li*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/185)]
 
-4. **A Sequential Convolution Network for Population Flow Prediction with Explicitly Correlation Modelling**.  *Jie Feng, Ziqian Lin, Tong Xia, Funing Sun, Diansheng Guo, Yong Li*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/185)]
+4. **LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks**.  *Rongzhou Huang, Chuyin Huang, Yubao Liu, Genan Dai, Weiyang Kong*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/326)]
 
-5. **Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution**.  *Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/386)]
+5. **Cross-Interaction Hierarchical Attention Networks for Urban Anomaly Prediction**.  *Chao Huang, Chuxu Zhang, Peng Dai, Liefeng Bo*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/601)]
 
-6. **Predicting Landslides Using Locally Aligned Convolutional Neural Networks**.  *Ainaz Hajimoradlou, Gioachino Roberti, David Poole*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/462)]
+6. **Real-Time Dispatching of Large-Scale Ride-Sharing Systems: Integrating Optimization, Machine Learning, and Model Predictive Control**.  *Connor Riley, Pascal van Hentenryck, Enpeng Yuan*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/609)]
 
-7. **LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks**.  *Rongzhou Huang, Chuyin Huang, Yubao Liu, Genan Dai, Weiyang Kong*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/326)]
+7. **Population Location and Movement Estimation through Cross-domain Data Analysis**.  *Xinghao Yang, Wei Liu*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/736)]
 
-8. **Cross-Interaction Hierarchical Attention Networks for Urban Anomaly Prediction**.  *Chao Huang, Chuxu Zhang, Peng Dai, Liefeng Bo*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/601)]
+8. **Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!**.  *Dingqi Yang, Benjamin Fankhauser, Paolo Rosso, Philippe Cudre-Mauroux*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/302)]
 
-9. **Forecasting Avian Migration Patterns  using a Deep Bidirectional RNN  Augmented with an Auxiliary Task**.  *Kehinde Owoeye*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/604)]
+9. **MaCAR: Urban Traffic Light Control via Active Multi-agent Communication and Action Rectification**.  *Zhengxu Yu, Shuxian Liang, Long Wei, Zhongming Jin, Jianqiang Huang, Deng Cai, Xiaofei He, Xian-Sheng Hua*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/345)]
 
-10. **Spatio-Temporal Change Detection Using Granger Sequence Pattern**.  *Nat Pavasant, Masayuki Numao, Ken-ichi Fukui*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/741)]
+10. **PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction**.  *Feng Zhang, Ningxuan Feng, Yani Liu, Cheng Yang, Jidong Zhai, Shuhao Zhang, Bingsheng He, Jiazao Lin, Xiaoyong Du*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/610)]
 
-11. **Real-Time Dispatching of Large-Scale Ride-Sharing Systems: Integrating Optimization, Machine Learning, and Model Predictive Control**.  *Connor Riley, Pascal van Hentenryck, Enpeng Yuan*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/609)]
-
-12. **A Novel Spatio-Temporal Multi-Task Approach for the Prediction of Diabetes-Related Complication: a Cardiopathy Case of Study**.  *Luca Romeo, Giuseppe Armentano, Antonio Nicolucci, Marco Vespasiani, Giacomo Vespasiani, Emanuele Frontoni*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/593)]
-
-13. **Population Location and Movement Estimation through Cross-domain Data Analysis**.  *Xinghao Yang, Wei Liu*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/736)]
-
-14. **Flow-based Intrinsic Curiosity Module**.  *Hsuan-Kung Yang, Po-Han Chiang, Min-Fong Hong, Chun-Yi Lee*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/286)]
-
-15. **Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!**.  *Dingqi Yang, Benjamin Fankhauser, Paolo Rosso, Philippe Cudre-Mauroux*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/302)]
-
-16. **MaCAR: Urban Traffic Light Control via Active Multi-agent Communication and Action Rectification**.  *Zhengxu Yu, Shuxian Liang, Long Wei, Zhongming Jin, Jianqiang Huang, Deng Cai, Xiaofei He, Xian-Sheng Hua*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/345)]
-
-17. **Few-shot Human Motion Prediction via Learning Novel Motion Dynamics**.  *Chuanqi Zang, Mingtao Pei, Yu Kong*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/118)]
-
-18. **PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction**.  *Feng Zhang, Ningxuan Feng, Yani Liu, Cheng Yang, Jidong Zhai, Shuhao Zhang, Bingsheng He, Jiazao Lin, Xiaoyong Du*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/610)]
-
-19. **An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins**.  *Lu Zhang, Zhu Sun, Jie Zhang, Yu Lei, Chen Li, Ziqing Wu, Horst Kloeden, Felix Klanner*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/491)]
+11. **An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins**.  *Lu Zhang, Zhu Sun, Jie Zhang, Yu Lei, Chen Li, Ziqing Wu, Horst Kloeden, Felix Klanner*. ***IJCAI 2020*** [[link](https://www.doi.org/10.24963/IJCAI.2020/491)]
 
 ## WSDM 2020
 
-1. **Computer Vision for Fashion: From Individual Recommendations to World-wide Trends**.  *Kristen Grauman (University of Texas at Austin & Facebook AI Research, Austin)*. ***WSDM 2020*** [[link](https://www.doi.org/10.1145/3336191.3372192)]
+1. **Context-aware Deep Model for Joint Mobility and Time Prediction**.  *Yile Chen (Nanyang Technological University, Singapore), Cheng Long, Gao Cong, Chenliang Li*. ***WSDM 2020*** [[link](https://www.doi.org/10.1145/3336191.3371837)]
 
-2. **Context-aware Deep Model for Joint Mobility and Time Prediction**.  *Yile Chen (Nanyang Technological University, Singapore), Cheng Long, Gao Cong, Chenliang Li*. ***WSDM 2020*** [[link](https://www.doi.org/10.1145/3336191.3371837)]
-
-3. **Predicting Human Mobility via Attentive Convolutional Network**.  *Congcong Miao (Tsinghua University & Beijing National Research Center for Information Science and Technology, Beijing), Ziyan Luo, Fengzhu Zeng, Jilong Wang*. ***WSDM 2020*** [[link](https://www.doi.org/10.1145/3336191.3371846)]
+2. **Predicting Human Mobility via Attentive Convolutional Network**.  *Congcong Miao (Tsinghua University & Beijing National Research Center for Information Science and Technology, Beijing), Ziyan Luo, Fengzhu Zeng, Jilong Wang*. ***WSDM 2020*** [[link](https://www.doi.org/10.1145/3336191.3371846)]
 
 ## CIKM 2020
 
@@ -1195,29 +1073,19 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 
 7. **ST-GRAT: A Novel Spatio-temporal Graph Attention Networks for Accurately Forecasting Dynamically Changing Road Speed**.  *Cheonbok Park (NAVER Corp, Seongnam), Chunggi Lee, Hyojin Bahng, Yunwon Tae, Seungmin Jin, Kihwan Kim, Sungahn Ko, Jaegul Choo*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3411940)]
 
-8. **A GAN-based Framework for Modeling Hashtag Popularity Dynamics Using Assistive Information**.  *Avirup Saha (Indian Institute of Technology Kharagpur, India), Niloy Ganguly*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3412025)]
+8. **Multi-task Adversarial Spatial-Temporal Networks for Crowd Flow Prediction**.  *Senzhang Wang (Nanjing University of Aeronautics and Astronautics, Nanjing), Hao Miao, Hao Chen, Zhiqiu Huang*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3412054)]
 
-9. **Multi-task Adversarial Spatial-Temporal Networks for Crowd Flow Prediction**.  *Senzhang Wang (Nanjing University of Aeronautics and Astronautics, Nanjing), Hao Miao, Hao Chen, Zhiqiu Huang*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3412054)]
+9. **Deep Graph Convolutional Networks for Incident-Driven Traffic Speed Prediction**.  *Qinge Xie (Fudan University, Shanghai), Tiancheng Guo, Yang Chen, Yu Xiao, Xin Wang, Ben Y. Zhao*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3411873)]
 
-10. **Deep Graph Convolutional Networks for Incident-Driven Traffic Speed Prediction**.  *Qinge Xie (Fudan University, Shanghai), Tiancheng Guo, Yang Chen, Yu Xiao, Xin Wang, Ben Y. Zhao*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3411873)]
+10. **Spatial-Temporal Convolutional Graph Attention Networks for Citywide Traffic Flow Forecasting**.  *Xiyue Zhang (South China University of Technology, Guangzhou), Chao Huang, Yong Xu, Lianghao Xia*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3411941)]
 
-11. **Spatial-Temporal Convolutional Graph Attention Networks for Citywide Traffic Flow Forecasting**.  *Xiyue Zhang (South China University of Technology, Guangzhou), Chao Huang, Yong Xu, Lianghao Xia*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3411941)]
+11. **Modelling Regional Crime Risk using Directed Graph of Check-ins**.  *Shakila Khan Rumi (RMIT University, Melbourne), Flora D. Salim*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3412065)]
 
-12. **A Reproducibility Study of Deep and Surface Machine Learning Methods for Human-related Trajectory Prediction**.  *Bardh Prenkaj (Sapienza University of Rome, Rome), Paola Velardi, Damiano Distante, Stefano Faralli*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3412088)]
+12. **Magellan: A Personalized Travel Recommendation System Using Transaction Data**.  *Konik Kothari (University of Illinois at Urbana-Champaign, Champaign), Dhruv Gelda, Wei Zhang, Hao Yang*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3412725)]
 
-13. **Modelling Regional Crime Risk using Directed Graph of Check-ins**.  *Shakila Khan Rumi (RMIT University, Melbourne), Flora D. Salim*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3412065)]
+13. **Generating Full Spatiotemporal Vehicular Paths: A Data Fusion Approach**.  *Nan Xiao (Alibaba Cloud Computing, Alibaba Group), Nan Hu, Liang Yu, Cheng Long*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3412708)]
 
-14. **Behavior-driven Student Performance Prediction with Tri-branch Convolutional Neural Network**.  *Jian Zong (Shandong University, Jinan), Chaoran Cui, Yuling Ma, Li Yao, Meng Chen, Yilong Yin*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3412110)]
+14. **Smarter and Safer Traffic Signal Controlling via Deep Reinforcement Learning**.  *Bingquan Yu (Tongji University, Shanghai), Jinqiu Guo, Qinpei Zhao, Jiangfeng Li, Weixiong Rao*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3417450)]
 
-15. **Fine-Tuned Compressed Representations of Vessel Trajectories**.  *Giannis Fikioris (NCSR Demokritos, Athens), Kostas Patroumpas, Alexander Artikis, Georgios Paliouras, Manolis Pitsikalis*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3412706)]
-
-16. **Magellan: A Personalized Travel Recommendation System Using Transaction Data**.  *Konik Kothari (University of Illinois at Urbana-Champaign, Champaign), Dhruv Gelda, Wei Zhang, Hao Yang*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3412725)]
-
-17. **Helix: DGA Domain Embeddings for Tracking and Exploring Botnets**.  *Lior Sidi (Ben-Gurion University, Beer-Sheva), Yisroel Mirsky, Asaf Nadler, Yuval Elovici, Asaf Shabtai*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3416022)]
-
-18. **Generating Full Spatiotemporal Vehicular Paths: A Data Fusion Approach**.  *Nan Xiao (Alibaba Cloud Computing, Alibaba Group), Nan Hu, Liang Yu, Cheng Long*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3412708)]
-
-19. **Smarter and Safer Traffic Signal Controlling via Deep Reinforcement Learning**.  *Bingquan Yu (Tongji University, Shanghai), Jinqiu Guo, Qinpei Zhao, Jiangfeng Li, Weixiong Rao*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3417450)]
-
-20. **InterNet: Multistep Traffic Forecasting by Interacting Spatial and Temporal Features**.  *Yilian Xin (East China Normal University, Shanghai), Dezhuang Miao, Mengxia Zhu, Cheqing Jin, Xuesong Lu*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3417411)]
+15. **InterNet: Multistep Traffic Forecasting by Interacting Spatial and Temporal Features**.  *Yilian Xin (East China Normal University, Shanghai), Dezhuang Miao, Mengxia Zhu, Cheqing Jin, Xuesong Lu*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3417411)]
 
