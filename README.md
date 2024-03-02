@@ -1,8 +1,9 @@
 # Spatio-Temporal Prediction Papers
 
-This compilation focuses on spatio-temporal prediction papers. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. Currently, we've collected papers from conferences such as KDD, NeurIPS, AAAI, WWW, ICDE, IJCAI, WSDM, and CIKM, with ongoing efforts to expand our repository.
+This compilation focuses on spatio-temporal prediction papers. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. Currently, we've collected papers from conferences such as KDD, NeurIPS, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM and T-ITS, with ongoing efforts to expand our repository.
 
-- **New! Dec. 24, 2023: Add NeurIPS 2023!**
+- **New! Mar. 2, 2024: Add IEEE T-ITS 2020-2021!**
+- Dec. 24, 2023: Add NeurIPS 2023.
 - Dec. 17, 2023: Add IJCAI 2020, AAAI 2020-2022 and NeurIPS 2020.
 - Dec. 16, 2023: Add IJCAI 2021, IJCAI 2022 and NeurIPS 2021.
 - Dec. 15, 2023: Add IJCAI 2023 and NeurIPS 2022.
@@ -11,7 +12,6 @@ This compilation focuses on spatio-temporal prediction papers. Note that the met
 - Dec. 11, 2023: Add CIKM 2022 and CIKM 2021.
 - Dec. 10, 2023: Add WSDM 2022 and WWW 2021.
 - Dec. 9, 2023: Add WSDM 2021, WSDM 2020, WWW 2020, and CIKM 2020.
-- Dec. 8, 2023: Add KDD 2022, KDD 2021, and KDD 2020.
 
 ## NeurIPS 2023
 
@@ -430,6 +430,8 @@ Artificial Intelligence Department), Huaiyu Wan, Haomin Wen, Fan Wu, Jianbin Zhe
 2. **PopNet: Real-Time Population-Level Disease Prediction with Data Latency**.  *Junyi Gao (IQVIA, China), Cao Xiao, Lucas M. Glass, Jimeng Sun*. ***WWW 2022*** [[link](https://www.doi.org/10.1145/3485447.3512127)]
 
 3. **Socially-Equitable Interactive Graph Information Fusion-based Prediction for Urban Dockless E-Scooter Sharing**.  *Suining He (Department of Computer Science and Engineering, University of Connecticut), Kang G. Shin*. ***WWW 2022*** [[link](https://www.doi.org/10.1145/3485447.3512145)]
+
+4. **Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction**.  *Min Hou (University of Science and Technology of China, China), Chang Xu, Zhi Li, Yang Liu, Weiqing Liu, Enhong Chen, Jiang Bian*. ***WWW 2022*** [[link](https://www.doi.org/10.1145/3485447.3512056)]
 
 ## ICDE 2022
 
@@ -899,6 +901,78 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 
 21. **#StayHome or #Marathon?: Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs**.  *Yichao Zhou (University of California, Los Angeles), Jyun-Yu Jiang, Xiusi Chen, Wei Wang*. ***CIKM 2021*** [[link](https://www.doi.org/10.1145/3459637.3482222)]
 
+## TITS 2021
+
+1. **Traffic Flow Prediction Based on Deep Learning in Internet of Vehicles**.  *Chen Chen (State Key Laboratory of Integrated Service Networks, Xidian University), Ziye Liu, Shaohua Wan, Jintai Luan, Qingqi Pei*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.3025856)]
+
+2. **Short-Term Traffic Forecasting by Mining the Non-Stationarity of Spatiotemporal Patterns**.  *Shifen Cheng (State Key Laboratory of Resources and Environmental Information System, Institute of Geographic Sciences and Natural Resources Research), Feng Lu, Peng Peng*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2991781)]
+
+3. **Sparse Bayesian Learning Assisted Approaches for Road Network Traffic State Estimation**.  *C. Narendra Babu (Department of Computer Science Engineering, Faculty of Engineering and Technology), Pallaviram Sure, Chandra Mohan Bhuma*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2971031)]
+
+4. **Modeling Time-Varying Variability and Reliability of Freeway Travel Time Using Functional Principal Component Analysis**.  *Jeng-Min Chiou (Institute of Statistical Science, Academia Sinica), Han-Tsung Liou, Wan-Hui Chen*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2019.2956090)]
+
+5. **Grids Versus Graphs: Partitioning Space for Improved Taxi Demand-Supply Forecasts**.  *Neema Davis (Department of Electrical Engineering, Indian Institute of Technology Madras), Gaurav Raina, Krishna Jagannathan*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2993798)]
+
+6. **Traffic Demand Prediction Based on Dynamic Transition Convolutional Neural Network**.  *Bowen Du (State Key Laboratory of Software Development Environment (SKLSDE), School of Computer Science and Engineering), Xiao Hu, Leilei Sun, Junming Liu, Yanan Qiao, Weifeng Lv*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2966498)]
+
+7. **Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction**.  *Kan Guo (Beijing Key Laboratory of Multimedia and Intelligent Software Technology, Faculty of Information Technology), Yongli Hu, Zhen Qian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2019.2963722)]
+
+8. **STNN: A Spatio-Temporal Neural Network for Traffic Predictions**.  *Zhixiang He (Department of Computer Science, City University of Hong Kong), Chi-Yin Chow, Jia-Dong Zhang*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.3006227)]
+
+9. **Hierarchical Bayesian Framework for Bus Dwell Time Prediction**.  *Isaac K. Isukapati (Robotics Institute, Carnegie Mellon University), Conor Igoe, Eli Bronstein, Viraj Parimi, Stephen F. Smith*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2979390)]
+
+10. **Predicting Citywide Road Traffic Flow Using Deep Spatiotemporal Neural Networks**.  *Tao Jia (School of Remote Sensing and Information Engineering, Wuhan University), Penggao Yan*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2979634)]
+
+11. **Short-Term Prediction of Urban Rail Transit Passenger Flow in External Passenger Transport Hub Based on LSTM-LGB-DRS**.  *Yun Jing (School of Traffic and Transportation, Beijing Jiaotong University), Hongtao Hu, Siye Guo, Xuan Wang, Fangqiu Chen*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.3017109)]
+
+12. **Travel Time Prediction for Congested Freeways With a Dynamic Linear Model**.  *Semin Kwak (Urban Transport Systems Laboratory (LUTS), École Polytechnique Fédérale de Lausanne), Nikolas Geroliminis*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.3006910)]
+
+13. **Predicting Short-Term Traffic Speed Using a Deep Neural Network to Accommodate Citywide Spatio-Temporal Correlations**.  *Yongjin Lee (KSB Convergence Research Department, ETRI), Hyunjeong Jeon, Keemin Sohn*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2970754)]
+
+14. **Data Fusion for Multi-Source Sensors Using GA-PSO-BP Neural Network**.  *Jiguo Liu (School of Software, Beihang University), Jian Huang, Rui Sun, Haitao Yu, Randong Xiao*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.3010296)]
+
+15. **Short-Term Strong Wind Risk Prediction for High-Speed Railway**.  *Haoyu Liu (State Key Laboratory of Industrial Control Technology, Zhejiang University), Chen Liu, Shibo He, Jiming Chen*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2021.3058608)]
+
+16. **Automatic Feature Engineering for Bus Passenger Flow Prediction Based on Modular Convolutional Neural Network**.  *Yang Liu (Jiangsu Key Laboratory of Urban ITS, Jiangsu Province Collaborative Innovation Center of Modern Urban Traffic Technologies), Cheng Lyu, Xin Liu, Zhiyuan Liu*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.3004254)]
+
+17. **Dynamic Spatial-Temporal Representation Learning for Traffic Flow Prediction**.  *Lingbo Liu (School of Data and Computer Science, Sun Yat-sen University), Jiajie Zhen, Guanbin Li, Geng Zhan, Zhaocheng He, Bowen Du, Liang Lin*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.3002718)]
+
+18. **Fine-Grained Service-Level Passenger Flow Prediction for Bus Transit Systems Based on Multitask Deep Learning**.  *Dan Luo (Beijing Key Laboratory of Intelligent Telecommunication Software and Multimedia, School of Computer Science), Dong Zhao, Qixue Ke, Xiaoyong You, Liang Liu, Desheng Zhang, Huadong Ma, Xingquan Zuo*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.3002772)]
+
+19. **Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction**.  *Mingqi Lv (College of Computer Science and Technology, Zhejiang University of Technology), Zhaoxiong Hong, Ling Chen, Tieming Chen, Tiantian Zhu, Shouling Ji*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2983763)]
+
+20. **Daily Traffic Flow Forecasting Through a Contextual Convolutional Recurrent Neural Network Modeling Inter- and Intra-Day Traffic Patterns**.  *Dongfang Ma (Institute of Marine Information Science and Technology, Zhejiang University), Xiang Song, Pu Li*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2973279)]
+
+21. **Forecasting Transportation Network Speed Using Deep Capsule Networks With Nested LSTM Models**.  *Xiaolei Ma (Beijing Key Laboratory for Cooperative Vehicle Infrastructure System and Safety Control, School of Transportation Science and Engineering), Houyue Zhong, Yi Li, Junyan Ma, Zhiyong Cui, Yinhai Wang*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2984813)]
+
+22. **Topological Graph Convolutional Network-Based Urban Traffic Flow and Density Prediction**.  *Han Qiu (INFRES, Telecom Paris), Qinkai Zheng, Mounira Msahli, Gerard Memmi, Meikang Qiu, Jialiang Lu*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.3032882)]
+
+23. **A Spatial–Temporal Attention Approach for Traffic Prediction**.  *Xiaoming Shi (School of Electronic Information and Electrical Engineering, Dalian University of Technology), Heng Qi, Yanming Shen, Genze Wu, Baocai Yin*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2983651)]
+
+24. **Approach for Short-Term Traffic Flow Prediction Based on Empirical Mode Decomposition and Combination Model Fusion**.  *Zhongda Tian (College of Information Science and Engineering, Shenyang University of Technology)*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2987909)]
+
+25. **Fine-Grained Traffic Flow Prediction of Various Vehicle Types via Fusion of Multisource Data and Deep Learning Approaches**.  *Ping Wang (Institute for Transportation Systems Engineering Research and School of Electric and Control Engineering, Chang’an University), Wenbang Hao, Yinli Jin*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2997412)]
+
+26. **Estimating Traffic Flow in Large Road Networks Based on Multi-Source Traffic Data**.  *Pu Wang (School of Traffic and Transportation Engineering, Rail Data Research and Application Key Laboratory of Hunan Province), Jiyu Lai, Zhiren Huang, Qian Tan, Tao Lin*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2988801)]
+
+27. **Long-Term Traffic Prediction Based on LSTM Encoder-Decoder Architecture**.  *Zhumei Wang (College of Computer Science, Beijing Advanced Innovation Center for Future Internet Technology), Xing Su, Zhiming Ding*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2995546)]
+
+28. **Metro Passenger Flow Prediction via Dynamic Hypergraph Convolution Networks**.  *Jingcheng Wang (Beijing Key Laboratory of Multimedia and Intelligent Software Technology, Faculty of Information Technology), Yong Zhang, Yun Wei, Yongli Hu, Xinglin Piao, Baocai Yin*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2021.3072743)]
+
+29. **Predicting Bus Passenger Flow and Prioritizing Influential Factors Using Multi-Source Data: Scaled Stacking Gradient Boosting Decision Trees**.  *Weitiao Wu (School of Civil Engineering and Transportation, South China University of Technology), Yisong Xia, Wenzhou Jin*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.3035647)]
+
+30. **Spatial Origin-Destination Flow Imputation Using Graph Convolutional Networks**.  *Xin Yao (Institute of Remote Sensing and Geographical Information Systems, School of Earth and Space Sciences), Yong Gao, Di Zhu, Ed Manley, Jiaoe Wang, Yu Liu*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.3003310)]
+
+31. **An Automated Hyperparameter Search-Based Deep Learning Model for Highway Traffic Prediction**.  *Hongsuk Yi (Korea Institute of Science and Technology Information, Daejeon), Khac-Hoai Nam Bui*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2987614)]
+
+32. **A Low Rank Dynamic Mode Decomposition Model for Short-Term Traffic Flow Prediction**.  *Yadong Yu (Beijing Key Laboratory of Multimedia and Intelligent Software Technology, Beijing Artificial Intelligence Institute Faculty of Information Technology), Yong Zhang, Sean Qian, Shaofan Wang, Yongli Hu, Baocai Yin*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2994910)]
+
+33. **Deep Learning Architecture for Short-Term Passenger Flow Forecasting in Urban Rail Transit**.  *Jinlei Zhang (School of Civil Engineering, Beijing Jiaotong University), Feng Chen, Zhiyong Cui, Yinan Guo, Yadi Zhu*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.3000761)]
+
+34. **TrafficGAN: Network-Scale Deep Traffic Prediction With Generative Adversarial Nets**.  *Yuxuan Zhang (College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics), Senzhang Wang, Bing Chen, Jiannong Cao, Zhiqiu Huang*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2019.2955794)]
+
+35. **A Hybrid Deep Learning Model With Attention-Based Conv-LSTM Networks for Short-Term Traffic Flow Prediction**.  *Haifeng Zheng (Fujian Key Laboratory for Intelligent Processing and Wireless Transmission of Media Information, College of Physics and Information Engineering), Feng Lin, Xinxin Feng, Youjia Chen*. ***TITS 2021*** [[link](https://www.doi.org/10.1109/TITS.2020.2997352)]
+
 ## NeurIPS 2020
 
 1. **Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting**.  *LEI BAI, Lina Yao, Can Li, Xianzhi Wang, Can Wang*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/ce1aad92b939420fc17005e5461e6f48-Abstract.html)]
@@ -1088,4 +1162,42 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 14. **Smarter and Safer Traffic Signal Controlling via Deep Reinforcement Learning**.  *Bingquan Yu (Tongji University, Shanghai), Jinqiu Guo, Qinpei Zhao, Jiangfeng Li, Weixiong Rao*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3417450)]
 
 15. **InterNet: Multistep Traffic Forecasting by Interacting Spatial and Temporal Features**.  *Yilian Xin (East China Normal University, Shanghai), Dezhuang Miao, Mengxia Zhu, Cheqing Jin, Xuesong Lu*. ***CIKM 2020*** [[link](https://www.doi.org/10.1145/3340531.3417411)]
+
+## TITS 2020
+
+1. **Bus Arrival Time Prediction: A Spatial Kalman Filter Approach**.  *Avinash Achar (TCS Research, Chennai), Dhivya Bharathi, Bachu Anil Kumar, Lelitha Vanajakshi*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2909314)]
+
+2. **Traffic Flow Imputation Using Parallel Data and Generative Adversarial Networks**.  *Yuanyuan Chen (State Key Laboratory for Management and Control of Complex Systems, Institute of Automation), Yisheng Lv, Fei-Yue Wang*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2910295)]
+
+3. **Subway Passenger Flow Prediction for Special Events Using Smart Card Data**.  *Enhui Chen (School of Transportation, Southeast University), Zhirui Ye, Chao Wang, Mingtao Xu*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2902405)]
+
+4. **Deep Multi-Scale Convolutional LSTM Network for Travel Demand and Origin-Destination Predictions**.  *Kai-Fung Chu (Department of Electrical and Electronic Engineering, The University of Hong Kong), Albert Y. S. Lam, Victor O. K. Li*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2924971)]
+
+5. **Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting**.  *Zhiyong Cui (Department of Civil and Environmental Engineering, University of Washington), Kristian Henrickson, Ruimin Ke, Yinhai Wang*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2950416)]
+
+6. **How Road and Mobile Networks Correlate: Estimating Urban Traffic Using Handovers**.  *Thierry Derrmann (Interdisciplinary Centre for Security, Reliability and Trust), Raphaël Frank, Francesco Viti, Thomas Engel*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2901373)]
+
+7. **Deep Irregular Convolutional Residual LSTM for Urban Traffic Passenger Flows Prediction**.  *Bowen Du (State Key Laboratory of Software Development Environment, Beihang University), Hao Peng, Senzhang Wang, Md Zakirul Alam Bhuiyan, Lihong Wang, Qiran Gong, Lin Liu, Jing Li*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2900481)]
+
+8. **Estimation of Link Travel Time Distribution With Limited Traffic Detectors**.  *Peibo Duan (School of Computing and Communication, University of Technology Sydney), Guoqiang Mao, Jun Kang, Baoqi Huang*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2932053)]
+
+9. **An Improved Bayesian Combination Model for Short-Term Traffic Prediction With Deep Learning**.  *Yuanli Gu (Key Laboratory of Transport Industry of Big Data Application Technologies for Comprehensive Transport, Ministry of Transport), Wenqi Lu, Xinyue Xu, Lingqiao Qin, Zhuangzhuang Shao, Hanyu Zhang*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2939290)]
+
+10. **Short-Term Traffic Flow Forecasting: A Component-Wise Gradient Boosting Approach With Hierarchical Reconciliation**.  *Zili Li (School of Civil Engineering, The University of Queensland), Zuduo Zheng, Simon Washington*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2948381)]
+
+11. **Spatio-Temporal Ensemble Method for Car-Hailing Demand Prediction**.  *Yang Liu (Jiangsu Key Laboratory of Urban ITS, Jiangsu Province Collaborative Innovation Center of Modern Urban Traffic Technologies), Cheng Lyu, Anish Khadka, Wenbo Zhang, Zhiyuan Liu*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2948790)]
+
+12. **Attention-Based Deep Ensemble Net for Large-Scale Online Taxi-Hailing Demand Prediction**.  *Yang Liu (Jiangsu Key Laboratory of Urban ITS, Jiangsu Province Collaborative Innovation Center of Modern Urban Traffic Technologies), Zhiyuan Liu, Cheng Lyu, Jieping Ye*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2947145)]
+
+13. **Multi-Scale and Multi-Scope Convolutional Neural Networks for Destination Prediction of Trajectories**.  *Jianming Lv (Department of Computer Science and Engineering, South China University of Technology), Qinghui Sun, Qing Li, Luis Moreira-Matias*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2924903)]
+
+14. **Fundamental Limits of Missing Traffic Data Estimation in Urban Networks**.  *Shangbo Wang (School of Computing and Communications, University of Technology Sydney), Guoqiang Mao*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2903524)]
+
+15. **Short-Term Prediction of Passenger Demand in Multi-Zone Level: Temporal Convolutional Neural Network With Multi-Task Learning**.  *Kunpeng Zhang (State Key Laboratory of Advanced Design and Manufacturing for Vehicle Body, College of Mechanical and Vehicle Engineering), Zijian Liu, Liang Zheng*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2909571)]
+
+16. **T-GCN: A Temporal Graph Convolutional Network for Traffic Prediction**.  *Ling Zhao (School of Geosciences and Info-Physics, Central South University), Yujiao Song, Chao Zhang, Yu Liu, Pu Wang, Tao Lin, Min Deng, Haifeng Li*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2935152)]
+
+17. **DeepSTD: Mining Spatio-Temporal Disturbances of Multiple Context Factors for Citywide Traffic Flow Prediction**.  *Chuanpan Zheng (Fujian Key Laboratory of Sensing and Computing for Smart Cities, School of Informatics), Xiaoliang Fan, Chenglu Wen, Longbiao Chen, Cheng Wang, Jonathan Li*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2932785)]
+
+18. **Spatial–Temporal Deep Tensor Neural Networks for Large-Scale Urban Network Speed Prediction**.  *Lingxiao Zhou (Institute of Intelligent Transportation Systems, College of Civil Engineering and Architecture), Shuaichao Zhang, Jingru Yu, Xiqun Chen*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2932038)]
 
