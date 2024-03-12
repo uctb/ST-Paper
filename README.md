@@ -2,7 +2,8 @@
 
 This compilation focuses on spatio-temporal prediction papers. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. Currently, we've collected papers from conferences such as KDD, NeurIPS, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM and T-ITS, with ongoing efforts to expand our repository.
 
-- **New! Mar. 2, 2024: Add IEEE T-ITS 2020-2021!**
+- **New! Mar. 12, 2024: Add WSDM 2024!**
+- Mar. 2, 2024: Add IEEE T-ITS 2020-2021.
 - Dec. 24, 2023: Add NeurIPS 2023.
 - Dec. 17, 2023: Add IJCAI 2020, AAAI 2020-2022 and NeurIPS 2020.
 - Dec. 16, 2023: Add IJCAI 2021, IJCAI 2022 and NeurIPS 2021.
@@ -11,7 +12,18 @@ This compilation focuses on spatio-temporal prediction papers. Note that the met
 - Dec. 12, 2023: Add ICDE 2020, 2021, 2022 and 2023.
 - Dec. 11, 2023: Add CIKM 2022 and CIKM 2021.
 - Dec. 10, 2023: Add WSDM 2022 and WWW 2021.
-- Dec. 9, 2023: Add WSDM 2021, WSDM 2020, WWW 2020, and CIKM 2020.
+
+## WSDM 2024
+
+1. **CityCAN: Causal Attention Network for Citywide Spatio-Temporal Forecasting**.  *Chengxin Wang, Yuxuan Liang, Gary Tan*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3635764)]
+
+2. **CreST: A Credible Spatiotemporal Learning Framework for Uncertainty-aware Traffic Forecasting**.  *Zhengyang Zhou, Jiahao Shi, Hongbo Zhang, Qiongyu Chen, Xu Wang, Hongyang Chen, Yang Wang*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3635759)]
+
+3. **MultiSPANS: A Multi-range Spatial-Temporal Transformer Network for Traffic Forecast via Structural Entropy Optimization**.  *Dongcheng Zou, Senzhang Wang, Xuefeng Li, Hao Peng, Yuandong Wang, Chunyang Liu, Kehua Sheng, Bo Zhang*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3635820)]
+
+4. **Real-time E-bike Route Planning with Battery Range Prediction**.  *Zhao Li, Guoqi Ren, Yongchun Gu, Siwei Zhou, Xuanwu Liu, Jiaming Huang, Ming Li*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3635696)]
+
+5. **Profiling Urban Mobility Patterns with High Spatial and Temporal Resolution: A Deep Dive into Cellphone Geo-position Data**.  *José Ignacio Huertas, Luisa Fernanda Chaparro Sierra*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3636504)]
 
 ## NeurIPS 2023
 
