@@ -1,8 +1,9 @@
 # Spatio-Temporal Prediction Papers
 
-This compilation focuses on spatio-temporal prediction papers. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. Currently, we've collected papers from conferences such as KDD, NeurIPS, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM and T-ITS, with ongoing efforts to expand our repository.
+This compilation focuses on spatio-temporal prediction papers. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. Currently, we've collected papers from conferences such as KDD, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM and T-ITS, with ongoing efforts to expand our repository.
 
-- **New! Mar. 12, 2024: Add WSDM 2024!**
+- **New! Mar. 20, 2024: Add ICLR 2024!**
+- Mar. 12, 2024: Add WSDM 2024.
 - Mar. 2, 2024: Add IEEE T-ITS 2020-2021.
 - Dec. 24, 2023: Add NeurIPS 2023.
 - Dec. 17, 2023: Add IJCAI 2020, AAAI 2020-2022 and NeurIPS 2020.
@@ -11,19 +12,38 @@ This compilation focuses on spatio-temporal prediction papers. Note that the met
 - Dec. 14, 2023: Add AAAI 2023.
 - Dec. 12, 2023: Add ICDE 2020, 2021, 2022 and 2023.
 - Dec. 11, 2023: Add CIKM 2022 and CIKM 2021.
-- Dec. 10, 2023: Add WSDM 2022 and WWW 2021.
+
+## ICLR 2024
+
+1. **NuwaDynamics: Discovering and Updating in Causal Spatio-Temporal Modeling**.  *Kun Wang, Hao Wu, Yifan Duan, Guibin Zhang, Kai Wang, Xiaojiang Peng, Yu Zheng, Yuxuan Liang, Yang Wang*. ***ICLR 2024*** [[link](https://openreview.net/forum?id=sLdVl0q68X)]
+
+2. **Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data**.  *Young-Jae Park, Minseok Seo, Doyi Kim, Hyeri Kim, Sanghoon Choi, Beomkyu Choi, Jeongwon Ryu, Sohee Son, Hae-Gon Jeon, Yeji Choi*. ***ICLR 2024*** [[link](https://openreview.net/forum?id=ziDFH8TPPK)]
+
+3. **TESTAM: A Time-Enhanced Spatio-Temporal Attention Model with Mixture of Experts**.  *Hyunwook Lee, Sungahn Ko*. ***ICLR 2024*** [[link](https://openreview.net/forum?id=N0nTk5BSvO)]
+
+4. **DiffusionSat: A Generative Foundation Model for Satellite Imagery**.  *Samar Khanna, Patrick Liu, Linqi Zhou, Chenlin Meng, Robin Rombach, Marshall Burke, David B. Lobell, Stefano Ermon*. ***ICLR 2024*** [[link](https://openreview.net/forum?id=I5webNFDgQ)]
+
+5. **AirPhyNet: Harnessing Physics-Guided Neural Networks for Air Quality Prediction**.  *Kethmi Hirushini Hettige, Jiahao Ji, Shili Xiang, Cheng Long, Gao Cong, Jingyuan Wang*. ***ICLR 2024*** [[link](https://openreview.net/forum?id=JW3jTjaaAB)]
+
+6. **Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values**.  *Xiaodan Chen, Xiucheng Li, Bo Liu, Zhijun Li*. ***ICLR 2024*** [[link](https://openreview.net/forum?id=O9nZCwdGcG)]
+
+7. **GeoLLM: Extracting Geospatial Knowledge from Large Language Models**.  *Rohin Manvi, Samar Khanna, Gengchen Mai, Marshall Burke, David B. Lobell, Stefano Ermon*. ***ICLR 2024*** [[link](https://openreview.net/forum?id=TqL2xBwXP3)]
+
+8. **Spatio-Temporal Few-Shot Learning via Diffusive Neural Network Generation**.  *Yuan Yuan, Chenyang Shao, Jingtao Ding, Depeng Jin, Yong Li*. ***ICLR 2024*** [[link](https://openreview.net/forum?id=QyFm3D3Tzi)]
+
+9. **STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction**.  *Dennis Wu, Jerry Yao-Chieh Hu, Weijian Li, Bo-Yu Chen, Han Liu*. ***ICLR 2024*** [[link](https://openreview.net/forum?id=6iwg437CZs)]
 
 ## WSDM 2024
 
-1. **CityCAN: Causal Attention Network for Citywide Spatio-Temporal Forecasting**.  *Chengxin Wang, Yuxuan Liang, Gary Tan*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3635764)]
+1. **CityCAN: Causal Attention Network for Citywide Spatio-Temporal Forecasting**.  *Chengxin Wang (National University of Singapore, Singapore), Yuxuan Liang, Gary Tan*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3635764)]
 
-2. **CreST: A Credible Spatiotemporal Learning Framework for Uncertainty-aware Traffic Forecasting**.  *Zhengyang Zhou, Jiahao Shi, Hongbo Zhang, Qiongyu Chen, Xu Wang, Hongyang Chen, Yang Wang*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3635759)]
+2. **CreST: A Credible Spatiotemporal Learning Framework for Uncertainty-aware Traffic Forecasting**.  *Zhengyang Zhou (University of Science and Technology of China (USTC) & Suzhou Institute for Advanced Research, USTC), Jiahao Shi, Hongbo Zhang, Qiongyu Chen, Xu Wang, Hongyang Chen, Yang Wang*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3635759)]
 
-3. **MultiSPANS: A Multi-range Spatial-Temporal Transformer Network for Traffic Forecast via Structural Entropy Optimization**.  *Dongcheng Zou, Senzhang Wang, Xuefeng Li, Hao Peng, Yuandong Wang, Chunyang Liu, Kehua Sheng, Bo Zhang*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3635820)]
+3. **MultiSPANS: A Multi-range Spatial-Temporal Transformer Network for Traffic Forecast via Structural Entropy Optimization**.  *Dongcheng Zou (Beihang University, Beijing), Senzhang Wang, Xuefeng Li, Hao Peng, Yuandong Wang, Chunyang Liu, Kehua Sheng, Bo Zhang*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3635820)]
 
-4. **Real-time E-bike Route Planning with Battery Range Prediction**.  *Zhao Li, Guoqi Ren, Yongchun Gu, Siwei Zhou, Xuanwu Liu, Jiaming Huang, Ming Li*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3635696)]
+4. **Real-time E-bike Route Planning with Battery Range Prediction**.  *Zhao Li (Hangzhou Yugu Technology Co.,Ltd), Guoqi Ren, Yongchun Gu, Siwei Zhou, Xuanwu Liu, Jiaming Huang, Ming Li*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3635696)]
 
-5. **Profiling Urban Mobility Patterns with High Spatial and Temporal Resolution: A Deep Dive into Cellphone Geo-position Data**.  *José Ignacio Huertas, Luisa Fernanda Chaparro Sierra*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3636504)]
+5. **Profiling Urban Mobility Patterns with High Spatial and Temporal Resolution: A Deep Dive into Cellphone Geo-position Data**.  *José Ignacio Huertas (Department of Sciences School of Engineering and Sciences, Tecnologico de Monterrey), Luisa Fernanda Chaparro Sierra*. ***WSDM 2024*** [[link](https://www.doi.org/10.1145/3616855.3636504)]
 
 ## NeurIPS 2023
 
