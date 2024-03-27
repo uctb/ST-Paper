@@ -1,17 +1,17 @@
 # Spatio-Temporal Prediction Papers
 
-This compilation focuses on spatio-temporal prediction papers. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. Currently, we've collected papers from venues such as KDD, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM and T-ITS, with ongoing efforts to expand our repository.
+This compilation focuses on spatio-temporal prediction papers. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. Currently, we've collected papers from venues such as KDD, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM, IEEE TITS and IEEE TMC, with ongoing efforts to expand our repository.
 
-- **New! Mar. 25, 2024: Add IEEE T-ITS 2022!**
+- **New! Mar. 27, 2024: Add IEEE TMC 2022, 2023!**
+- Mar. 25, 2024: Add IEEE TITS 2022.
 - Mar. 20, 2024: Add ICLR 2024.
 - Mar. 12, 2024: Add WSDM 2024.
-- Mar. 2, 2024: Add IEEE T-ITS 2020-2021.
+- Mar. 2, 2024: Add IEEE TITS 2020-2021.
 - Dec. 24, 2023: Add NeurIPS 2023.
 - Dec. 17, 2023: Add IJCAI 2020, AAAI 2020-2022 and NeurIPS 2020.
 - Dec. 16, 2023: Add IJCAI 2021, IJCAI 2022 and NeurIPS 2021.
 - Dec. 15, 2023: Add IJCAI 2023 and NeurIPS 2022.
 - Dec. 14, 2023: Add AAAI 2023.
-- Dec. 12, 2023: Add ICDE 2020, 2021, 2022 and 2023.
 
 ## ICLR 2024
 
@@ -158,6 +158,14 @@ This compilation focuses on spatio-temporal prediction papers. Note that the met
 29. **Online Few-Shot Time Series Classification for Aftershock Detection**.  *Sheng Zhong (The University of New Mexico, Albuquerque), Vinicius M.A. Souza, Glenn Eli Baker, Abdullah Mueen*. ***KDD 2023*** [[link](https://www.doi.org/10.1145/3580305.3599879)]
 
 30. **A Data-driven Region Generation Framework for Spatiotemporal Transportation Service Management**.  *Liyue Chen (Peking University, Beijing), Jiangyi Fang, Zhe Yu, Yongxin Tong, Shaosheng Cao, Leye Wang*. ***KDD 2023*** [[link](https://www.doi.org/10.1145/3580305.3599760)]
+
+## TMC 2023
+
+1. **Intelligent Routing in Directional Ad Hoc Networks Through Predictive Directional Heat Map From Spatio-Temporal Deep Learning**.  *Zhe Chu (Electrical, Computer Engineering), Fei Hu, Elizabeth Bentley, Sunil Kumar*. ***TMC 2023*** [[link](https://www.doi.org/10.1109/TMC.2023.3264447)]
+
+2. **Fine-Grained Spatio-Temporal Distribution Prediction of Mobile Content Delivery in 5G Ultra-Dense Networks**.  *Shaoyuan Huang (Tianjin Key Laboratory of Advanced Networking, College of Intelligence and Computing), Heng Zhang, Xiaofei Wang, Min Chen, Jianxin Li, Victor C. M. Leung*. ***TMC 2023*** [[link](https://www.doi.org/10.1109/TMC.2022.3226448)]
+
+3. **Towards Accessible Shared Autonomous Electric Mobility With Dynamic Deadlines**.  *Guang Wang (Department of Computer Science, Florida State University), Zhou Qin, Shuai Wang, Huijun Sun, Zheng Dong, Desheng Zhang*. ***TMC 2023*** [[link](https://www.doi.org/10.1109/TMC.2022.3213125)]
 
 ## WWW 2023
 
@@ -454,6 +462,22 @@ Artificial Intelligence Department), Huaiyu Wan, Haomin Wen, Fan Wu, Jianbin Zhe
 20. **Activity Trajectory Generation via Modeling Spatiotemporal Dynamics**.  *Yuan Yuan (Tsinghua University, Beijing), Jingtao Ding, Huandong Wang, Depeng Jin, Yong Li*. ***KDD 2022*** [[link](https://www.doi.org/10.1145/3534678.3542671)]
 
 21. **Anomaly Detection for Spatiotemporal Data in Action**.  *Guang Yang (Amazon, Santa Clara), Ninad Kulkarni, Paavani Dua, Dipika Khullar, Alex Anto Chirayath*. ***KDD 2022*** [[link](https://www.doi.org/10.1145/3534678.3542626)]
+
+## TMC 2022
+
+1. **Time-Dependent Visiting Trip Planning With Crowd Density Prediction Based on Internet of Things Localization**.  *Lien-Wu Chen (Department of Information Engineering and Computer Science, Feng Chia University), Chia-Chun Weng*. ***TMC 2022*** [[link](https://www.doi.org/10.1109/TMC.2022.3168553)]
+
+2. **Boost Spectrum Prediction With Temporal-Frequency Fusion Network via Transfer Learning**.  *Kehan Li (Department of Control Science and Engineering, Zhejiang University), Chao Li, Jiming Chen, Qiming Zhang, Zebo Liu, Shibo He*. ***TMC 2022*** [[link](https://www.doi.org/10.1109/TMC.2021.3136941)]
+
+3. **Privacy-Preserving Travel Time Prediction With Uncertainty Using GPS Trace Data**.  *Fang Liu (Department of Applied and Computational Mathematics and Statistics, University of Notre Dame), Dong Wang, Zhengquan Xu*. ***TMC 2022*** [[link](https://www.doi.org/10.1109/TMC.2021.3074865)]
+
+4. **Spatiotemporal Urban Inference and Prediction in Sparse Mobile CrowdSensing: A Graph Neural Network Approach**.  *En Wang (Department of Computer Science and Technology and Key Laboratory of Symbolic Computation and Knowledge Engineering of Ministry of Education, Jilin University), Weiting Liu, Wenbin Liu, Yongjian Yang, Bo Yang, Jie Wu*. ***TMC 2022*** [[link](https://www.doi.org/10.1109/TMC.2022.3195706)]
+
+5. **MVSTGN: A Multi-View Spatial-Temporal Graph Network for Cellular Traffic Prediction**.  *Yang Yao (School of Intelligent Systems Engineering, Sun Yat-sen University), Bo Gu, Zhou Su, Mohsen Guizani*. ***TMC 2022*** [[link](https://www.doi.org/10.1109/TMC.2021.3129796)]
+
+6. **Modifiable Areal Unit Problem on Grided Mobile Crowd Sensing: Analysis and Restoration**.  *Yuhao Yao (Center for Spatial Information Science, University of Tokyo), Haoran Zhang, Defan Feng, Jinyu Chen, Wenjing Li, Ryosuke Shibasaki, Xuan Song*. ***TMC 2022*** [[link](https://www.doi.org/10.1109/TMC.2022.3147474)]
+
+7. **RedPacketBike: A Graph-Based Demand Modeling and Crowd-Driven Station Rebalancing Framework for Bike Sharing Systems**.  *Hang Zhu (Fujian Key Laboratory of Sensing and Computing for Smart Cities (SCSC), School of Informatics), Tieqi Shou, Ruiying Guo, Zhihan Jiang, Zeyu Wang, Zhiyuan Wang, Zhiyong Yu, Weijie Zhang, Cheng Wang, Longbiao Chen*. ***TMC 2022*** [[link](https://www.doi.org/10.1109/TMC.2022.3145979)]
 
 ## WWW 2022
 
