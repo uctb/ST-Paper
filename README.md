@@ -1,8 +1,9 @@
 # Spatio-Temporal Prediction Papers
 
-This compilation focuses on spatio-temporal prediction papers. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. Currently, we've collected papers from venues such as KDD, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM, IEEE TITS and IEEE TMC, with ongoing efforts to expand our repository.
+This compilation focuses on spatio-temporal prediction papers. Currently, we've collected papers from venues such as KDD, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM, IEEE TITS and IEEE TMC, with ongoing efforts to expand our repository. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. 
 
-- **New! Mar. 27, 2024: Add IEEE TMC 2022, 2023!**
+- **New! Apr. 3, 2024: Add IEEE TMC 2021, 2020!**
+- Mar. 27, 2024: Add IEEE TMC 2022, 2023.
 - Mar. 25, 2024: Add IEEE TITS 2022.
 - Mar. 20, 2024: Add ICLR 2024.
 - Mar. 12, 2024: Add WSDM 2024.
@@ -11,7 +12,6 @@ This compilation focuses on spatio-temporal prediction papers. Note that the met
 - Dec. 17, 2023: Add IJCAI 2020, AAAI 2020-2022 and NeurIPS 2020.
 - Dec. 16, 2023: Add IJCAI 2021, IJCAI 2022 and NeurIPS 2021.
 - Dec. 15, 2023: Add IJCAI 2023 and NeurIPS 2022.
-- Dec. 14, 2023: Add AAAI 2023.
 
 ## ICLR 2024
 
@@ -1033,6 +1033,22 @@ School of Computing Technologies), Renhe Jiang, Hao Xue, Flora D. Salim, Xuan So
 
 22. **Physics-Guided AI for Large-Scale Spatiotemporal Data**.  *Rose Yu (University of California, San Diego), Paris Perdikaris, Anuj Karpatne*. ***KDD 2021*** [[link](https://www.doi.org/10.1145/3447548.3470793)]
 
+## TMC 2021
+
+1. **Passenger Demand Prediction With Cellular Footprints**.  *Jing Chu (School of Software Engineering, Tsinghua Universtiy), Xu Wang, Kun Qian, Lina Yao, Fu Xiao, Jianbo Li, Zheng Yang*. ***TMC 2021*** [[link](https://www.doi.org/10.1109/TMC.2020.3005240)]
+
+2. **Graph Attention Spatial-Temporal Network With Collaborative Global-Local Learning for Citywide Mobile Traffic Prediction**.  *Kaiwen He (School of Data and Computer Science, Sun Yat-Sen University), Xu Chen, Qiong Wu, Shuai Yu, Zhi Zhou*. ***TMC 2021*** [[link](https://www.doi.org/10.1109/TMC.2020.3020582)]
+
+3. **Systematic Analysis of Fine-Grained Mobility Prediction With On-Device Contextual Data**.  *Huoran Li (Key Laboratory of High Confidence Software Technologies, Ministry of Education), Fuqi Lin, Xuan Lu, Chenren Xu, Gang Huang, Jun Zhang, Qiaozhu Mei, Xuanzhe Liu*. ***TMC 2021*** [[link](https://www.doi.org/10.1109/TMC.2020.3015921)]
+
+4. **Private Cell-ID Trajectory Prediction Using Multi-Graph Embedding and Encoder-Decoder Network**.  *Mingqi Lv (College of Computer Science and Technology, Zhejiang University of Technology), Dajian Zeng, Ling Chen, Tieming Chen, Tiantian Zhu, Shouling Ji*. ***TMC 2021*** [[link](https://www.doi.org/10.1109/TMC.2020.3047735)]
+
+5. **Prediction of Traffic Flow via Connected Vehicles**.  *Ranwa Al Mallah (Department of Computer Science, École Polytechnique de Montréal), Alejandro Quintero, Bilal Farooq*. ***TMC 2021*** [[link](https://www.doi.org/10.1109/TMC.2020.3006713)]
+
+6. **Mobile Data Traffic Prediction by Exploiting Time-Evolving User Mobility Patterns**.  *Feiyang Sun (MOE KLINNS Laboratory, Xi'an Jiaotong University), Pinghui Wang, Junzhou Zhao, Nuo Xu, Juxiang Zeng, Jing Tao, Kaikai Song, Chao Deng, John C.S. Lui, Xiaohong Guan*. ***TMC 2021*** [[link](https://www.doi.org/10.1109/TMC.2021.3079117)]
+
+7. **VeMo: Enable Transparent Vehicular Mobility Modeling at Individual Levels With Full Penetration**.  *Yu Yang (Department of Computer Science, Rutgers University), Xiaoyang Xie, Zhihan Fang, Fan Zhang, Yang Wang, Desheng Zhang*. ***TMC 2021*** [[link](https://www.doi.org/10.1109/TMC.2020.3044244)]
+
 ## WWW 2021
 
 1. **DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities**.  *Sayda Elmi (National University of Singapore, Singapore), Kian-Lee Tan*. ***WWW 2021*** [[link](https://www.doi.org/10.1145/3442381.3449983)]
@@ -1316,6 +1332,18 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 4. **SEVIR : A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology**.  *Mark Veillette, Siddharth Samsi, Chris Mattioli*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/fa78a16157fed00d7a80515818432169-Abstract.html)]
 
 5. **The Devil is in the Detail: A Framework for Macroscopic Prediction via Microscopic Models**.  *Yingxiang Yang, Negar Kiyavash, Le Song, Niao He*. ***NeurIPS 2020*** [[link](https://proceedings.neurips.cc/paper/2020/hash/5b8e9841e87fb8fc590434f5d933c92c-Abstract.html)]
+
+## TMC 2020
+
+1. **Data-Driven C-RAN Optimization Exploiting Traffic and Mobility Dynamics of Mobile Users**.  *Longbiao Chen (Fujian Key Laboratory of Sensing and Computing for Smart Cities (SCSC), School of Informatics), Thi-Mai-Trang Nguyen, Dingqi Yang, Michele Nogueira, Cheng Wang, Daqing Zhang*. ***TMC 2020*** [[link](https://www.doi.org/10.1109/TMC.2020.2971470)]
+
+2. **<i>BuildSenSys</i>: Reusing Building Sensing Data for Traffic Prediction With Cross-Domain Learning**.  *Xiaochen Fan (School of Electrical and Data Engineering, Faculty of Engineering and Information Technology), Chaocan Xiang, Chao Chen, Panlong Yang, Liangyi Gong, Xudong Song, Priyadarsi Nanda, Xiangjian He*. ***TMC 2020*** [[link](https://www.doi.org/10.1109/TMC.2020.2976936)]
+
+3. **Machine Learning at the Edge: A Data-Driven Architecture With Applications to 5G Cellular Networks**.  *Michele Polese (Department of Information Engineering (DEI), University of Padova), Rittwik Jana, Velin Kounev, Ke Zhang, Supratim Deb, Michele Zorzi*. ***TMC 2020*** [[link](https://www.doi.org/10.1109/TMC.2020.2999852)]
+
+4. **Predictability and Prediction of Human Mobility Based on Application-Collected Location Data**.  *Huandong Wang (Department of Electronic Engineering, Beijing National Research Center for Information Science and Technology (BNRist)), Sihan Zeng, Yong Li, Depeng Jin*. ***TMC 2020*** [[link](https://www.doi.org/10.1109/TMC.2020.2981441)]
+
+5. **STEP: A Spatio-Temporal Fine-Granular User Traffic Prediction System for Cellular Networks**.  *Lixing Yu (Department of Electrical Engineering and Computer Science, Case Western Reserve University), Ming Li, Wenqiang Jin, Yifan Guo, Qianlong Wang, Feng Yan, Pan Li*. ***TMC 2020*** [[link](https://www.doi.org/10.1109/TMC.2020.3001225)]
 
 ## KDD 2020
 
