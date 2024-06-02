@@ -2,7 +2,8 @@
 
 This compilation focuses on spatio-temporal prediction papers. Currently, we've collected papers from venues such as KDD, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM, IEEE TITS and IEEE TMC, with ongoing efforts to expand our repository. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. 
 
-- **New! Apr. 8, 2024: Add IEEE TITS 2023!**
+- **New! Jun. 2, 2024: Add AAAI 2024!**
+- Apr. 8, 2024: Add IEEE TITS 2023.
 - Apr. 3, 2024: Add IEEE TMC 2021, 2020.
 - Mar. 27, 2024: Add IEEE TMC 2022, 2023.
 - Mar. 25, 2024: Add IEEE TITS 2022.
@@ -11,7 +12,54 @@ This compilation focuses on spatio-temporal prediction papers. Currently, we've 
 - Mar. 2, 2024: Add IEEE TITS 2020-2021.
 - Dec. 24, 2023: Add NeurIPS 2023.
 - Dec. 17, 2023: Add IJCAI 2020, AAAI 2020-2022 and NeurIPS 2020.
-- Dec. 16, 2023: Add IJCAI 2021, IJCAI 2022 and NeurIPS 2021.
+
+## AAAI 2024
+
+1. **Hawkes-Enhanced Spatial-Temporal Hypergraph Contrastive Learning Based on Criminal Correlations**.  *Ke Liang (School of Computer, National University of Defense Technology), Sihang Zhou, Meng Liu, Yue Liu, Wenxuan Tu, Yi Zhang, Liming Fang, Zhe Liu, Xinwang Liu*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I8.28719)]
+
+2. **A Bayesian Spatial Model to Correct Under-Reporting in Urban Crowdsourcing**.  *Gabriel Agostini (Cornell Tech), Emma Pierson, Nikhil Garg*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I20.30190)]
+
+3. **Early Detection of Extreme Storm Tide Events Using Multimodal Data Processing**.  *Marcel Barros (Universidade de São Paulo), Andressa Pinto, Andres Monroy, Felipe Moreno, Jefferson Coelho, Aldomar Pietro Silva, Caio Fabricio Deberaldini Netto, José Roberto Leite, Marlon Mathias, Eduardo Tannuri, Artur Jordao, Edson Gomi, Fabio Cozman, Marcelo Dottori, Anna Helena Reali Costa*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I20.30194)]
+
+4. **Data-Driven Structural Fire Risk Prediction for City Properties**.  *Rupasree Dey (Oregon State University), Alan Fern*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I21.30325)]
+
+5. **Spatial-Temporal Augmentation for Crime Prediction (Student Abstract)**.  *Hongzhu Fu (University of Electronic Science and Technology of China), Fan Zhou, Qing Guo, Qiang Gao*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I21.30442)]
+
+6. **Efficient Representation Learning of Satellite Image Time Series and Their Fusion for Spatiotemporal Applications**.  *Poonam Goyal (BITS Pilani), Arshveer Kaur, Arvind Ram, Navneet Goyal*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I8.28686)]
+
+7. **FlightBERT++: A Non-autoregressive Multi-Horizon Flight Trajectory Prediction Framework**.  *Dongyue Guo (College of Computer Science, Sichuan University), Zheng Zhang, Zhen Yan, Jianwei Zhang, Yi Lin*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I1.27763)]
+
+8. **Fair Graph Learning Using Constraint-Aware Priority Adjustment and Graph Masking in River Networks**.  *Erhu He (University of Pittsburgh), Yiqun Xie, Alexander Sun, Jacob Zwart, Jie Yang, Zhenong Jin, Yang Wang, Hassan Karimi, Xiaowei Jia*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I20.30212)]
+
+9. **Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation**.  *Tianhao Huang (College of Computer Science, Nankai University), Xuan Pan, Xiangrui Cai, Ying Zhang, Xiaojie Yuan*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I8.28697)]
+
+10. **Temporal Dependencies and Spatio-Temporal Patterns of Time Series Models**.  *Md. Khairul Islam (University of Virginia)*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I21.30396)]
+
+11. **Spatio-Temporal Pivotal Graph Neural Networks for Traffic Flow Forecasting**.  *Weiyang Kong (Sun Yat-Sen University), Ziyu Guo, Yubao Liu*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I8.28707)]
+
+12. **TelTrans: Applying Multi-Type Telecom Data to Transportation Evaluation and Prediction via Multifaceted Graph Modeling**.  *ChungYi Lin (Internet of Things Laboratory, Chunghwa Telecom Laboratories
+National Taiwan University), Shen-Lung Tung, Hung-Ting Su, Winston H. Hsu*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I21.30331)]
+
+13. **Successive POI Recommendation via Brain-Inspired Spatiotemporal Aware Representation**.  *Gehua Ma (College of Computer Science and Technology, Zhejiang University
+The State Key Lab of Brain-Machine Intelligence), He Wang, Jingyuan Zhao, Rui Yan, Huajin Tang*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I1.27813)]
+
+14. **MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction**.  *Hao Qian (Ant Group, Hangzhou), Hongting Zhou, Qian Zhao, Hao Chen, Hongxiang Yao, Jingwei Wang, Ziqi Liu, Fei Yu, Zhiqiang Zhang, Jun Zhou*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I13.29381)]
+
+15. **ModWaveMLP: MLP-Based Mode Decomposition and Wavelet Denoising Model to Defeat Complex Structures in Traffic Forecasting**.  *Ke Sun (Central South University), Pei Liu, Pengfei Li, Zhifang  Liao*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I8.28753)]
+
+16. **Attention-Based Models for Snow-Water Equivalent Prediction**.  *Krishu K Thapa (Washington State University), Bhupinderjeet Singh, Supriya Savalkar, Alan Fern, Kirti Rajagopalan, Ananth Kalyanaraman*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I21.30337)]
+
+17. **Towards Dynamic Spatial-Temporal Graph Learning: A Decoupled Perspective**.  *Binwu Wang (University of Science and Technology of China), Pengkun Wang, Yudong Zhang, Xu Wang, Zhengyang Zhou, Lei Bai, Yang Wang*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I8.28759)]
+
+18. **Fully-Connected Spatial-Temporal Graph for Multivariate Time-Series Data**.  *Yucheng Wang (Institute for Infocomm Research, A*STAR
+Nanyang Technological University), Yuecong Xu, Jianfei Yang, Min Wu, Xiaoli Li, Lihua Xie, Zhenghua Chen*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I14.29500)]
+
+19. **Earthfarsser: Versatile Spatio-Temporal Dynamical Systems Modeling in One Model**.  *Hao Wu (University of Science and Technology of China), Yuxuan Liang, Wei Xiong, Zhengyang Zhou, Wei Huang, Shilong Wang, Kun Wang*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I14.29521)]
+
+20. **Spatial-Temporal Interplay in Human Mobility: A Hierarchical Reinforcement Learning Approach with Hypergraph Representation**.  *Zhaofan Zhang (University of Macau), Yanan Xiao, Lu Jiang, Dingqi Yang, Minghao Yin, Pengyang Wang*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I8.28793)]
+
+21. **Explainable Origin-Destination Crowd Flow Interpolation via Variational Multi-Modal Recurrent Graph Auto-Encoder**.  *Qiang Zhou (Nanjing University of Aeronautics and Astronautics, Nanjing), Xinjiang Lu, Jingjing Gu, Zhe Zheng, Bo Jin, Jingbo Zhou*. ***AAAI 2024*** [[link](https://www.doi.org/10.1609/AAAI.V38I8.28796)]
+
 
 ## ICLR 2024
 
