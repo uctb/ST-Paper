@@ -1,8 +1,9 @@
 # Spatio-Temporal Prediction Papers
 
-This compilation focuses on spatio-temporal prediction papers. Currently, we've collected papers from venues such as KDD, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM, IEEE TITS and IEEE TMC, with ongoing efforts to expand our repository. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. 
+This compilation focuses on spatio-temporal prediction papers. Currently, we've collected papers from venues such as KDD, ICML, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM, IEEE TITS, and IEEE TMC, with ongoing efforts to expand our repository. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. 
 
-- **New! Jun. 2, 2024: Add AAAI 2024!**
+- **New! Jun. 29, 2024: Add ICML 2024!**
+- Jun. 2, 2024: Add AAAI 2024.
 - Apr. 8, 2024: Add IEEE TITS 2023.
 - Apr. 3, 2024: Add IEEE TMC 2021, 2020.
 - Mar. 27, 2024: Add IEEE TMC 2022, 2023.
@@ -11,7 +12,54 @@ This compilation focuses on spatio-temporal prediction papers. Currently, we've 
 - Mar. 12, 2024: Add WSDM 2024.
 - Mar. 2, 2024: Add IEEE TITS 2020-2021.
 - Dec. 24, 2023: Add NeurIPS 2023.
-- Dec. 17, 2023: Add IJCAI 2020, AAAI 2020-2022 and NeurIPS 2020.
+
+## ICML 2024
+
+1. **Neural Jump-Diffusion Temporal Point Processes**.  *Shuai Zhang, Chuan Zhou, Yang Aron Liu, PENG ZHANG, Xixun Lin, Zhi-Ming Ma*. ***ICML 2024*** [[link](https://openreview.net/forum?id=d1P6GtRzuV)]
+
+2. **Time Weaver: A Conditional Time Series Generation Model**.  *Sai Shankar Narasimhan, Shubhankar Agarwal, Oguzhan Akcin, sujay sanghavi, Sandeep P. Chinchali*. ***ICML 2024*** [[link](https://openreview.net/forum?id=WpKDeixmFr)]
+
+3. **Conformal prediction for multi-dimensional time series by ellipsoidal sets**.  *Chen Xu, Hanyang Jiang, Yao Xie*. ***ICML 2024*** [[link](https://openreview.net/forum?id=uN39Tt9P8b)]
+
+4. **FlashST: A Simple and Universal Prompt-Tuning Framework for Traffic Prediction**.  *Zhonghang Li, Lianghao Xia, Yong Xu, Chao Huang*. ***ICML 2024*** [[link](https://openreview.net/forum?id=vye4OgLaTy)]
+
+5. **Reservoir Computing for Short High-Dimensional Time Series: an Application to SARS-CoV-2 Hospitalization Forecast**.  *Thomas Ferté, Dan Dutartre, Boris P Hejblum, Romain Griffier, Vianney Jouhet, Rodolphe Thiébaut, Pierrick Legrand, Xavier Hinaut*. ***ICML 2024*** [[link](https://openreview.net/forum?id=CY0lFwD4qx)]
+
+6. **Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach**.  *Weijia Zhang, Chenlong Yin, Hao Liu, Xiaofang Zhou, Hui Xiong*. ***ICML 2024*** [[link](https://openreview.net/forum?id=UZlMXUGI6e)]
+
+7. **Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling**.  *Ivan Marisca, Cesare Alippi, Filippo Maria Bianchi*. ***ICML 2024*** [[link](https://openreview.net/forum?id=uYIFQOtb58)]
+
+8. **The Merit of River Network Topology for Neural Flood Forecasting**.  *Nikolas Kirschstein, Yixuan Sun*. ***ICML 2024*** [[link](https://openreview.net/forum?id=QE6iC9s6vU)]
+
+9. **MF-CLR: Multi-Frequency Contrastive Learning Representation for Time Series**.  *Jufang Duan, Wei Zheng, Yangzhou Du, Wenfa Wu, Haipeng Jiang, Hongsheng Qi*. ***ICML 2024*** [[link](https://openreview.net/forum?id=ecO7WOIlMD)]
+
+10. **Deep Functional Factor Models: Forecasting High-Dimensional Functional Time Series via Bayesian Nonparametric Factorization**.  *Yirui Liu, Xinghao Qiao, Yulong Pei, Liying Wang*. ***ICML 2024*** [[link](https://openreview.net/forum?id=dHXKCyaIkp)]
+
+11. **Explain Temporal Black-Box Models via Functional Decomposition**.  *Linxiao Yang, Yunze Tong, Xinyue Gu, Liang Sun*. ***ICML 2024*** [[link](https://openreview.net/forum?id=Uo3LNg5SLY)]
+
+12. **Multi-Agent Reinforcement Learning with Hierarchical Coordination for Emergency Responder Stationing**.  *Amutheezan Sivagnanam, Ava Pettet, Hunter Lee, Ayan Mukhopadhyay, Abhishek Dubey, Aron Laszka*. ***ICML 2024*** [[link](https://openreview.net/forum?id=TTZXl9WYFF)]
+
+13. **Position: What Can Large Language Models Tell Us about Time Series Analysis**.  *Ming Jin, YiFan Zhang, Wei Chen, Kexin Zhang, Yuxuan Liang, Bin Yang, Jindong Wang, Shirui Pan, Qingsong Wen*. ***ICML 2024*** [[link](https://openreview.net/forum?id=iroZNDxFJZ)]
+
+14. **Towards a Self-contained Data-driven Global Weather Forecasting Framework**.  *Yi Xiao, LEI BAI, Wei Xue, Hao Chen, Kun Chen, kang chen, Tao Han, Wanli Ouyang*. ***ICML 2024*** [[link](https://openreview.net/forum?id=Y2WorV5ag6)]
+
+15. **From Generalization Analysis to Optimization Designs for State Space Models**.  *Fusheng Liu, Qianxiao Li*. ***ICML 2024*** [[link](https://openreview.net/forum?id=WjNzXeiOSL)]
+
+16. **Multi-Patch Prediction: Adapting Language Models for Time Series Representation Learning**.  *Yuxuan Bian, Xuan Ju, Jiangtong Li, Zhijian Xu, Dawei Cheng, Qiang Xu*. ***ICML 2024*** [[link](https://openreview.net/forum?id=Rx9GMufByc)]
+
+17. **Probabilistic Time Series Modeling with Decomposable Denoising Diffusion Model**.  *Tijin Yan, Hengheng Gong, He YongPing, Yufeng Zhan, Yuanqing Xia*. ***ICML 2024*** [[link](https://openreview.net/forum?id=BNH8spaR3l)]
+
+18. **CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling**.  *Junchao Gong, LEI BAI, Peng Ye, Wanghan Xu, Na Liu, Jianhua Dai, Xiaokang Yang, Wanli Ouyang*. ***ICML 2024*** [[link](https://openreview.net/forum?id=YuNFJSEkTi)]
+
+19. **Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling**.  *Guoqi Yu, Jing Zou, Xiaowei Hu, Angelica I Aviles-Rivero, Jing Qin, Shujun Wang*. ***ICML 2024*** [[link](https://openreview.net/forum?id=87CYNyCGOo)]
+
+20. **CogDPM: Diffusion Probabilistic Models via Cognitive Predictive Coding**.  *Kaiyuan Chen, Xingzhuo Guo, Yu Zhang, Jianmin Wang, Mingsheng Long*. ***ICML 2024*** [[link](https://openreview.net/forum?id=iLSgF7jMtI)]
+
+21. **UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis**.  *Yunhao Zhang, Minghao Liu, Shengyang Zhou, Junchi Yan*. ***ICML 2024*** [[link](https://openreview.net/forum?id=aR3uxWlZhX)]
+
+22. **TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling**.  *Jiaxiang Dong, Haixu Wu, Yuxuan Wang, Yun-Zhong Qiu, Li Zhang, Jianmin Wang, Mingsheng Long*. ***ICML 2024*** [[link](https://openreview.net/forum?id=wrTzLoqbCg)]
+
+23. **Timer: Generative Pre-trained Transformers Are Large Time Series Models**.  *Yong Liu, Haoran Zhang, Chenyu Li, Xiangdong Huang, Jianmin Wang, Mingsheng Long*. ***ICML 2024*** [[link](https://openreview.net/forum?id=bYRYb7DMNo)]
 
 ## AAAI 2024
 
