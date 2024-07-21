@@ -2,7 +2,8 @@
 
 This compilation focuses on spatio-temporal prediction papers. Currently, we've collected papers from venues such as KDD, ICML, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM, IEEE TITS, and IEEE TMC, with ongoing efforts to expand our repository. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. 
 
-- **New! Jun. 29, 2024: Add ICML 2024!**
+- **New! Jul. 21, 2024: Add WWW 2024!**
+- Jun. 29, 2024: Add ICML 2024.
 - Jun. 2, 2024: Add AAAI 2024.
 - Apr. 8, 2024: Add IEEE TITS 2023.
 - Apr. 3, 2024: Add IEEE TMC 2021, 2020.
@@ -11,7 +12,18 @@ This compilation focuses on spatio-temporal prediction papers. Currently, we've 
 - Mar. 20, 2024: Add ICLR 2024.
 - Mar. 12, 2024: Add WSDM 2024.
 - Mar. 2, 2024: Add IEEE TITS 2020-2021.
-- Dec. 24, 2023: Add NeurIPS 2023.
+
+## WWW 2024
+
+1. **Negative Sampling in Next-POI Recommendations: Observation, Approach, and Evaluation**.  *Hong-Kyun Bae (Hanyang University, Seoul), Yebeen Kim, Hyunjoon Kim, Sang-Wook Kim*. ***WWW 2024*** [[link](https://www.doi.org/10.1145/3589334.3645681)]
+
+2. **Unveiling Delay Effects in Traffic Forecasting: A Perspective from Spatial-Temporal Delay Differential Equations**.  *Qingqing Long (Computer Network Information Center, Chinese Academy of Sciences), Zheng Fang, Chen Fang, Chong Chen, Pengfei Wang, Yuanchun Zhou*. ***WWW 2024*** [[link](https://www.doi.org/10.1145/3589334.3645688)]
+
+3. **Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation**.  *Jing Long (The University of Queensland, Brisbane), Tong Chen, Guanhua Ye, Kai Zheng, Quoc Viet Hung Nguyen, Hongzhi Yin*. ***WWW 2024*** [[link](https://www.doi.org/10.1145/3589334.3645410)]
+
+4. **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation**.  *Yu Wang (Zhejiang University, Hangzhou), Tongya Zheng, Yuxuan Liang, Shunyu Liu, Mingli Song*. ***WWW 2024*** [[link](https://www.doi.org/10.1145/3589334.3645469)]
+
+5. **Robust Route Planning under Uncertain Pickup Requests for Last-mile Delivery**.  *Hua Yan (Lehigh University & JD Logistics, Bethlehem), Heng Tan, Haotian Wang, Desheng Zhang, Yu Yang*. ***WWW 2024*** [[link](https://www.doi.org/10.1145/3589334.3645595)]
 
 ## ICML 2024
 
