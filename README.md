@@ -2,7 +2,8 @@
 
 This compilation focuses on spatio-temporal prediction papers. Currently, we've collected papers from venues such as KDD, ICML, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM, IEEE TITS, and IEEE TMC, with ongoing efforts to expand our repository. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. 
 
-- **New! Jul. 21, 2024: Add WWW 2024!**
+- **New! Sep. 5, 2024: Add ICDE 2024!**
+- Jul. 21, 2024: Add WWW 2024.
 - Jun. 29, 2024: Add ICML 2024.
 - Jun. 2, 2024: Add AAAI 2024.
 - Apr. 8, 2024: Add IEEE TITS 2023.
@@ -11,7 +12,42 @@ This compilation focuses on spatio-temporal prediction papers. Currently, we've 
 - Mar. 25, 2024: Add IEEE TITS 2022.
 - Mar. 20, 2024: Add ICLR 2024.
 - Mar. 12, 2024: Add WSDM 2024.
-- Mar. 2, 2024: Add IEEE TITS 2020-2021.
+
+## ICDE 2024
+
+1. **A Unified Replay-Based Continuous Learning Framework for Spatio-Temporal Prediction on Streaming Data**.  *Hao Miao (Aalborg University, Denmark), Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Feiteng Huang, Jiandong Xie, Christian S. Jensen*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00085)]
+
+2. **TimeDRL: Disentangled Representation Learning for Multivariate Time-Series**.  *Ching Chang (National Yang Ming Chiao Tung University, Hsinchu), Chiao-Tung Chan, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00054)]
+
+3. **A Unified Model for Spatio-Temporal Prediction Queries with Arbitrary Modifiable Areal Units**.  *Liyue Chen (Key Lab of High Confidence Software Technologies (Peking University), Ministry of Education), Jiangyi Fang, Tengfei Liu, Shaosheng Cao, Leye Wang*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00111)]
+
+4. **Cross Online Ride-Sharing for Multiple-Platform Cooperations in Spatial Crowdsourcing**.  *Yurong Cheng (Beijing Institute of Technology, China), Zhaohe Liao, Xiaosong Huang, Yi Yang, Xiangmin Zhou, Ye Yuan, Guoren Wang*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00317)]
+
+5. **Deep Learning with Spatiotemporal Data: A Deep Dive into GeotorchAI**.  *Kanchan Chowdhury (Arizona State University, Tempe), Mohamed Sarwat*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00387)]
+
+6. **Cooperative Air-Ground Instant Delivery by UAVs and Crowdsourced Taxis**.  *Junhui Gao (School of Computer Science, Northwestern Polytechnical University), Qianru Wang, Xin Zhang, Juan Shi, Xiang Zhao, Qingye Han, Yan Pan*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00120)]
+
+7. **SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting**.  *Yue Jiang (Nanyang Technological University, Singapore), Xiucheng Li, Yile Chen, Shuai Liu, Weilong Kong, Antonis F. Lentzakis, Gao Cong*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00101)]
+
+8. **Towards Effective Next POI Prediction: Spatial and Semantic Augmentation with Remote Sensing Data**.  *Nan Jiang (Beijing University of Posts and Telecommunications, China), Haitao Yuan, Jianing Si, Minxiao Chen, Shangguang Wang*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00104)]
+
+9. **CausalTAD: Causal Implicit Generative Model for Debiased Online Trajectory Anomaly Detection**.  *Wenbin Li (Institute of Computing Technology, Chinese Academy of Sciences), Di Yao, Chang Gong, Xiaokai Chu, Quanliang Jing, Xiaolei Zhou, Yuxuan Zhang, Yunxia Fan, Jingping Bi*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00341)]
+
+10. **ST-ABC: Spatio-Temporal Attention-Based Convolutional Network for Multi-Scale Lane-Level Traffic Prediction**.  *Shuhao Li (Fudan University, Shanghai), Yue Cui, Libin Li, Weidong Yang, Fan Zhang, Xiaofang Zhou*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00096)]
+
+11. **Learning Time-Aware Graph Structures for Spatially Correlated Time Series Forecasting**.  *Minbo Ma (School of Computing and Artificial Intelligence, Southwest Jiaotong University), Jilin Hu, Christian S. Jensen, Fei Teng, Peng Han, Zhiqiang Xu, Tianrui Li*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00338)]
+
+12. **MUSE-Net: Disentangling Multi-Periodicity for Traffic Flow Forecasting**.  *Jianyang Qin (Harbin Institute of Technology (Shenzhen), Shenzhen), Yan Jia, Yongxin Tong, Heyan Chai, Ye Ding, Xuan Wang, Binxing Fang, Qing Liao*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00103)]
+
+13. **Urban Region Representation Learning with Attentive Fusion**.  *Fengze Sun (The University of Melbourne), Jianzhong Qi, Yanchuan Chang, Xiaoliang Fan, Shanika Karunasekera, Egemen Tanin*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00336)]
+
+14. **Urban Sensing for Multi-Destination Workers via Deep Reinforcement Learning**.  *Shuliang Wang (Beijing Institute of Technology, Beijing), Song Tang, Sijie Ruan, Cheng Long, Yuxuan Liang, Qi Li, Ziqiang Yuan, Jie Bao, Yu Zheng*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00318)]
+
+15. **Managing the Future: Route Planning Influence Evaluation in Transportation Systems**.  *Zizhuo Xu (The Hong Kong University of Science and Technology, Hong Kong SAR), Lei Li, Mengxuan Zhang, Yehong Xu, Xiaofang Zhou*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00347)]
+
+16. **Scaling Up Multivariate Time Series Pre-Training with Decoupled Spatial-Temporal Representations**.  *Rui Zha (School of Computer Science, University of Science and Technology of China), Le Zhang, Shuangli Li, Jingbo Zhou, Tong Xu, Hui Xiong, Enhong Chen*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00057)]
+
+17. **A Just-In-Time Framework for Continuous Routing**.  *Jing Zhao (The Hong Kong University of Science and Technology, Hong Kong SAR), Lei Li, Mengxuan Zhang, Zihan Luo, Xi Zhao, Xiaofang Zhou*. ***ICDE 2024*** [[link](https://www.doi.org/10.1109/ICDE60146.2024.00350)]
 
 ## WWW 2024
 
