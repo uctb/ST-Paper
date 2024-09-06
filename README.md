@@ -2,7 +2,8 @@
 
 This compilation focuses on spatio-temporal prediction papers. Currently, we've collected papers from venues such as KDD, ICML, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM, IEEE TITS, and IEEE TMC, with ongoing efforts to expand our repository. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. 
 
-- **New! Sep. 5, 2024: Add ICDE 2024!**
+- **New! Sep. 6, 2024: Add KDD 2024!**
+- Sep. 5, 2024: Add ICDE 2024.
 - Jul. 21, 2024: Add WWW 2024.
 - Jun. 29, 2024: Add ICML 2024.
 - Jun. 2, 2024: Add AAAI 2024.
@@ -11,7 +12,76 @@ This compilation focuses on spatio-temporal prediction papers. Currently, we've 
 - Mar. 27, 2024: Add IEEE TMC 2022, 2023.
 - Mar. 25, 2024: Add IEEE TITS 2022.
 - Mar. 20, 2024: Add ICLR 2024.
-- Mar. 12, 2024: Add WSDM 2024.
+
+## KDD 2024
+
+1. **ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions**.  *Zhichen Lai (Department of Computer Science, Aalborg University), Dalin Zhang, Huan Li, Dongxiang Zhang, Hua Lu, Christian S. Jensen*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671816)]
+
+2. **Weather Knows What Will Occur: Urban Public Nuisance Events Prediction and Control with Meteorological Assistance**.  *Yi Xie (Shanghai Key Lab of Data Science, School of Computer Science), Tianyu Qiu, Yun Xiong, Xiuqi Huang, Xiaofeng Gao, Chao Chen, Qiang Wang, Haihong Li*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671639)]
+
+3. **Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks**.  *Weijia Zhang (HKUST(GZ), Guangzhou), Le Zhang, Jindong Han, Hao Liu, Yanjie Fu, Jingbo Zhou, Yu Mei, Hui Xiong*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671665)]
+
+4. **UniST: A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction**.  *Yuan Yuan (Department of Electronic Engineering, BNRist), Jingtao Ding, Jie Feng, Depeng Jin, Yong Li*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671662)]
+
+5. **Diffusion Model-based Mobile Traffic Generation with Open Data for Network Planning and Optimization**.  *Haoye Chai (Department of Electronic Engineering, BNRist), Tao Jiang, Li Yu*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671544)]
+
+6. **Profiling Urban Streets: A Semi-Supervised Prediction Model Based on Street View Imagery and Spatial Topology**.  *Meng Chen (School of Software, Shandong University), Zechen Li, Weiming Huang, Yongshun Gong, Yilong Yin*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671918)]
+
+7. **Advances in Human Event Modeling: From Graph Neural Networks to Language Models**.  *Songgaojun Deng (University of Amsterdam, Amsterdam), Maarten de Rijke, Yue Ning*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671466)]
+
+8. **Time-Aware Attention-Based Transformer (TAAT) for Cloud Computing System Failure Prediction**.  *Lingfei Deng (Alibaba Cloud, Alibaba Group), Yunong Wang, Haoran Wang, Xuhua Ma, Xiaoming Du, Xudong Zheng, Dongrui Wu*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671547)]
+
+9. **Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting**.  *Zheng Dong (Southern University of Science and Technology, Shenzhen), Renhe Jiang, Haotian Gao, Hangchen Liu, Jinliang Deng, Qingsong Wen, Xuan Song*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671961)]
+
+10. **ROTAN: A Rotation-based Temporal Attention Network for Time-Specific Next POI Recommendation**.  *Shanshan Feng (Centre for Frontier AI Research, A*STAR & Institute of High Performance Computing), Feiyu Meng, Lisi Chen, Shuo Shang, Yew Soon Ong*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671809)]
+
+11. **Communication-efficient Multi-service Mobile Traffic Prediction by Leveraging Cross-service Correlations**.  *Zhiying Feng (School of Computer Science and Engineering, Sun Yat-sen University), Qiong Wu, Xu Chen*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671730)]
+
+12. **SensitiveHUE: Multivariate Time Series Anomaly Detection by Enhancing the Sensitivity to Normal Patterns**.  *Yuye Feng (Hikvision Research Institute, Hangzhou), Wei Zhang, Yao Fu, Weihao Jiang, Jiang Zhu, Wenqi Ren*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671919)]
+
+13. **Transportation Marketplace Rate Forecast Using Signature Transform**.  *Haotian Gu (University of California, Berkeley), Xin Guo, Timothy L. Jacobs, Philip Kaminsky, Xinyu Li*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671637)]
+
+14. **Explainable and Interpretable Forecasts on Non-Smooth Multivariate Time Series for Responsible Gameplay**.  *Hussain Jagirdar (Games24x7, Bengaluru), Rukma Talwadker, Aditya Pareek, Pulkit Agrawal, Tridib Mukherjee*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671657)]
+
+15. **Addressing Prediction Delays in Time Series Forecasting: A Continuous GRU Approach with Derivative Regularization**.  *Sheo Yon Jhin (Yonsei University, Seoul), Seojin Kim, Noseong Park*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671969)]
+
+16. **Interpretable Cascading Mixture-of-Experts for Urban Traffic Congestion Prediction**.  *Wenzhao Jiang (The Hong Kong University of Science and Technology (Guangzhou), Guangzhou), Jindong Han, Hao Liu, Tao Tao, Naiqiang Tan, Hui Xiong*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671507)]
+
+17. **UrbanGPT: Spatio-Temporal Large Language Models**.  *Zhonghang Li (South China University of Technology & The University of Hong Kong, Guangzhou), Lianghao Xia, Jiabin Tang, Yong Xu, Lei Shi, Long Xia, Dawei Yin, Chao Huang*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671578)]
+
+18. **An Open and Large-Scale Dataset for Multi-Modal Climate Change-aware Crop Yield Predictions**.  *Fudong Lin (University of Delaware, Newark), Kaleb Guillot, Summer Crawford, Yihe Zhang, Xu Yuan, Nian-Feng Tzeng*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671536)]
+
+19. **MulSTE: A Multi-view Spatio-temporal Learning Framework with Heterogeneous Event Fusion for Demand-supply Prediction**.  *Li Lin (Southeast University, Nanjing), Zhiqiang Lu, Shuai Wang, Yunhuai Liu, Zhiqing Hong, Haotian Wang, Shuai Wang*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3672030)]
+
+20. **Integrating System State into Spatio Temporal Graph Neural Network for Microservice Workload Prediction**.  *Yang Luo (Shanghai Jiao Tong University, Shanghai), Mohan Gao, Zhemeng Yu, Haoyuan Ge, Xiaofeng Gao, Tengwei Cai, Guihai Chen*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671508)]
+
+21. **FusionSF: Fuse Heterogeneous Modalities in a Vector Quantized Framework for Robust Solar Power Forecasting**.  *Ziqing Ma (DAMO Academy, Alibaba Group), Wenwei Wang, Tian Zhou, Chao Chen, Bingqing Peng, Liang Sun, Rong Jin*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671509)]
+
+22. **ImputeFormer: Low Rankness-Induced Transformers for Generalizable Spatiotemporal Imputation**.  *Tong Nie (Tongji University, Shanghai), Guoyang Qin, Wei Ma, Yuewen Mei, Jian Sun*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671751)]
+
+23. **Mining of Switching Sparse Networks for Missing Value Imputation in Multivariate Time Series**.  *Kohei Obata (SANKEN, Osaka University), Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671760)]
+
+24. **Spatio-Temporal Consistency Enhanced Differential Network for Interpretable Indoor Temperature Prediction**.  *Dekang Qi (Southwest Jiaotong University & JD iCity, JD Technology), Xiuwen Yi, Chengjie Guo, Yanyong Huang, Junbo Zhang, Tianrui Li, Yu Zheng*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671608)]
+
+25. **STEMO: Early Spatio-temporal Forecasting with Multi-Objective Reinforcement Learning**.  *Wei Shao (Data61, CSIRO), Yufan Kang, Ziyan Peng, Xiao Xiao, Lei Wang, Yuhui Yang, Flora D. Salim*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671922)]
+
+26. **Robust Predictions with Ambiguous Time Delays: A Bootstrap Strategy**.  *Jiajie Wang (Changsha Research Institute of Mining and Metallurgy, Changsha), Zhiyuan Jerry Lin, Wen Chen*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671920)]
+
+27. **STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts**.  *Binwu Wang (University of Science and Technology of China, Hefei), Jiaming Ma, Pengkun Wang, Xu Wang, Yudong Zhang, Zhengyang Zhou, Yang Wang*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671680)]
+
+28. **DiffCrime: A Multimodal Conditional Diffusion Model for Crime Risk Map Inference**.  *Shuliang Wang (Beijing Institute of Technology, Beijing), Xinyu Pan, Sijie Ruan, Haoyu Han, Ziyu Wang, Hanning Yuan, Jiabao Zhu, Qi Li*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671843)]
+
+29. **LaDe: The First Comprehensive Last-mile Express Dataset from Industry**.  *Lixia Wu (Cainiao Network, Hangzhou), Haomin Wen, Haoyuan Hu, Xiaowei Mao, Yutong Xia, Ergang Shan, Jianbin Zheng, Junhong Lou, Yuxuan Liang, Liuqing Yang, Roger Zimmermann, Youfang Lin, Huaiyu Wan*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671548)]
+
+30. **FedGTP: Exploiting Inter-Client Spatial Dependency in Federated Graph-based Traffic Prediction**.  *Linghua Yang (SKLCCSE Lab, Beihang University), Wantong Chen, Xiaoxi He, Shuyue Wei, Yi Xu, Zimu Zhou, Yongxin Tong*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671613)]
+
+31. **RPMixer: Shaking Up Time Series Forecasting with Random Projections for Large Spatial-Temporal Data**.  *Chin-Chia Michael Yeh (Visa Research, Foster City), Yujie Fan, Xin Dai, Uday Singh Saini, Vivian Lai, Prince Osei Aboagye, Junpeng Wang, Huiyuan Chen, Yan Zheng, Zhongfang Zhuang, Liang Wang, Wei Zhang*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671881)]
+
+32. **GinAR: An End-To-End Multivariate Time Series Forecasting Model Suitable for Variable Missing**.  *Chengqing Yu (Institute of Computing Technology, Chinese Academy of Sciences & University of Chinese Academy of Sciences), Fei Wang, Zezhi Shao, Tangwen Qian, Zhao Zhang, Wei Wei, Yongjun Xu*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3672055)]
+
+33. **Learning Flexible Time-windowed Granger Causality Integrating Heterogeneous Interventional Time Series Data**.  *Ziyi Zhang (Texas A&M University, College Station), Shaogang Ren, Xiaoning Qian, Nick Duffield*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3672023)]
+
+34. **ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model**.  *Yuanshao Zhu (Southern University of Science and Technology & City University of Hong Kong, Shenzhen), James Jianqiao Yu, Xiangyu Zhao, Qidong Liu, Yongchao Ye, Wei Chen, Zijian Zhang, Xuetao Wei, Yuxuan Liang*. ***KDD 2024*** [[link](https://www.doi.org/10.1145/3637528.3671866)]
 
 ## ICDE 2024
 
