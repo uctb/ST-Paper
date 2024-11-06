@@ -1993,3 +1993,12 @@ Baidu), Jingbo Zhou, Jizhou Huang, An Zhuo, Ji Liu, Haoyi Xiong, Dejing Dou*. **
 
 18. **Spatial–Temporal Deep Tensor Neural Networks for Large-Scale Urban Network Speed Prediction**.  *Lingxiao Zhou (Institute of Intelligent Transportation Systems, College of Civil Engineering and Architecture), Shuaichao Zhang, Jingru Yu, Xiqun Chen*. ***TITS 2020*** [[link](https://www.doi.org/10.1109/TITS.2019.2932038)]
 
+
+## Star History
+
+<picture>
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=uctb/ST-Paper&type=Date"
+  />
+</picture>
