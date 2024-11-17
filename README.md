@@ -2,7 +2,8 @@
 
 This compilation focuses on spatio-temporal prediction papers. Currently, we've collected papers from venues such as KDD, ICML, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM, IEEE TITS, and IEEE TMC, with ongoing efforts to expand our repository. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. 
 
-- **New! Nov. 16, 2024: Add NeurIPS 2024 and CIKM 2024!**
+- **New! Nov. 17, 2024: Add IEEE TMC 2024!**
+- Nov. 16, 2024: Add NeurIPS 2024 and CIKM 2024.
 - Sep. 6, 2024: Add KDD 2024.
 - Sep. 5, 2024: Add ICDE 2024.
 - Jul. 21, 2024: Add WWW 2024.
@@ -11,7 +12,28 @@ This compilation focuses on spatio-temporal prediction papers. Currently, we've 
 - Apr. 8, 2024: Add IEEE TITS 2023.
 - Apr. 3, 2024: Add IEEE TMC 2021, 2020.
 - Mar. 27, 2024: Add IEEE TMC 2022, 2023.
-- Mar. 25, 2024: Add IEEE TITS 2022.
+
+## TMC 2024
+
+1. **Forecasting Citywide Crowd Transition Process via Convolutional Recurrent Neural Networks**.  *Zekun Cai (Center for Spatial Information Science, The University of Tokyo), Renhe Jiang, Xinlei Lian, Chuang Yang, Zhaonan Wang, Zipei Fan, Kota Tsubouchi, Hill Hiroki Kobayashi, Xuan Song, Ryosuke Shibasaki*. ***TMC 2024*** [[link](https://www.doi.org/10.1109/TMC.2023.3310789)]
+
+2. **DMSTG: Dynamic Multiview Spatio-Temporal Networks for Traffic Forecasting**.  *Zulong Diao (Department of Network Technology Research Center, Institute of Computing Technology), Xin Wang, Dafang Zhang, Gaogang Xie, Jianguo Chen, Changhua Pei, Xuying Meng, Kun Xie, Guangxing Zhang*. ***TMC 2024*** [[link](https://www.doi.org/10.1109/TMC.2023.3328038)]
+
+3. **A Gossip Learning Approach to Urban Trajectory Nowcasting for Anticipatory RAN Management**.  *Mina Aghaei Dinani (University of Neuchatel, Neuchatel), Adrian Holzer, Hung Nguyen, Marco Ajmone Marsan, Gianluca Rizzo*. ***TMC 2024*** [[link](https://www.doi.org/10.1109/TMC.2023.3320551)]
+
+4. **Learning Co-occurrence Patterns for Next Destination Recommendation**.  *Hui Fang (Zhejiang Provincial Key Laboratory of Service Robot, College of Computer Science), Zhu Xiao, Pengfei Zheng, Hongyang Chen, Zhao Li, Jiajun Bu, Haishuai Wang*. ***TMC 2024*** [[link](https://www.doi.org/10.1109/TMC.2023.3333944)]
+
+5. **Extending Beacon Lifetime by Predicting User Occupancy Using Deep Neural Networks**.  *Kang Eun Jeon (HKUST-NIE Social Media Lab, Department of Electronic and Computer Engineering), James She*. ***TMC 2024*** [[link](https://www.doi.org/10.1109/TMC.2024.3350045)]
+
+6. **Human Mobility Prediction Based on Trend Iteration of Spectral Clustering**.  *Wenzhen Jia (School of Software, Tongji University), Shengjie Zhao, Kai Zhao*. ***TMC 2024*** [[link](https://www.doi.org/10.1109/TMC.2023.3288132)]
+
+7. **TrajBERT: BERT-Based Trajectory Recovery With Spatial-Temporal Refinement for Implicit Sparse Trajectories**.  *Junjun Si (School of Software and Microelectronics, Peking University), Jin Yang, Yang Xiang, Hanqiu Wang, Li Li, Rongqing Zhang, Bo Tu, Xiangqun Chen*. ***TMC 2024*** [[link](https://www.doi.org/10.1109/TMC.2023.3297115)]
+
+8. **Bayesian Meta-Learning for Adaptive Traffic Prediction in Wireless Networks**.  *Zihuan Wang (Department of Electrical and Computer Engineering, University of British Columbia), Vincent W. S. Wong*. ***TMC 2024*** [[link](https://www.doi.org/10.1109/TMC.2023.3325301)]
+
+9. **Mobility-Aware Deep Reinforcement Learning With Seq2seq Mobility Prediction for Offloading and Allocation in Edge Computing**.  *Chao-Lun Wu (Research Center for Information Technology Innovation, Academia Sinica), Te-Chuan Chiu, Chih-Yu Wang, Ai-Chun Pang*. ***TMC 2024*** [[link](https://www.doi.org/10.1109/TMC.2023.3328996)]
+
+10. **Predicting Collective Human Mobility via Countering Spatiotemporal Heterogeneity**.  *Zhengyang Zhou (University of Science and Technology of China, Hefei), Kuo Yang, Yuxuan Liang, Binwu Wang, Hongyang Chen, Yang Wang*. ***TMC 2024*** [[link](https://www.doi.org/10.1109/TMC.2023.3296501)]
 
 ## NeurIPS 2024
 
