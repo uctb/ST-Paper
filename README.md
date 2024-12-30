@@ -2,7 +2,8 @@
 
 This compilation focuses on spatio-temporal prediction papers. Currently, we've collected papers from venues such as KDD, ICML, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM, IEEE TITS, and IEEE TMC, with ongoing efforts to expand our repository. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. 
 
-- **New! Nov. 17, 2024: Add IEEE TMC 2024!**
+- **New! Dec. 30, 2024: Add IJCAI 2024!**
+- Nov. 17, 2024: Add IEEE TMC 2024.
 - Nov. 16, 2024: Add NeurIPS 2024 and CIKM 2024.
 - Sep. 6, 2024: Add KDD 2024.
 - Sep. 5, 2024: Add ICDE 2024.
@@ -11,7 +12,34 @@ This compilation focuses on spatio-temporal prediction papers. Currently, we've 
 - Jun. 2, 2024: Add AAAI 2024.
 - Apr. 8, 2024: Add IEEE TITS 2023.
 - Apr. 3, 2024: Add IEEE TMC 2021, 2020.
-- Mar. 27, 2024: Add IEEE TMC 2022, 2023.
+
+## IJCAI 2024
+
+1. **Large Language Models for Time Series: A Survey**.  *Xiyuan Zhang, Ranak Roy Chowdhury, Rajesh K. Gupta, Jingbo Shang*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/921)]
+2. **Pre-DyGAE: Pre-training Enhanced Dynamic Graph Autoencoder for Occupational Skill Demand Forecasting**.  *Xi Chen, Chuan Qin, Zhigaoyuan Wang, Yihang Cheng, Chao Wang, Hengshu Zhu, Hui Xiong*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/222)]
+3. **Multi-Modality Spatio-Temporal Forecasting via Self-Supervised Learning**.  *Jiewen Deng, Renhe Jiang, Jiaqi Zhang, Xuan Song*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/223)]
+4. **Spatio-Temporal Field Neural Networks for Air Quality Inference**.  *Yutong Feng, Qiongyan Wang, Yutong Xia, Junlin Huang, Siru Zhong, Yuxuan Liang*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/803)]
+5. **Spatial-Temporal-Decoupled Masked Pre-training for Spatiotemporal Forecasting**.  *Haotian Gao, Renhe Jiang, Zheng Dong, Jinliang Deng, Yuxin Ma, Xuan Song*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/442)]
+6. **Enhancing Fine-Grained Urban Flow Inference via Incremental Neural Operator**.  *Qiang Gao, Xiaolong Song, Li Huang, Goce Trajcevski, Fan Zhou, Xueqin Chen*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/644)]
+7. **Temporal Graph ODEs for Irregularly-Sampled Time Series**.  *Alessio Gravina, Daniele Zambon, Davide Bacciu, Cesare Alippi*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/445)]
+8. **Learning Hierarchy-Enhanced POI Category Representations Using Disentangled Mobility Sequences**.  *Hongwei Jia, Meng Chen, Weiming Huang, Kai Zhao, Yongshun Gong*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/231)]
+9. **Empowering Time Series Analysis with Large Language Models: A Survey**.  *Yushan Jiang, Zijie Pan, Xikun Zhang, Sahil Garg, Anderson Schneider, Yuriy Nevmyvaka, Dongjin Song*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/895)]
+10. **REAVER: Real-time Earthquake Prediction with Attention-based Sliding-Window Spectrograms**.  *Lotfy Abdel Khaliq, Sabine Janzen, Wolfgang Maass*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/988)]
+11. **Enhancing Sustainable Urban Mobility Prediction with Telecom Data: A Spatio-Temporal Framework Approach**.  *ChungYi Lin, Shen-Lung Tung, Hung-Ting Su, Winston H. Hsu*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/812)]
+12. **An NCDE-based Framework for Universal Representation Learning of Time Series**.  *Zihan Liu, Bowen Du, Junchen Ye, Xianqing Wen, Leilei Sun*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/511)]
+13. **Full Bayesian Significance Testing for Neural Networks in Traffic Forecasting**.  *Zehua Liu, Jingyuan Wang, Zimeng Li, Yue He*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/245)]
+14. **Towards Robust Trajectory Representations: Isolating Environmental Confounders with Causal Learning**.  *Kang Luo, Yuanshao Zhu, Wei Chen, Kun Wang, Zhengyang Zhou, Sijie Ruan, Yuxuan Liang*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/248)]
+15. **Multi-Relational Graph Attention Network for Social Relationship Inference from Human Mobility Data**.  *Guangming Qin, Jianpeng Qi, Bin Wang, Guiyuan Jiang, Yanwei Yu, Junyu Dong*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/256)]
+16. **A Framework for Centralized Traffic Routing in Urban Areas**.  *Matyáš Švadlenka, Lukas Chrpa*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/1038)]
+17. **Make Bricks with a Little Straw: Large-Scale Spatio-Temporal Graph Learning with Restricted GPU-Memory Capacity**.  *Binwu Wang, Pengkun Wang, Zhengyang Zhou, Zhe Zhao, Wei Xu, Yang Wang*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/264)]
+18. **Decoupled Invariant Attention Network for Multivariate Time-series Forecasting**.  *Haihua Xu, Wei Fan, Kun Yi, Pengyang Wang*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/275)]
+19. **Personalized Federated Learning for Cross-City Traffic Prediction**.  *Yu Zhang, Hua Lu, Ning Liu, Yonghui Xu, Qingzhong Li, Lizhen Cui*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/611)]
+20. **DeepLight: Reconstructing High-Resolution Observations of Nighttime Light With Multi-Modal Remote Sensing Data**.  *Lixian Zhang, Runmin Dong, Shuai Yuan, Jinxiao Zhang, Mengxuan Chen, Juepeng Zheng, Haohuan Fu*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/837)]
+21. **Skip-Timeformer: Skip-Time Interaction Transformer for Long Sequence Time-Series Forecasting**.  *Wenchang Zhang, Hua Wang, Fan Zhang*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/608)]
+22. **Predicting Carpark Availability in Singapore with Cross-Domain Data: A New Dataset and A Data-Driven Approach**.  *Huaiwu Zhang, Yutong Xia, Siru Zhong, Kun Wang, Zekun Tong, Qingsong Wen, Roger Zimmermann, Yuxuan Liang*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/836)]
+23. **A Graph-based Representation Framework for Trajectory Recovery via Spatiotemporal Interval-Informed Seq2Seq**.  *Yaya Zhao, Kaiqi Zhao, Zhiqian Chen, Yuanyuan Zhang, Yalei Du, Xiaoling Lu*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/286)]
+24. **Make Graph Neural Networks Great Again: A Generic Integration Paradigm of Topology-Free Patterns for Traffic Speed Prediction**.  *Yicheng Zhou, Pengfei Wang, Hao Dong, Denghui Zhang, Dingqi Yang, Yanjie Fu, Pengyang Wang*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/288)]
+25. **SCAT: A Time Series Forecasting with Spectral Central Alternating Transformers**.  *Chengjie Zhou, Chao Che, Pengfei Wang, Qiang Zhang*. ***IJCAI 2024*** [[link](https://www.ijcai.org/proceedings/2024/622)]
 
 ## TMC 2024
 
