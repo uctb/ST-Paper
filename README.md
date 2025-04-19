@@ -2,7 +2,8 @@
 
 This compilation focuses on spatio-temporal prediction papers. Currently, we've collected papers from venues such as KDD, ICML, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, WSDM, CIKM, IEEE TITS, and IEEE TMC, with ongoing efforts to expand our repository. Note that the metadata may not encompass all relevant papers and could include unrelated ones, as selected by large language models. 
 
-- **New! Dec. 30, 2024: Add IJCAI 2024!**
+- **New! Apr. 19, 2025: Add KDD 2025 (the first cycle) !**
+- Dec. 30, 2024: Add IJCAI 2024.
 - Nov. 17, 2024: Add IEEE TMC 2024.
 - Nov. 16, 2024: Add NeurIPS 2024 and CIKM 2024.
 - Sep. 6, 2024: Add KDD 2024.
@@ -11,7 +12,42 @@ This compilation focuses on spatio-temporal prediction papers. Currently, we've 
 - Jun. 29, 2024: Add ICML 2024.
 - Jun. 2, 2024: Add AAAI 2024.
 - Apr. 8, 2024: Add IEEE TITS 2023.
-- Apr. 3, 2024: Add IEEE TMC 2021, 2020.
+
+## KDD 2025
+
+1. **MM-Path: Multi-modal, Multi-granularity Path Representation Learning**.  *Ronghui Xu (East China Normal University, Shanghai), Hanyin Cheng, Chenjuan Guo, Hongfan Gao, Jilin Hu, Sean Bin Yang, Bin Yang*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709209)]
+
+2. **Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective**.  *Yuchen Fang (University of Electronic Science and Technology of China, Chengdu), Yuxuan Liang, Bo Hui, Zezhi Shao, Liwei Deng, Xu Liu, Xinke Jiang, Kai Zheng*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709177)]
+
+3. **Probabilistic Hypergraph Recurrent Neural Networks for Time-series Forecasting**.  *Hongjie Chen (Dolby Laboratories, Atlanta), Ryan A. Rossi, Sungchul Kim, Kanak Mahadik, Hoda Eldardiry*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709202)]
+
+4. **Modeling Time-evolving Causality over Data Streams**.  *Naoki Chihara (SANKEN, Osaka University), Yasuko Matsubara, Ren Fujiwara, Yasushi Sakurai*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709283)]
+
+5. **Revisiting Synthetic Human Trajectories: Imitative Generation and Benchmarks Beyond Datasaurus**.  *Bangchao Deng (University of Macau, Macau), Xin Jing, Tianyue Yang, Bingqing Qu, Dingqi Yang, Philippe Cudre-Mauroux*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709180)]
+
+6. **Dynamic Localisation of Spatial-Temporal Graph Neural Network**.  *Wenying Duan (Jiangxi Provincial Key Laboratory of Intelligent Systems and Human-Machine Interaction, Nanchang University), Shujun Guo, Zimu Zhou, Wei Huang, Hong Rao, Xiaoxi He*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709331)]
+
+7. **D-Tracker: Modeling Interest Diffusion in Social Activity Tensor Data Streams**.  *Shingo Higashiguchi (SANKEN, Osaka University), Yasuko Matsubara, Koki Kawabata, Taichi Murayama, Yasushi Sakurai*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709192)]
+
+8. **Seeing the Unseen: Learning Basis Confounder Representations for Robust Traffic Prediction**.  *Jiahao Ji (School of Computer Science and Engineering, Beihang University), Wentao Zhang, Jingyuan Wang, Chao Huang*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709201)]
+
+9. **A Universal Model for Human Mobility Prediction**.  *Qingyue Long (Department of Electronic Engineering, BNRist), Yuan Yuan, Yong Li*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709236)]
+
+10. **AutoSTF: Decoupled Neural Architecture Search for Cost-Effective Automated Spatio-Temporal Forecasting**.  *Tengfei Lyu (The Hong Kong University of Science and Technology (Guangzhou), Guangzhou), Weijia Zhang, Jinliang Deng, Hao Liu*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709323)]
+
+11. **DynST: Dynamic Sparse Training for Resource-Constrained Spatio-Temporal Forecasting**.  *Hao Wu (University of Science and Technology of China, Hefei), Haomin Wen, Guibin Zhang, Yutong Xia, Yuxuan Liang, Yu Zheng, Qingsong Wen, Kun Wang*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709391)]
+
+12. **ProST: Prompt Future Snapshot on Dynamic Graphs for Spatio-Temporal Prediction**.  *Kaiwen Xia (Southeast University, Nanjing), Li Lin, Shuai Wang, Qi Zhang, Shuai Wang, Tian He*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709273)]
+
+13. **Effective AOI-level Parcel Volume Prediction: When Lookahead Parcels Matter**.  *Yinfeng Xiang (Zhejiang University, Hangzhou), Jiangyi Fang, Chao Li, Haitao Yuan, Yiwei Song, Jiming Chen*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709441)]
+
+14. **Scalable Area Difficulty Assessment with Knowledge-enhanced AI for Nationwide Logistics Systems**.  *Zejun Xie (Rutgers University, Piscataway), Wenjun Lyu, Yiwei Song, Haotian Wang, Guang Yang, Yunhuai Liu, Tian He, Desheng Zhang, Guang Wang*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709407)]
+
+15. **CausalMob: Causal Human Mobility Prediction with LLMs-derived Human Intentions toward Public Events**.  *Xiaojie Yang (The University of Tokyo, Tokyo), Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709231)]
+
+16. **Large-scale Human Mobility Data Regeneration for Open Urban Research**.  *Ruixing Zhang (The State Key Laboratory of Complex and Critical Software Environment, Beihang University), Yunqi Liu, Liangzhe Han, Leilei Sun, Chuanren Liu, Jibin Wang, Weifeng Lv*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709380)]
+
+17. **Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting**.  *Lifan Zhao (Shanghai Jiao Tong University, Shanghai), Yanyan Shen*. ***KDD 2025*** [[link](https://www.doi.org/10.1145/3690624.3709210)]
 
 ## IJCAI 2024
 
